@@ -637,6 +637,7 @@ acquire_core_state = {
 		any_owned_province = {
 			is_core = THIS
 		}
+		not = { any_owned_province = { is_capital = yes } }
 	}
 
 	po_demand_state = yes
@@ -1048,7 +1049,6 @@ free_peoples = {
 							tag = ROM
 							tag = CZH
 							tag = HOY
-							tag = ARA
 						}
 					}
 				}
@@ -1132,7 +1132,6 @@ liberate_country = {
 							#tag = ROM # TODO: shoudl we let the rest be liberated too?
 							tag = CZH
 							tag = HOY
-							tag = ARA
 						}
 					}
 				}
@@ -2282,6 +2281,7 @@ take_capital = {
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
+			not = { is_core = THIS }
 			is_colonial = no
 		}
 		OR = {
