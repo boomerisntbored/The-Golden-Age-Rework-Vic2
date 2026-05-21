@@ -1,0 +1,371 @@
+
+#Leaders
+leader = {
+    name = "Thomas Cochrane"
+    date = 1443.1.1
+    type = sea
+    personality = defence_0.1
+    background = attack_1.1
+    prestige = 0.1
+}
+
+leader = {
+    name = "Sir Edward Codrington"
+    date = 1443.1.1
+    type = sea
+    personality = defence_4.1
+    background = attack_5.1
+    prestige = 0.5
+}
+
+leader = {
+    name = "Hugh Gough"
+    date = 1443.1.1
+    type = land
+    personality = defence_2.1
+    background = attack_2.1
+    prestige = 0.1
+}
+
+leader = {
+    name = "Sir George Cockburn"
+    date = 1443.1.1
+    type = sea
+    personality = defence_4.1
+    background = attack_4.1
+    prestige = 0.5
+}
+
+leader = {
+    name = "John Seaton"
+    date = 1443.1.1
+    type = land
+    personality = defence_1.1
+    background = attack_0.1
+    prestige = 0.2
+}
+
+leader = {
+    name = "Whitworth-Aylmer"
+    date = 1443.1.1
+    type = land
+    personality = defence_minus_1.1
+    background = attack_1.1
+    prestige = 0.1
+}
+
+
+
+#Armies
+army = {
+	name = "Army of London"
+	location = 300
+	
+	regiment = {
+		name= "1. England Infantry"
+		type = infantry
+		home = 284
+	}
+	regiment = {
+		name= "2. England Infantry"
+		type = infantry
+		home = 291
+	}
+
+	regiment = {
+		name= "3. England Infantry"
+		type = infantry
+		home = 284
+		}
+		
+	regiment = {
+		name= "3. England Infantry"
+		type = infantry
+		home = 285
+		}
+	
+	regiment = {
+		name= "5. England Infantry"
+		type = infantry
+		home = 291
+	}
+
+	regiment = {
+		name= "6. England Infantry"
+		type = infantry
+		home = 284
+	}
+
+	}
+
+	regiment = {
+		name= "7. England Infantry"
+		type = infantry
+		home = 284
+	}
+
+	regiment = {
+		name= "1. England Hussar"
+		type = hussar
+		home = 290
+	}
+
+	regiment = {
+		name= "1. England Artillery"
+		type = artillery
+		home = 289
+	}
+
+	regiment = {
+		name= "2. England Artillery"
+		type = artillery
+		home = 300
+	}
+
+	regiment = {
+		name= "3. England Artillery"
+		type = artillery
+		home = 291
+	}
+
+	regiment = {
+		name= "1. England Artillery"
+		type = artillery
+		home = 294
+	}
+
+	regiment = {
+		name= "2. England Artillery"
+		type = artillery
+		home = 300
+	}
+
+	regiment = {
+		name= "3. England Artillery"
+		type = artillery
+		home = 300
+	}
+ }
+army = {
+	name = "Army of Oxford"
+	location = 294
+	
+	regiment = {
+        name= "8. England Infantry"
+        type = infantry
+        home = 281
+    }
+
+    regiment = {
+        name= "9. England Infantry"
+        type = infantry
+        home = 286
+    }
+
+    regiment = {
+        name= "10. England Infantry"
+        type = infantry
+        home = 293
+    }
+        
+    regiment = {
+        name= "11. England Infantry"
+        type = infantry
+        home = 296
+    }
+
+    regiment = {
+        name= "12. England Infantry"
+        type = infantry
+        home = 288
+    }
+
+    regiment = {
+        name= "13. England Infantry"
+        type = infantry
+        home = 299
+    }
+
+    regiment = {
+        name= "14. England Hussar"
+        type = hussar
+        home = 282
+    }
+
+    regiment = {
+        name= "2. England Hussar"
+        type = hussar
+        home = 285
+    }
+
+    regiment = {
+        name= "4. England Artillery"
+        type = artillery
+        home = 290
+    }
+
+    regiment = {
+        name= "5. England Artillery"
+        type = artillery
+        home = 295
+    }
+
+    regiment = {
+        name= "6. England Artillery"
+        type = artillery
+        home = 287
+    }
+
+    regiment = {
+        name= "7. England Artillery"
+        type = artillery
+        home = 292
+    }
+
+    regiment = {
+        name= "8. England Artillery"
+        type = artillery
+        home = 298
+    }
+
+    regiment = {
+        name= "9. England Artillery"
+        type = artillery
+        home = 300
+    }
+}
+
+#Navy
+navy = {
+	name = "Channel Fleet"
+	location = 303
+	ship = {
+		name= "HMS Asia"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Belleisle"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Bellerophon"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Bombay"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Britannia"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Calcutta"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Camperdown"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Carnatic"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Clarence"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Formidable"
+		type = manowar
+	}
+		ship = {
+		name= "HMS Thisbe"
+		type = frigate
+	}
+	
+	ship = {
+		name= "HMS Diana"
+		type = frigate
+	}
+	
+	ship = {
+		name= "HMS Madagascar"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Portland"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Winchester"
+		type = frigate
+	}
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "24th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "25th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "26th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
