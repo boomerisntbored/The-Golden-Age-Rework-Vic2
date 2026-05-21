@@ -5,7 +5,11 @@ political_decisions = {
 
 		potential = {
 			ARA = { exists = no }
-			is_culture_group = arab
+			OR = {
+                        is_culture_group = arab
+						tag = TIM
+						tag = PER
+                    }
 		}
 		
 		allow = {
@@ -27,6 +31,11 @@ political_decisions = {
                 all_core = {
                     OR = {
                         owned_by = THIS
+                        owner = {
+                            OR = {
+                                vassal_of = THIS                      
+                            }
+                        }
                     }
                 }
 	         }
@@ -34,6 +43,11 @@ political_decisions = {
                 all_core = {
                     OR = {
                         owned_by = THIS
+                        owner = {
+                            OR = {
+                                vassal_of = THIS                      
+                            }
+                        }
                     }
                 }
 	         }
@@ -87,6 +101,9 @@ political_decisions = {
 				all_core = { add_core = ARA}
 			}
 			PER = {
+				all_core = { add_core = ARA}
+			}
+			TIM = {
 				all_core = { add_core = ARA}
 			}
 		}
