@@ -1,0 +1,138 @@
+country_event = {
+	id = 776405
+	title = "776405"
+	desc = "EVTDESC776405"
+	picture = "xinhai"
+	
+	trigger = {
+		tag = MNG
+		NOT = { has_country_flag = chinese_economic_compensation }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		name = "EVTOPTA776405"
+		set_country_flag = chinese_economic_compensation
+		MNG = {	
+				any_pop = {
+						reduce_pop = 0.26
+				}	
+		}
+	}
+	
+	option = {
+		name = "Thanks!"
+	}
+}
+country_event = {
+	id = 776405
+	title = "776405"
+	desc = "EVTDESC776405"
+	picture = "xinhai"
+	
+	trigger = {
+		is_culture_group = south_asian
+		NOT = { has_country_flag = chinese_economic_compensation_2 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		name = "EVTOPTA776405"
+		set_country_flag = chinese_economic_compensation_2
+		THIS = {	
+				any_pop = {
+						reduce_pop = 0.5
+				}	
+		}
+		THIS = {
+				all_core = { add_core = HND }
+			}
+	}
+	
+	option = {
+		name = "Thanks!"
+	}
+}
+country_event = {
+	id = 7764055
+	title = "Ming Civil war"
+	desc = "Ming Civil war"
+	picture = "xinhai"
+	
+	trigger = {
+		tag = MNG
+		year = 1450
+		NOT = { has_country_flag = chinese_economic_compensation2 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		name = "Ming Civil war"
+		set_country_flag = chinese_economic_compensation2
+	}
+	
+	option = {
+		name = "Thanks!"
+		release_vassal = XIA
+		release_vassal = XIA
+		war = {
+	         target = XIA
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+		release_vassal = WUU
+		release_vassal = WUU
+		war = {
+	         target = WUU
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+		war = {
+	         target = MCH
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+		badboy = -100
+		MCH = {
+				change_tag=CHI
+			}
+	}
+}
+namespace = custom_events
+
+country_event = {
+    id = 41243
+    title = "Mass Administrative Reform"
+    desc = "The government has implemented a sweeping administrative reform, greatly improving bureaucratic efficiency across the nation."
+    picture = "administration"
+
+    trigger = {
+        day = 1
+        NOT = { has_country_flag = boost_bureaucracy }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+
+    option = {
+        name = "Excellent"
+        set_country_flag = boost_bureaucracy
+            add_country_modifier = {
+                name = "boost_bureaucracy"
+                duration = 1825
+            }
+    }
+}

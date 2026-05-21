@@ -1,0 +1,9 @@
+owner= GNA
+controller= GNA
+add_core= GNA
+add_core= CRI
+add_core= GOL
+add_core= ZAZ
+trade_goods = coal
+life_rating = 35
+colonial = 2

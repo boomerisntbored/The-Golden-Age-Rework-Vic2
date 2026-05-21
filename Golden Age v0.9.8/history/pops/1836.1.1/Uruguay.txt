@@ -1,0 +1,253 @@
+2344 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=575
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=50
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=250
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=980
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=1100
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=20095
+	}
+
+	clergymen=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=50
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=250
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=50
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=3150
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=1500
+	}
+
+}
+2345 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=200
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=75
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=450
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=1100
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=7275
+	}
+
+}
+2346 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=50
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=25
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=1800
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=15
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=925
+	}
+
+}
+2347 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=150
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=50
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=350
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=1100
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=5450
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=50
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=25
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size=2775
+	}
+
+}

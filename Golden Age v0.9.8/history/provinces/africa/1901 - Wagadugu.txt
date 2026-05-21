@@ -1,0 +1,5 @@
+owner= MAL
+controller= MAL
+add_core= MAL
+trade_goods = precious_metal
+life_rating = 15

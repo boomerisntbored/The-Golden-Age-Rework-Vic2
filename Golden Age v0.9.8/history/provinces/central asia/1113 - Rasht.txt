@@ -1,0 +1,7 @@
+owner= QAR
+controller= QAR
+add_core= PER
+add_core= TIM
+add_core= QAR
+trade_goods = timber
+life_rating = 35

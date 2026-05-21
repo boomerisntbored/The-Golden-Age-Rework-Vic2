@@ -1,0 +1,204 @@
+1195 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=120
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size=400
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size=100
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=5
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=246
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=9125
+	}
+
+}
+1204 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=384
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size=1280
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size=320
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=16
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=788
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=29199
+	}
+
+}
+1205 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=264
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size=880
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size=220
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=11
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=542
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=20074
+	}
+
+}
+1206 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=396
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size=1320
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size=330
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=17
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=813
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=30111
+	}
+
+}

@@ -1,0 +1,5 @@
+trade_goods = fish
+life_rating = 15
+owner= SOK
+controller= SOK
+add_core= SOK

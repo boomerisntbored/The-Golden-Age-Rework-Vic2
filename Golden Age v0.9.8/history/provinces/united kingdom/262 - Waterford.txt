@@ -1,0 +1,6 @@
+owner= MNS
+controller= MNS
+add_core= MNS
+add_core= ENG
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,7 @@
+owner= MOS
+controller= MOS
+add_core= MOS
+add_core= NOV
+add_core= RUS
+trade_goods = timber
+life_rating = 35

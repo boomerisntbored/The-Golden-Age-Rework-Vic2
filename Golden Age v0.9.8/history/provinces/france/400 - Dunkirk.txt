@@ -1,0 +1,8 @@
+owner= ENL
+controller= ENL
+add_core= ENL
+add_core= FLA
+add_core= BRG
+trade_goods = fish
+life_rating = 32
+fort = 2

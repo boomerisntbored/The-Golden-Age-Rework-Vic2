@@ -1,0 +1,408 @@
+1594 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size=2684
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size=671
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=34
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=1240
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=61411
+	}
+
+}
+1595 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=420
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size=1680
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size=420
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=21
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=776
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=38666
+	}
+
+}
+1596 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = theravada
+		size=176
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = theravada
+		size=880
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = theravada
+		size=220
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=11
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = theravada
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=542
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = theravada
+		size=20162
+	}
+
+}
+1597 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=480
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size=1920
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size=480
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=24
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=887
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=44190
+	}
+
+}
+1598 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = theravada
+		size=176
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = theravada
+		size=880
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = theravada
+		size=220
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=11
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = theravada
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=542
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = theravada
+		size=20162
+	}
+
+}
+1599 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = theravada
+		size=376
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = theravada
+		size=1882
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = theravada
+		size=471
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=24
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = theravada
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=1159
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = theravada
+		size=43119
+	}
+
+}
+1600 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = theravada
+		size=664
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = theravada
+		size=3322
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = theravada
+		size=831
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=42
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = theravada
+		size=33
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=2046
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = theravada
+		size=76112
+	}
+
+}
+2607 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = theravada
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = theravada
+		size=320
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = theravada
+		size=80
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=4
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = theravada
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = theravada
+		size=197
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = theravada
+		size=6363
+	}
+
+}

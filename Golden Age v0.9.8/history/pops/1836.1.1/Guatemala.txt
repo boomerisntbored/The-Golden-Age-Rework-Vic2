@@ -1,0 +1,204 @@
+2186 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size=1104
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size=2760
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size=690
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size=48
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size=2125
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size=62245
+	}
+
+}
+2187 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size=450
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size=1124
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size=281
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size=20
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size=865
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size=25349
+	}
+
+}
+2188 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size=288
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size=720
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size=180
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size=13
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size=554
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size=16238
+	}
+
+}
+2189 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size=64
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size=160
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size=40
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size=2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size=123
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size=3609
+	}
+
+}

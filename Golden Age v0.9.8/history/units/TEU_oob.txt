@@ -1,0 +1,3 @@
+POL = {
+	truce_until = 1448.1.1
+}

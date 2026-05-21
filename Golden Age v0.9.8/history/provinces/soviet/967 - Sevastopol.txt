@@ -1,0 +1,10 @@
+owner= GNA
+controller= GNA
+add_core= GNA
+add_core= CRI
+add_core= TBZ
+add_core= GOL
+add_core= BYZ
+trade_goods = fish
+life_rating = 35
+fort = 1

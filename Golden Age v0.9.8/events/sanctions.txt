@@ -1,0 +1,52 @@
+country_event = {
+    id = 500059
+    title = "Infamy too high" #Infamy too high
+    desc = "Infamy too high"
+    picture = "bad_badboy"
+
+    trigger = {
+        ai = no
+		OR = {
+			AND = {
+				badboy = 1.17
+				NOT = { has_global_flag = world_wars_enabled }
+			}
+			AND = {
+				has_global_flag = world_wars_enabled
+				badboy = 2
+			}
+		}
+        NOT = {
+			has_country_modifier = kinda_bad_badboy
+        }
+    }
+
+    mean_time_to_happen = { days = 2 }
+
+    immediate = {
+        add_country_modifier = {
+            name = kinda_bad_badboy
+            duration = 912
+         }
+        any_greater_power = {
+			casus_belli = {
+				target = THIS
+				type = humiliate
+				months = 60
+            }
+			casus_belli = {
+				target = THIS
+				type = free_peoples
+				months = 12
+            }
+			relation = {
+				who = THIS
+				value = -100
+            }
+        }
+    }
+
+    option = {
+        name = "oh no"
+    }
+}

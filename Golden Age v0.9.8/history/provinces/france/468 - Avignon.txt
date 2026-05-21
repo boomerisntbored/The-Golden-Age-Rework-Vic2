@@ -1,0 +1,8 @@
+owner= PAP
+controller= PAP
+add_core= AVI
+add_core= PRO
+add_core= PAP
+add_core= FRA
+trade_goods = sulphur
+life_rating = 32

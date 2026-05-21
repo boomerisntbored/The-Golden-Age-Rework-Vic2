@@ -1,0 +1,6 @@
+owner= LIE
+controller= LIE
+add_core= LIE
+add_core= BRG
+trade_goods = iron
+life_rating = 35

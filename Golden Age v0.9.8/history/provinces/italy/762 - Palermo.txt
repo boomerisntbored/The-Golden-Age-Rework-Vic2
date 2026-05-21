@@ -1,0 +1,8 @@
+owner= ARO
+controller= ARO
+add_core= SII
+add_core= NAA
+add_core= ARO
+add_core= ITA
+trade_goods = fish
+life_rating = 35

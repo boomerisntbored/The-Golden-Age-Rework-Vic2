@@ -1,0 +1,6 @@
+owner= MLB
+controller= MLB
+add_core= MLB
+add_core= HND
+trade_goods = grain
+life_rating = 32

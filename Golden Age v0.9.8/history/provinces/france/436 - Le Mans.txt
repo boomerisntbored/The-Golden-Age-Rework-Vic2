@@ -1,0 +1,6 @@
+owner= ALE
+controller= ALE
+add_core= ALE
+add_core= FRA
+trade_goods = grain
+life_rating = 31

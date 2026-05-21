@@ -1,0 +1,7 @@
+owner= BRG
+controller= BRG
+add_core= FLA
+add_core= BRG
+add_core= ENL
+trade_goods = fish
+life_rating = 32

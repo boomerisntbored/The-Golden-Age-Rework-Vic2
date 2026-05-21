@@ -1,0 +1,6 @@
+owner= RAG
+controller= RAG
+add_core= RAG
+add_core= YUG
+trade_goods = fish
+life_rating = 35

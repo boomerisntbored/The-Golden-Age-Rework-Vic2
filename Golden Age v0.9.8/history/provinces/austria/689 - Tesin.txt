@@ -1,0 +1,9 @@
+owner= SIL
+controller= SIL
+add_core= BOH
+add_core= SIL
+add_core= POL
+add_core= PLC
+fort = 1
+trade_goods = coal
+life_rating = 35

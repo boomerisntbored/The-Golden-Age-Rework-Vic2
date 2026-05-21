@@ -1,0 +1,64 @@
+union=
+{
+	first="DEN"
+	second="NOR"
+	start_date="1397.6.17"
+	end_date="1936.1.1"
+}
+
+union=
+{
+	first="DEN"
+	second="SWE"
+	start_date="1397.6.17"
+	end_date="1936.1.1"
+}
+
+union=
+{
+	first="POL"
+	second="LIT"
+	start_date="1386.7.1"
+	end_date="1936.1.1"
+}
+
+union=
+{
+	first="POL"
+	second="HUN"
+	start_date="1439.10.27"
+	end_date="1936.1.1"
+}
+
+union=
+{
+	first="SAX"
+	second="THU"
+	start_date="1440.5.7"
+	end_date="1936.1.1"
+}
+
+union=
+{
+	first="ARO"
+	second="NAP"
+	start_date="1442.3.3"
+	end_date="1936.1.1"
+}
+
+union=
+{
+	first="FER"
+	second="MOD"
+	start_date="1393.1.1"
+	end_date="1936.1.1"
+}
+
+union=
+{
+	first="TUN"
+	second="TRI"
+	start_date="1399.1.1"
+	end_date="1936.1.1"
+}
+

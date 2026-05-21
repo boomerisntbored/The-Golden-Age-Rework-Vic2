@@ -1,0 +1,190 @@
+1849 = {
+	soldiers=
+	{
+		culture = oromo
+		religion = sunni
+		size=28
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = sunni
+		size=280
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = sunni
+		size=70
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = sunni
+		size=4
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = sunni
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = sunni
+		size=129
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = sunni
+		size=6486
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size=44
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size=440
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = sunni
+		size=6
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = sunni
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size=203
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size=10193
+	}
+
+}
+1848 = {
+	soldiers=
+	{
+		culture = oromo
+		religion = animist
+		size=80
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = animist
+		size=798
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = animist
+		size=199
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = animist
+		size=10
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = animist
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = animist
+		size=368
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = animist
+		size=18477
+	}
+
+}
+1850 = {
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size=125
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size=75
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size=350
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size=75
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size=6375
+	}
+
+}

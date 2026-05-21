@@ -1,0 +1,8 @@
+owner= TUR
+controller= TUR
+add_core= SRU
+add_core= TUR
+add_core= BYZ
+add_core= AYD
+trade_goods = grain
+life_rating = 35

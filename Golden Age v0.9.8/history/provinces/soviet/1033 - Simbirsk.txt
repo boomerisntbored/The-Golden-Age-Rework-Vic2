@@ -1,0 +1,7 @@
+owner= MOS
+controller= MOS
+add_core= MUR
+add_core= MOS
+add_core= RUS
+trade_goods = cattle
+life_rating = 35

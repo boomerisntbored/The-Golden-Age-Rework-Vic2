@@ -1,0 +1,6 @@
+owner= LEI
+controller= LEI
+add_core= LEI
+add_core= ENG
+trade_goods = fish
+life_rating = 35

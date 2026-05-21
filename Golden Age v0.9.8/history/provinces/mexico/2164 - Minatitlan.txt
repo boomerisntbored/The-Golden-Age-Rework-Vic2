@@ -1,0 +1,6 @@
+owner= AZT
+controller= AZT
+add_core= ZAP
+add_core= AZT
+trade_goods = iron
+life_rating = 35

@@ -1,0 +1,348 @@
+country_event = {
+	id = 25221
+	title = "Goodstart"
+	desc = "Goodstart"
+	
+	trigger = {
+	    NOT = {
+		    has_country_flag = money1_Start1
+		}
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = money1_Start1
+	    small_arms = 200
+	    canned_food = 300
+            opium = 350
+            cement = 600
+            machine_parts = 300
+		artillery = 200
+		luxury_clothes = 100
+		wine = 200
+		liquor = 200
+		ammunition = 200
+		clipper_convoy = 250
+		set_country_flag = money1_Start1
+		money = 150000
+		machine_parts = 400
+    }
+	
+	option = {
+		name = "EVTOPTA25221"
+		ruling_party_ideology = conservative
+	}
+}
+country_event = {
+	id = 5522133
+	title = "debuf"
+	desc = "debuf"
+	
+	trigger = {
+	    NOT = {
+		    has_country_flag = debuf
+		}
+		tag = FRA
+		year = 1450
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = debuf
+	    nationalvalue = nv_order
+    }
+	
+	option = {
+		name = "debuf :c"
+	}
+}
+country_event = {
+	id = 25
+	title = "HRE"
+	desc = "HRE"
+	
+	trigger = {
+	tag = AUS
+	    NOT = {
+		    has_country_flag = money1_Start2
+		}
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = money1_Start2
+	    BOH = {
+				all_core = { add_core = HOY}
+			}
+	    GER = {
+				all_core = { add_core = HOY}
+			}
+		TEU = {
+				all_core = { remove_core = HOY}
+			}
+		RIG = {
+				all_core = { remove_core = HOY}
+			}
+		BRD = {
+				all_core = { add_core = HOY}
+			}
+		AUS = {
+				set_country_flag = AUSSS
+			}
+    }
+	
+	option = {
+		name = "EVTOPTA25221"
+	}
+}
+country_event = {
+	id = 123
+	title = "Doubt of succession"
+	desc = "We can claim the crown of Bohemia and Hungary, so why should we?"
+	
+	trigger = {
+	tag = POL
+	 NOT = {
+		    has_country_flag = money1_Start4
+		}
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = money1_Start4
+		diplomatic_influence = {
+			who = LIT
+			value = 400
+		}
+    }
+	
+	option = {
+		name = "Take the Bohemian Crown"
+		casus_belli = {
+                target = BOH
+                type = make_puppet
+                months = 120
+            }
+		set_country_flag = polonia_boh_path
+		AUS = {
+		create_alliance = BOH
+	}
+	}
+	option = {
+		name = "Take the Hungarian crown"
+		casus_belli = {
+                target = HUN
+                type = make_puppet
+                months = 120
+            }
+		set_country_flag = polonia_hun_path
+		diplomatic_influence = {
+			who = HUN
+			value = -400
+		}
+		POL = {
+			    limit = { ai = yes
+			}
+		    war = {
+	         target = HUN
+	         attacker_goal = { casus_belli = make_puppet }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+			}
+	}
+}
+country_event = {
+	id = 12344
+	title = "Poland Lithuania"
+	desc = "Our union between Poland and Lithuania is happening, but is it the best thing for the country?"
+	
+	trigger = {
+	tag = POL
+	 NOT = {
+		    has_country_flag = money1_Startlit
+		}
+	year = 1445
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = money1_Startlit
+    }
+	
+	option = {
+		name = "Union of Lit"
+		create_vassal = LIT
+		set_country_flag = polonia_lit
+		ai_will_do = {
+			factor = 1
+			}
+		add_country_modifier = {
+			name = polish_spirit
+			duration = 3650
+		}
+	}
+	option = {
+		name = "Not Union of Lit"
+		inherit = MAZ
+		set_country_flag = not_polonia_lit
+		add_country_modifier = {
+			name = polish_spirit
+			duration = 548
+		}
+	}
+}
+country_event = {
+	id = 666
+	title = "HRE"
+	desc = "HRE"
+	
+	trigger = {
+	OR = {                
+            primary_culture = south_german
+            primary_culture = north_german	
+            tag = BOH		
+            }
+		NOT = {
+		    tag = TEU
+		}
+		NOT = {
+		    tag = RIG
+		}
+	    NOT = {
+		    has_country_flag = money1_Start3
+		}
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = money1_Start3
+    }
+	
+	option = {
+		name = "EVTOPTA25221"
+		add_country_modifier = {
+                        name = hre_mendling
+                        duration = -1
+                }
+	}
+}
+country_event = {
+	id = 6666
+	title = "HRE"
+	desc = "HRE"
+	
+	trigger = {
+	OR = {                
+			tag = AUS
+            }
+	    NOT = {
+		    has_country_flag = money1_Start344
+		}
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = money1_Start344
+    }
+	
+	option = {
+		name = "EVTOPTA25221"
+		add_country_modifier = {
+                        name = hre_kaiser
+                        duration = -1
+                }
+	}
+}
+country_event = {
+    id = 800003
+    title = "Emperor enforces military access"
+    desc = "Emperor enforced military access through are lands"
+    picture = hre_prince
+    is_triggered_only = yes
+
+    option = {
+        name = "War again?"
+        FROM = {
+            military_access = THIS
+        }
+        any_country = {
+            limit = {
+                OR = {
+                war_with = FROM
+                alliance_with = FROM
+                }
+            }
+            military_access = THIS
+        }
+    }
+}
+country_event = {
+    id = 800004
+    title = "Emperor enforces military access"
+    desc = "Emperor cancelled military access through are lands"
+    picture = hre_prince
+    is_triggered_only = yes
+
+    option = {
+        name = "finally"
+        FROM = {
+            end_military_access = THIS
+        }
+        any_country = {
+            limit = {
+                OR = {
+                war_with = FROM
+                alliance_with = FROM
+                }
+            }
+            end_military_access = THIS
+        }
+    }
+}
+country_event = {
+    id = 800005
+    title = "Imperial war"
+    desc = "We'll demand mill access of every HRE state"
+    picture = hre_prince
+    is_triggered_only = yes
+
+    option = {
+        name = "War again?"
+        any_country = {
+            limit = {
+                has_country_modifier = hre_mendling
+                ai = yes
+            }
+            country_event = 800003
+        }
+    }
+}
+country_event = {
+    id = 921011
+    title = "da igual soy ai"
+    desc = "da igual soy ai"
+    picture = hre_prince
+    is_triggered_only = yes
+
+    option = {
+        name = "War again?"
+        JAN = {
+				inherit = THIS
+			}
+    }
+}

@@ -1,0 +1,7 @@
+owner= MOR
+controller= MOR
+add_core= GRA
+add_core= CAS
+add_core= SPA
+trade_goods = coal
+life_rating = 35

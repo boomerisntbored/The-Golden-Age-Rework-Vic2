@@ -1,0 +1,255 @@
+908 = {
+	soldiers=
+	{
+		culture = misri
+		religion = sunni
+		size=114
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size=325
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = sunni
+		size=50
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = sunni
+		size=5
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = sunni
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = sunni
+		size=73
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size=4429
+	}
+
+}
+909 = {
+	soldiers=
+	{
+		culture = misri
+		religion = sunni
+		size=91
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size=260
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = sunni
+		size=40
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = sunni
+		size=4
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = sunni
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = sunni
+		size=58
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size=3544
+	}
+
+}
+910 = {
+	soldiers=
+	{
+		culture = misri
+		religion = sunni
+		size=68
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size=195
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = sunni
+		size=30
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = sunni
+		size=3
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = sunni
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = sunni
+		size=44
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size=2658
+	}
+
+}
+911 = {
+	soldiers=
+	{
+		culture = misri
+		religion = sunni
+		size=160
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size=455
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = sunni
+		size=70
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = sunni
+		size=6
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = sunni
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = sunni
+		size=102
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size=6201
+	}
+
+}
+922 = {
+	soldiers=
+	{
+		culture = misri
+		religion = sunni
+		size=114
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size=325
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = sunni
+		size=50
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = sunni
+		size=5
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = sunni
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = sunni
+		size=73
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size=4429
+	}
+
+}

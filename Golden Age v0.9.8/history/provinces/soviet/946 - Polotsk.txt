@@ -1,0 +1,6 @@
+owner= LIT
+controller= LIT
+add_core= PLT
+add_core= BYE
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,703 @@
+1783 = {
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=24
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=80
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=20
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=1
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=25
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=1849
+	}
+
+}
+1786 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=4000
+	}
+
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=324
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=1080
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=270
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=14
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=333
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=20968
+	}
+
+}
+1787 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=2000
+	}
+
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=132
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=440
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=6
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=136
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=8172
+	}
+
+}
+1788 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=4000
+	}
+
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=241
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=804
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=201
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=10
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=248
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=14588
+	}
+
+}
+2573 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=7000
+	}
+
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=216
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=720
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=180
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=9
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=222
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=9646
+	}
+
+}
+1784 = {
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size=2700
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=1100
+	}
+
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size=1700
+	}
+
+}
+1785 = {
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=324
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=1079
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=270
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=13
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=332
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=24946
+	}
+
+}
+1789 = {
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size=550
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size=25
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size=300
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size=1175
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size=300
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size=21600
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=5000
+	}
+
+}
+1790 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=5000
+	}
+
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=216
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=720
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=180
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=9
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=222
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=11646
+	}
+
+}
+1791 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=5000
+	}
+
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=420
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=1400
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=350
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=18
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=431
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=27367
+	}
+
+}
+1792 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=7000
+	}
+
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=360
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=1200
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=300
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=15
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=370
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=20743
+	}
+
+}
+1793 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=4000
+	}
+
+	soldiers=
+	{
+		culture = senegambian
+		religion = animist
+		size=312
+	}
+
+	artisans=
+	{
+		culture = senegambian
+		religion = animist
+		size=1040
+	}
+
+	clergymen=
+	{
+		culture = senegambian
+		religion = animist
+		size=260
+	}
+
+	bureaucrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=13
+	}
+
+	officers=
+	{
+		culture = senegambian
+		religion = animist
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = senegambian
+		religion = animist
+		size=320
+	}
+
+	farmers=
+	{
+		culture = senegambian
+		religion = animist
+		size=20045
+	}
+
+}

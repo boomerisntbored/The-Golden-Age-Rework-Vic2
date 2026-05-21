@@ -1,0 +1,56 @@
+HUN = {
+	value = 25
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+BAV = {
+	value = 100
+		#relation
+}
+WBG = {
+	value = 100
+		#relation
+}
+ANS = {
+	value = 100
+		#relation
+}
+WUR = {
+	value = 100
+		#relation
+}
+THU = {
+	value = 100
+		#relation
+}
+ANS = {
+	value = 100
+		#relation
+}
+BAD = {
+	value = 100
+		#relation
+}
+HES = {
+	value = 100
+		#relation
+}
+PAL = {
+	value = 100
+		#relation
+}
+TER = {
+	value = 100
+		#relation
+}
+SWI = {
+	value = 25
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}

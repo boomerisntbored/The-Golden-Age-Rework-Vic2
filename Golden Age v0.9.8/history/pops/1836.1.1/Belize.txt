@@ -1,0 +1,51 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = animist
+		size=1775
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size=29
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size=72
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size=18
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size=1
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size=55
+	}
+
+}

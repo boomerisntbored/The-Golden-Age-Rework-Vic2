@@ -1,0 +1,8 @@
+owner= TUR
+controller= TUR
+add_core= SRU
+add_core= TUR
+add_core= AYD
+add_core= BYZ
+trade_goods = fish
+life_rating = 35

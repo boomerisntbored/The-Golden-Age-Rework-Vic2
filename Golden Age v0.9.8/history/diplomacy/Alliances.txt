@@ -1,0 +1,160 @@
+alliance=
+{
+	first="DEN"
+	second="NOR"
+	start_date="1397.6.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AUS"
+	second="SWI"
+	start_date="1397.6.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DEN"
+	second="SWE"
+	start_date="1397.6.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FRA"
+	second="SCO"
+	start_date="1397.6.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ENL"
+	second="POR"
+	start_date="1373.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="POL"
+	second="LIT"
+	start_date="1386.7.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="POL"
+	second="MOL"
+	start_date="1399.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="POL"
+	second="HUN"
+	start_date="1439.10.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BRG"
+	second="BRI"
+	start_date="1399.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SAX"
+	second="THU"
+	start_date="1440.5.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ARO"
+	second="NAP"
+	start_date="1442.3.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FER"
+	second="MOD"
+	start_date="1393.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="VEN"
+	second="NAX"
+	start_date="1399.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="VEN"
+	second="ION"
+	start_date="1399.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MOR"
+	second="GRA"
+	start_date="1399.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LUB"
+	second="RIG"
+	start_date="1380.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LUB"
+	second="OLD"
+	start_date="1380.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LUB"
+	second="MAG"
+	start_date="1380.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LUB"
+	second="LUN"
+	start_date="1380.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LUB"
+	second="BRE"
+	start_date="1380.1.1"
+	end_date="1936.1.1"
+}
+

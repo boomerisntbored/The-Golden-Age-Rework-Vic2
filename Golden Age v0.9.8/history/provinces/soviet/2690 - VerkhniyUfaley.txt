@@ -1,0 +1,7 @@
+owner= GOL
+controller= GOL
+add_core= SIB
+add_core= GOL
+trade_goods = grain
+life_rating = 15
+colonial = 2

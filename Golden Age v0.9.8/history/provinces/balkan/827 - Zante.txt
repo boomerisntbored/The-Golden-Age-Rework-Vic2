@@ -1,0 +1,7 @@
+owner= ION
+controller= ION
+add_core= ION
+add_core= BYZ
+add_core= VEN
+trade_goods = fish
+life_rating = 35

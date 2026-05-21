@@ -1,0 +1,6 @@
+owner= KTH
+controller= KTH
+add_core= KTH
+add_core= HND
+trade_goods = fruit
+life_rating = 32

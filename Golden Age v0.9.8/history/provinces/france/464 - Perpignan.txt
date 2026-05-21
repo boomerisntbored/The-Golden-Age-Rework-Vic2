@@ -1,0 +1,8 @@
+owner= ARO
+controller= ARO
+add_core= ARO
+add_core= TOU
+add_core= FOI
+add_core= SPA
+trade_goods = grain
+life_rating = 31

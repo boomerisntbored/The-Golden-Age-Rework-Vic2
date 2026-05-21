@@ -1,0 +1,7 @@
+owner= AMG
+controller= AMG
+add_core= AMG
+add_core= FRA
+add_core= GUY
+trade_goods = fish
+life_rating = 32

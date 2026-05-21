@@ -1,0 +1,5 @@
+owner= HUR
+controller= HUR
+add_core= HUR
+trade_goods = grain
+life_rating = 35

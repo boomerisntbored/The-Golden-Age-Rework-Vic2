@@ -1,0 +1,6 @@
+owner= QAR
+controller= QAR
+add_core= QAR
+add_core= TIM
+trade_goods = cattle
+life_rating = 35

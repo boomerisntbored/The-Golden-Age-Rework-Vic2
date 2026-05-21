@@ -1,0 +1,169 @@
+political_decisions = {
+       conolizar_brazil = {
+		potential = {
+			OR = {                
+                continent = europe
+				tag = MAL
+            }
+			OR = {                
+                is_greater_power = yes
+				tag = POR
+				tag = MAL
+            }
+			NOT = {
+		    has_global_flag = brazil
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+		
+		allow = {
+			money = 100000
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			   set_global_flag = brazil
+			set_country_flag = elgiste_lugar
+			money = -100000
+			2431 = {secede_province = THIS}
+		}
+	}
+	cuba = {
+		potential = {
+			continent = europe
+			OR = {                
+                is_greater_power = yes
+				tag = POR
+            }
+			NOT = {
+		    has_global_flag = cuba
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+		
+		allow = {
+			money = 100000
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			   set_global_flag = cuba
+			set_country_flag = elgiste_lugar
+			money = -100000
+			2212 = {secede_province = THIS}
+			2269 = {secede_province = THIS}
+		}
+	}
+	usa = {
+		potential = {
+			continent = europe
+			OR = {                
+                is_greater_power = yes
+				tag = POR
+            }
+			NOT = {
+		    has_global_flag = usa
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+		
+		allow = {
+			money = 100000
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			   set_global_flag = usa
+			set_country_flag = elgiste_lugar
+			money = -100000
+			219 = {secede_province = THIS}
+		}
+	}
+	canada = {
+		potential = {
+			continent = europe
+			OR = {                
+                is_greater_power = yes
+				tag = POR
+            }
+			NOT = {
+		    has_global_flag = canada
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+		
+		allow = {
+			money = 100000
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			   set_global_flag = canada
+			set_country_flag = elgiste_lugar
+			money = -100000
+			65 = {secede_province = THIS}
+		}
+	}
+	mex = {
+		potential = {
+			continent = europe
+			OR = {                
+                is_greater_power = yes
+				tag = POR
+            }
+			NOT = {
+		    has_global_flag = mex
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+		
+		allow = {
+			money = 100000
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			   set_global_flag = mex
+			set_country_flag = elgiste_lugar
+			money = -100000
+			2163 = {secede_province = THIS}
+		}
+	}
+	california = {
+		potential = {
+			continent = asia
+			OR = {                
+                is_culture_group = east_asian
+				is_culture_group = south_asian
+            }
+			NOT = {
+		    has_global_flag = california
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+		
+		allow = {
+			money = 100000
+			civilized = yes
+		}
+		
+		effect = {
+			   set_global_flag = california
+			set_country_flag = elgiste_lugar
+			money = -100000
+			85 = {secede_province = THIS}
+		}
+	}
+	}

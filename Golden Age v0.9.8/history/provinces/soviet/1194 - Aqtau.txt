@@ -1,0 +1,6 @@
+owner= NOG
+controller= NOG
+add_core= NOG
+add_core= OIR
+trade_goods = opium
+life_rating = 25

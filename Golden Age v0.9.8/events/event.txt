@@ -1,0 +1,155 @@
+country_event = {
+	id = 777
+	title = "Burgundian Succession"
+	desc = "Our King is dead; if we want to remain independent, we must fight."
+	
+	trigger = {
+	tag = BRG
+	NOT = {
+		    year = 1460
+		}
+	is_greater_power = no
+	NOT = {
+		    has_country_flag = crisis
+		}
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = crisis
+    }
+	
+	option = {
+		name = "COOK"
+		set_country_flag = crisis
+		AUS = {
+		casus_belli = {
+                target = BRG
+                type = make_puppet
+                months = 120
+            }
+	}
+	CAS = {
+		casus_belli = {
+                target = BRG
+                type = make_puppet
+                months = 120
+            }
+	}
+	SPP = {
+		casus_belli = {
+                target = BRG
+                type = make_puppet
+                months = 120
+            }
+	}
+	SPA = {
+		casus_belli = {
+                target = BRG
+                type = make_puppet
+                months = 120
+            }
+	}
+	BOH = {
+		casus_belli = {
+                target = BRG
+                type = make_puppet
+                months = 120
+            }
+	}
+	CZH = {
+		casus_belli = {
+                target = BRG
+                type = make_puppet
+                months = 120
+            }
+	}
+	ARO = {
+		casus_belli = {
+                target = BRG
+                type = make_puppet
+                months = 120
+            }
+	}
+	ARI = {
+		casus_belli = {
+                target = BRG
+                type = make_puppet
+                months = 120
+            }
+	}
+	AUS = {
+		set_country_flag = crisis
+	}
+	CAS = {
+		set_country_flag = crisis
+	}
+	SPP = {
+		set_country_flag = crisis
+	}
+	SPA = {
+		set_country_flag = crisis
+	}
+	BOH = {
+		set_country_flag = crisis
+	}
+	CZH = {
+		set_country_flag = crisis
+	}
+	ARO = {
+		set_country_flag = crisis
+	}
+	}
+}
+country_event = {
+	id = 223
+	title = "The Scandinavian Wars"
+	desc = "The Scandinavian Wars"
+	
+	trigger = {
+	tag = DEN
+	year = 1445
+	NOT = {
+		    has_country_flag = civil_war
+		}
+	}
+	 
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = civil_war
+    }
+	
+	option = {
+		name = "COOK"
+		release_vassal = SWE
+		war = {
+	         target = SWE
+	         attacker_goal = { casus_belli = make_puppet }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = yes
+            }
+	}
+}
+
+country_event = {
+	id = 61319
+	title = "EVTNAME11101"
+	desc = "EVTDESC11101"
+	picture = "Celebration"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA11101"
+		FROM = {
+			inherit = THIS
+		}
+		ai_chance = {
+			factor = 25
+		}
+	}
+}

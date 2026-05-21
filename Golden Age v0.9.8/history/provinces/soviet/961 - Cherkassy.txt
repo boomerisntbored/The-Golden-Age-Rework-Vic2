@@ -1,0 +1,6 @@
+owner= LIT
+controller= LIT
+add_core= UKR
+add_core= LIT
+trade_goods = cattle
+life_rating = 35

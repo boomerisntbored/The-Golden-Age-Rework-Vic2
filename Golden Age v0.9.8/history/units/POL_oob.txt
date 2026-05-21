@@ -1,0 +1,44 @@
+MAZ = {
+	value = 200
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+HUN = {
+	value = 25
+		#relation
+
+	level = 4
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+LIT = {
+	value = 100
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+MOL = {
+	value = 100
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+
+TEU = {
+	truce_until = 1448.1.1
+}
+
+BRD = {
+	truce_until = 1448.1.1
+}
+
+POM = {
+	truce_until = 1448.1.1
+}

@@ -1,0 +1,51 @@
+854 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size=348
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size=1575
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size=300
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size=36
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size=403
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size=27320
+	}
+
+}

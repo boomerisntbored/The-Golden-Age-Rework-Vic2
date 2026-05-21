@@ -1,0 +1,7 @@
+owner= CND
+controller= CND
+add_core= CND
+add_core= TUR
+add_core= BYZ
+trade_goods = fruit
+life_rating = 35

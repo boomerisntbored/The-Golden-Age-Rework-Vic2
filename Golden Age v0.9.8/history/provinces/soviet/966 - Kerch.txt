@@ -1,0 +1,9 @@
+owner= GNA
+controller= GNA
+add_core= GNA
+add_core= CRI
+add_core= TBZ
+add_core= BYZ
+add_core= GOL
+trade_goods = iron
+life_rating = 35

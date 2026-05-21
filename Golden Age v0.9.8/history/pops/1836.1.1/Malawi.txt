@@ -1,0 +1,137 @@
+2066 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=3000
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size=416
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = animist
+		size=2079
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = animist
+		size=520
+	}
+
+	bureaucrats=
+	{
+		culture = zulu
+		religion = animist
+		size=26
+	}
+
+	officers=
+	{
+		culture = zulu
+		religion = animist
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = zulu
+		religion = animist
+		size=1601
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = animist
+		size=44312
+	}
+
+}
+2067 = {
+	aristocrats=
+	{
+		culture = chewa
+		religion = animist
+		size=350
+	}
+
+	clergymen=
+	{
+		culture = chewa
+		religion = animist
+		size=200
+	}
+
+	artisans=
+	{
+		culture = chewa
+		religion = animist
+		size=950
+	}
+
+	soldiers=
+	{
+		culture = chewa
+		religion = animist
+		size=200
+	}
+
+	farmers=
+	{
+		culture = chewa
+		religion = animist
+		size=17300
+	}
+
+	slaves=
+	{
+		culture = chewa
+		religion = animist
+		size=4000
+	}
+
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size=400
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size=200
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size=850
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size=225
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size=15125
+	}
+
+}

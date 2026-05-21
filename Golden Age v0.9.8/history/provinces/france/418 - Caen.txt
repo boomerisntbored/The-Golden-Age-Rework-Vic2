@@ -1,0 +1,8 @@
+owner= ENL
+controller= ENL
+add_core= FRA
+add_core= NRM
+add_core= ENL
+fort = 1
+trade_goods = cotton
+life_rating = 31

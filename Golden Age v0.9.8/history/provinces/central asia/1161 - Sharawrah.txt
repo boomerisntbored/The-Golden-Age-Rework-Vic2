@@ -1,0 +1,6 @@
+owner= YEM
+controller= YEM
+add_core= YEM
+add_core= ARA
+trade_goods = wool
+life_rating = 10

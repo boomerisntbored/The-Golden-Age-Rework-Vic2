@@ -1,0 +1,6 @@
+owner= DLH
+controller= DLH
+add_core= DLH
+add_core= BUN
+trade_goods = dye
+life_rating = 32

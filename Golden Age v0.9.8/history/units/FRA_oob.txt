@@ -1,0 +1,56 @@
+ALE = {
+	value = 200
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+ORL = {
+	value = 200
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+AUV = {
+	value = 200
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+AMG = {
+	value = 200
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+FOI = {
+	value = 200
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+BOU = {
+	value = 200
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+PRO = {
+	value = 100
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+}

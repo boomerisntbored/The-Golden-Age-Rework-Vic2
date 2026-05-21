@@ -1,0 +1,7 @@
+owner= FRA
+controller= FRA
+add_core= DAU
+add_core= PRO
+add_core= FRA
+trade_goods = tobacco
+life_rating = 32

@@ -1,0 +1,5 @@
+owner= HAU
+controller= HAU
+add_core= HAU
+trade_goods = timber
+life_rating = 15

@@ -1,0 +1,190 @@
+2197 = {
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size=1050
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size=100
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size=75
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size=475
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size=2400
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size=475
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size=43425
+	}
+
+}
+2198 = {
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size=275
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size=100
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size=500
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size=100
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size=9025
+	}
+
+}
+2199 = {
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size=325
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size=125
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size=600
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size=125
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size=11825
+	}
+
+}
+2200 = {
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size=15
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size=25
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size=10
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size=900
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size=50
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size=50
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size=1800
+	}
+
+}

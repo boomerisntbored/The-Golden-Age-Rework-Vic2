@@ -1,0 +1,6 @@
+owner= SAV
+controller= SAV
+add_core= SAV
+add_core= ITA
+trade_goods = grain
+life_rating = 34
