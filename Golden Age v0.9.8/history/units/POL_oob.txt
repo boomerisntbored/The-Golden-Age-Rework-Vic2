@@ -42,3 +42,64 @@ BRD = {
 POM = {
 	truce_until = 1448.1.1
 }
+
+#Leaders
+
+leader = {
+	name = "Michal Serwacy Wisniwiecki"
+	date = "1699.1.1"
+	prestige = 0.500
+	type = land
+	personality = defence_3.1
+	background = attack_3.1
+}
+leader = {
+	name = "Grzegorz Antoni Oginski"
+	date = "1699.1.1"
+	prestige = 0.500
+	type = land
+	personality = defence_0.3
+	background = attack_1.4
+}
+leader = {
+	name = "Hiernim Augystyn Lubomirski"
+	date = "1699.1.1"
+	prestige = 0.500
+	type = land
+	personality = defence_0.7
+	background = attack_0.1
+}
+leader = {
+	name = "Jozef Potocki"
+	date = "1699.1.1"
+	prestige = 0.500
+	type = land
+	personality = defence_0.1
+	background = attack_2.3
+}
+
+#Army
+
+army = {
+    name = "Armia Polska"
+    location = 703
+
+    regiment = { name = "1. Pułk Artylerii" type = artillery home = 703 }
+    regiment = { name = "2. Pułk Artylerii" type = artillery home = 713 }
+    regiment = { name = "3. Pułk Artylerii" type = artillery home = 714 }
+    regiment = { name = "4. Pułk Artylerii" type = artillery home = 705 }
+    regiment = { name = "5. Pułk Artylerii" type = artillery home = 706 }
+    regiment = { name = "6. Pułk Artylerii" type = artillery home = 701 }
+    regiment = { name = "7. Pułk Artylerii" type = artillery home = 699 }
+    regiment = { name = "8. Pułk Artylerii" type = artillery home = 702 }
+
+    regiment = { name = "1. Pułk Huzarów" type = hussar home = 951 }
+    regiment = { name = "2. Pułk Huzarów" type = hussar home = 712 }
+
+    regiment = { name = "1. Pułk Piechoty" type = infantry home = 703 }
+    regiment = { name = "2. Pułk Piechoty" type = infantry home = 713 }
+    regiment = { name = "3. Pułk Piechoty" type = infantry home = 714 }
+    regiment = { name = "4. Pułk Piechoty" type = infantry home = 705 }
+    regiment = { name = "5. Pułk Piechoty" type = infantry home = 706 }
+    regiment = { name = "6. Pułk Piechoty" type = infantry home = 701 }
+}

@@ -54,3 +54,102 @@ PRO = {
 		#3=cordial, 4 = friendly, 5 sphere
 
 }
+
+#Leaders
+leader = {
+	name = "Jean-Isidore Harispe"
+	date = 1830.1.1
+	type = land
+	personality = defence_0.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "Guy-Victor Duperr "
+	date = 1811.1.1
+	type = sea
+	personality = defence_0.1
+	background = attack_4.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "Comte de Castelanne"
+	date = 1823.1.1
+	type = land
+	personality = defence_0.1
+	background = attack_0.1
+	prestige = 0.2
+}
+
+leader = {
+	name = "Jacques Achard"
+	date = 1823.1.1
+	type = land
+	personality = defence_0.1
+	background = attack_2.1
+	prestige = 0.2
+}
+
+leader = {
+	name = "Jean-Baptiste Vaillant"
+	date = 1832.1.1
+	type = land
+	personality = defence_0.1
+	background = attack_0.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Bernand Pierre Magnan"
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_0.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Baraguey d'Hilliers"
+	date = 1836.1.1
+	type = land
+	personality = defence_0.1
+	background = attack_0.1
+	prestige = 0.1
+}
+
+# Army
+
+army = {
+    name = "Armée de France"
+    location = 425
+
+    regiment = { name = "1er Régiment d'Artillerie" type = artillery home = 446 }
+    regiment = { name = "2ème Régiment d'Artillerie" type = artillery home = 446 }
+    regiment = { name = "3ème Régiment d'Artillerie" type = artillery home = 425 }
+    regiment = { name = "4ème Régiment d'Artillerie" type = artillery home = 426 }
+    regiment = { name = "5ème Régiment d'Artillerie" type = artillery home = 427 }
+    regiment = { name = "6ème Régiment d'Artillerie" type = artillery home = 403 }
+    regiment = { name = "7ème Régiment d'Artillerie" type = artillery home = 408 }
+    regiment = { name = "8ème Régiment d'Artillerie" type = artillery home = 406 }
+    regiment = { name = "9ème Régiment d'Artillerie" type = artillery home = 437 }
+    regiment = { name = "10ème Régiment d'Artillerie" type = artillery home = 444 }
+    regiment = { name = "11ème Régiment d'Artillerie" type = artillery home = 443 }
+    regiment = { name = "12ème Régiment d'Artillerie" type = artillery home = 445 }
+    regiment = { name = "13ème Régiment d'Artillerie" type = artillery home = 447 }
+
+    regiment = { name = "1er Régiment de Hussards" type = hussar home = 456 }
+    regiment = { name = "2ème Régiment de Hussards" type = hussar home = 454 }
+    regiment = { name = "3ème Régiment de Hussards" type = hussar home = 461 }
+
+    regiment = { name = "1er Régiment d'Infanterie" type = infantry home = 425 }
+    regiment = { name = "2ème Régiment d'Infanterie" type = infantry home = 426 }
+    regiment = { name = "3ème Régiment d'Infanterie" type = infantry home = 427 }
+    regiment = { name = "4ème Régiment d'Infanterie" type = infantry home = 403 }
+    regiment = { name = "5ème Régiment d'Infanterie" type = infantry home = 408 }
+    regiment = { name = "6ème Régiment d'Infanterie" type = infantry home = 406 }
+    regiment = { name = "7ème Régiment d'Infanterie" type = infantry home = 437 }
+}
+
+
