@@ -637,7 +637,6 @@ acquire_core_state = {
 		any_owned_province = {
 			is_core = THIS
 		}
-		not = { any_owned_province = { is_capital = yes } }
 	}
 
 	po_demand_state = yes
@@ -2281,7 +2280,6 @@ take_capital = {
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
-			not = { is_core = THIS }
 			is_colonial = no
 		}
 		OR = {
