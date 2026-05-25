@@ -1,5 +1,6 @@
 owner= BCS
 controller= BCS
 add_core= BCS
+add_core= TIM
 trade_goods = cotton
 life_rating = 35
