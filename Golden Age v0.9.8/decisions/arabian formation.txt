@@ -5,8 +5,11 @@ political_decisions = {
 
 		potential = {
 			ARA = { exists = no }
+			OR = {
 			is_culture_group = arab
 			tag = TIM
+			tag = PER
+            }
 		}
 		
 		allow = {
