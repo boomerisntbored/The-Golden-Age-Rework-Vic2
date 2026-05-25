@@ -1,0 +1,34 @@
+
+
+# Army
+army = {
+	name = "Armée de Bourgogne"
+	location = 387
+	
+	regiment = { name = "1er Régiment d'Infanterie" type = infantry home = 387 }
+	regiment = { name = "2e Régiment d'Infanterie" type = infantry home = 387 }
+	regiment = { name = "3e Régiment d'Infanterie" type = infantry home = 389 }
+	regiment = { name = "4e Régiment d'Infanterie" type = infantry home = 389 }
+	regiment = { name = "5e Régiment d'Infanterie" type = infantry home = 428 }
+	regiment = { name = "6e Régiment d'Infanterie" type = infantry home = 428 }
+	regiment = { name = "7e Régiment d'Infanterie" type = infantry home = 388 }
+	regiment = { name = "8e Régiment d'Infanterie" type = infantry home = 399 }
+	regiment = { name = "9e Régiment d'Infanterie" type = infantry home = 393 }
+	regiment = { name = "10e Régiment d'Infanterie" type = infantry home = 390 }
+
+	regiment = { name = "1er Régiment de Hussards" type = hussar home = 401 }
+	regiment = { name = "2e Régiment de Hussards" type = hussar home = 402 }
+
+	regiment = { name = "1er Régiment d'Artillerie" type = artillery home = 387 }
+	regiment = { name = "2e Régiment d'Artillerie" type = artillery home = 387 }
+	regiment = { name = "3e Régiment d'Artillerie" type = artillery home = 387 }
+	regiment = { name = "4e Régiment d'Artillerie" type = artillery home = 389 }
+	regiment = { name = "5e Régiment d'Artillerie" type = artillery home = 389 }
+	regiment = { name = "6e Régiment d'Artillerie" type = artillery home = 389 }
+	regiment = { name = "7e Régiment d'Artillerie" type = artillery home = 428 }
+	regiment = { name = "8e Régiment d'Artillerie" type = artillery home = 428 }
+	regiment = { name = "9e Régiment d'Artillerie" type = artillery home = 2570 }
+	regiment = { name = "10e Régiment d'Artillerie" type = artillery home = 431 }
+	regiment = { name = "11e Régiment d'Artillerie" type = artillery home = 432 }
+	regiment = { name = "12e Régiment d'Artillerie" type = artillery home = 413 }
+}

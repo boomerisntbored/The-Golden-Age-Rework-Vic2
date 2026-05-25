@@ -313,7 +313,7 @@ flintlock_rifles = {
 	unciv_military = yes
 	
 	activate_unit = infantry
-	combat_width = -1
+	combat_width = -20
 
 	ai_chance = {
 		factor = 1.1
@@ -355,7 +355,7 @@ muzzle_loaded_rifles = {
 	unciv_military = yes
 	activate_unit = engineer
 	
-	combat_width = -2
+	combat_width = 2
 
 	ai_chance = {
 		factor = 1.1
@@ -403,7 +403,7 @@ breech_loaded_rifles = {
 	activate_unit = guard
 	unciv_military = yes
 
-	combat_width = -2
+	combat_width = 1
 	
 	ai_chance = {
 		factor = 1.1
@@ -449,7 +449,7 @@ machine_guns = {
 	cost = 14400
 	unciv_military = yes
 	
-	combat_width = -5
+	combat_width = 4
 	#colonial_life_rating = -10 
 	ai_chance = {
 		factor = 6
@@ -496,7 +496,7 @@ bolt_action_rifles = {
 	unciv_military = yes
 	unit = 1
 	
-	combat_width = -5
+	combat_width = 3
 	
 	ai_chance = {
 		factor = 1.1
@@ -538,7 +538,7 @@ modern_divisional_structure = {
 	unciv_military = yes
 
 	unit = 2
-	combat_width = -5
+	combat_width = 3
 	
 		ai_chance = {
 		factor = 1.1

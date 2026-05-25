@@ -1,0 +1,8 @@
+#Army
+
+army = {
+    name = "Armée de Foix"
+    location = 457
+    regiment = { name = "1er Régiment d'Artilleries" type = artillery home = 457 }
+    regiment = { name = "2ème Régiment d'Artilleries" type = artillery home = 460 }
+}

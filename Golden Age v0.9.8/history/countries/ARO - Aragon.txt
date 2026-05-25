@@ -6,6 +6,7 @@ government = absolute_monarchy
 nationalvalue=nv_liberty
 literacy=0.500000
 civilized=yes
+leadership=60
 
 ruling_party=CAT_liberal
 upper_house=
@@ -82,4 +83,4 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
-oob = "ARO_OOB.txt"
+oob = "ARO_oob.txt"

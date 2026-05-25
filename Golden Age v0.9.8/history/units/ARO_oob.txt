@@ -1,0 +1,32 @@
+
+#Army
+
+army = {
+	name = "Ejército de Aragón"
+	location = 504
+	
+	regiment = { name = "1º Regimiento de Infantería" type = infantry home = 504 }
+	regiment = { name = "2º Regimiento de Infantería" type = infantry home = 504 }
+	regiment = { name = "3º Regimiento de Infantería" type = infantry home = 498 }
+	regiment = { name = "4º Regimiento de Infantería" type = infantry home = 498 }
+	regiment = { name = "5º Regimiento de Infantería" type = infantry home = 498 }
+	regiment = { name = "6º Regimiento de Infantería" type = infantry home = 762 }
+	regiment = { name = "7º Regimiento de Infantería" type = infantry home = 764 }
+
+	regiment = { name = "1º Regimiento de Húsares" type = hussar home = 503 }
+	regiment = { name = "2º Regimiento de Húsares" type = hussar home = 505 }
+
+	regiment = { name = "1º Regimiento de Artillería" type = artillery home = 504 }
+	regiment = { name = "2º Regimiento de Artillería" type = artillery home = 504 }
+	regiment = { name = "3º Regimiento de Artillería" type = artillery home = 498 }
+	regiment = { name = "4º Regimiento de Artillería" type = artillery home = 498 }
+	regiment = { name = "5º Regimiento de Artillería" type = artillery home = 762 }
+	regiment = { name = "6º Regimiento de Artillería" type = artillery home = 764 }
+	regiment = { name = "7º Regimiento de Artillería" type = artillery home = 495 }
+	regiment = { name = "8º Regimiento de Artillería" type = artillery home = 763 }
+	regiment = { name = "9º Regimiento de Artillería" type = artillery home = 765 }
+	regiment = { name = "10º Regimiento de Artillería" type = artillery home = 495 } 
+	regiment = { name = "11º Regimiento de Artillería" type = artillery home = 763 } 
+	regiment = { name = "12º Regimiento de Artillería" type = artillery home = 765 } 
+}
+

@@ -28,6 +28,7 @@ country_event = {
 		set_country_flag = money1_Start1
 		money = 150000
 		machine_parts = 400
+		leadership = 100
     }
 	
 	option = {

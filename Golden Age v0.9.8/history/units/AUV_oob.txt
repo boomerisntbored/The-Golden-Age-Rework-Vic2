@@ -1,0 +1,12 @@
+#Army
+
+army = {
+    name = "Armée de Auvergne"
+    location = 448
+    regiment = { name = "1er Régiment d'Artillerier" type = artillery home = 448 }
+    regiment = { name = "2ème Régiment d'Artillerier" type = artillery home = 448 }
+    regiment = { name = "1er Régiment d'cavalirer" type = cavalry home = 453 }
+    regiment = { name = "2ème Régiment d'cavalirer" type = cavalry home = 453 }
+    regiment = { name = "3er Régiment d'cavalirer" type = cavalry home = 449 }
+    regiment = { name = "4ème Régiment d'cavalirer" type = irregular home = 452 }
+}

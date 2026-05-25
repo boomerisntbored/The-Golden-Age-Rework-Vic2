@@ -1,0 +1,8 @@
+#Army
+
+army = {
+    name = "Armée de Orleans"
+    location = 438
+    regiment = { name = "1er Régiment d'Artilleriea" type = artillery home = 438 }
+    regiment = { name = "2ème Régiment d'Artilleriea" type = artillery home = 440 }
+}

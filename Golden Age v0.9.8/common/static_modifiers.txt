@@ -22,6 +22,7 @@ easy_player = {
 	supply_consumption = -0.25
 	research_points_modifier = 0.25
 	leadership_modifier = 0.25
+	combat_width = -20
 }
 
 hard_player = {
@@ -42,6 +43,7 @@ very_easy_ai = {
 }
 
 easy_ai = {
+	combat_width = -20
 }
 
 hard_ai = {
