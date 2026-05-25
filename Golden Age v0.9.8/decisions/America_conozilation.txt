@@ -55,7 +55,7 @@ political_decisions = {
 			set_country_flag = elgiste_lugar
 			money = -100000
 			2212 = {secede_province = THIS}
-			2269 = {secede_province = THIS}
+			2253 = {secede_province = THIS}
 		}
 	}
 	usa = {
