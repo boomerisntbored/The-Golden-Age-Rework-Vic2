@@ -9,6 +9,7 @@ political_decisions = {
                 is_greater_power = yes
 				tag = POR
 				tag = MAL
+				tag = SPP
             }
 			NOT = {
 		    has_global_flag = brazil
@@ -38,6 +39,9 @@ political_decisions = {
 				tag = POR
 				tag = CAS
 				tag = ARO
+				tag = SPP
+				tag = SPA
+				tag = ARI
             }
 			NOT = {
 		    has_global_flag = cuba
@@ -138,6 +142,9 @@ political_decisions = {
 				tag = POR
 				tag = CAS
 				tag = ARO
+				tag = SPP
+				tag = SPA
+				tag = ARI
             }
 			NOT = {
 		    has_global_flag = mex
@@ -167,6 +174,9 @@ political_decisions = {
 				tag = POR
 				tag = CAS
 				tag = ARO
+				tag = SPP
+				tag = SPA
+				tag = ARI
             }
 			NOT = {
 		    has_global_flag = aires
