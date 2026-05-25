@@ -2063,6 +2063,9 @@ political_decisions = {
 			 DUA = {    
 				all_core = { remove_core = ENL}
 			}	
+			BRI = {
+				all_core = { add_core = FRA}
+			}
         }
 		ai_will_do = {
 			factor = 1
