@@ -54,3 +54,49 @@ SWI = {
 		#3=cordial, 4 = friendly, 5 sphere
 
 }
+
+army = {
+    name = "1. Armee"
+    location = 619
+    
+    regiment = { name= "1. Artillerie" type = artillery home = 619 }
+    regiment = { name= "2. Artillerie" type = artillery home = 619 }
+    regiment = { name= "3. Artillerie" type = artillery home = 619 }
+    regiment = { name= "4. Artillerie" type = artillery home = 619 }
+    regiment = { name= "5. Artillerie" type = artillery home = 619 }
+    regiment = { name= "6. Artillerie" type = artillery home = 619 }
+    regiment = { name= "7. Artillerie" type = artillery home = 619 }
+    regiment = { name= "8. Artillerie" type = artillery home = 619 }
+    regiment = { name= "9. Artillerie" type = artillery home = 619 }
+    regiment = { name= "10. Artillerie" type = artillery home = 619 }
+    regiment = { name= "11. Artillerie" type = artillery home = 619 }
+    regiment = { name= "12. Artillerie" type = artillery home = 619 } 
+    regiment = { name= "13. Artillerie" type = artillery home = 621 }
+    regiment = { name= "14. Artillerie" type = artillery home = 621 }
+    regiment = { name= "15. Artillerie" type = artillery home = 621 }
+    regiment = { name= "16. Artillerie" type = artillery home = 621 }
+    regiment = { name= "17. Artillerie" type = artillery home = 621 }
+    regiment = { name= "18. Artillerie" type = artillery home = 622 }
+    regiment = { name= "19. Artillerie" type = artillery home = 622 }
+    regiment = { name= "20. Artillerie" type = artillery home = 616 }
+
+    regiment = { name= "1. Husaren" type = hussar home = 616 }
+    regiment = { name= "2. Husaren" type = hussar home = 616 }
+    regiment = { name= "3. Husaren" type = hussar home = 616 }
+    regiment = { name= "4. Husaren" type = hussar home = 616 }
+
+    regiment = { name= "1. Infanterie" type = infantry home = 616 }
+    regiment = { name= "2. Infanterie" type = infantry home = 616 }
+    regiment = { name= "3. Infanterie" type = infantry home = 617 }
+    regiment = { name= "4. Infanterie" type = infantry home = 617 }
+    regiment = { name= "5. Infanterie" type = infantry home = 617 }
+    regiment = { name= "6. Infanterie" type = infantry home = 617 }
+    regiment = { name= "7. Infanterie" type = infantry home = 624 }
+    regiment = { name= "8. Infanterie" type = infantry home = 734 }
+    regiment = { name= "9. Infanterie" type = infantry home = 612 }
+    regiment = { name= "10. Infanterie" type = infantry home = 612 }
+    regiment = { name= "11. Infanterie" type = infantry home = 612 }
+    regiment = { name= "12. Infanterie" type = infantry home = 612 }
+    regiment = { name= "13. Infanterie" type = infantry home = 612 }
+    regiment = { name= "14. Infanterie" type = infantry home = 612 }
+}
