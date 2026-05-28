@@ -123,13 +123,6 @@ country_event = {
 			who = LIT
 			value = 400
 		}
-		MOS = {
-			    casus_belli = {
-                target = NOV
-                type = make_puppet
-                months = 120
-            }
-			}
     }
 	
 	option = {
