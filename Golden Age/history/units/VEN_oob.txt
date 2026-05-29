@@ -1,0 +1,19 @@
+army = {
+    name = "Esercito di Venezia"
+    location = 729
+    
+    regiment = { name= "1. Artiglieria" type = artillery home = 729 }
+    regiment = { name= "2. Artiglieria" type = artillery home = 729 }
+    regiment = { name= "3. Artiglieria" type = artillery home = 729 }
+    regiment = { name= "4. Artiglieria" type = artillery home = 729 }
+    regiment = { name= "5. Artiglieria" type = artillery home = 729 }
+    regiment = { name= "6. Artiglieria" type = artillery home = 729 }
+    regiment = { name= "7. Artiglieria" type = artillery home = 733 }
+
+    regiment = { name= "1. Ussari" type = hussar home = 732 }
+    regiment = { name= "2. Ussari" type = hussar home = 730 }
+
+    regiment = { name= "1. Fanteria" type = infantry home = 728 }
+    regiment = { name= "2. Fanteria" type = infantry home = 728 }
+    regiment = { name= "3. Fanteria" type = infantry home = 727 }
+}

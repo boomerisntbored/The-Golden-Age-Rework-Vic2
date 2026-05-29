@@ -1184,58 +1184,7 @@ political_decisions = {
                     }
                 }
 	         }
-			 TVE = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-			 YAR = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-			 RYA = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-			 PSK = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
+			 nationalism_n_imperialism = 1
         }
 		
         
@@ -2771,19 +2720,40 @@ political_decisions = {
         }
 
         allow = {         
-             war = no          
-            THIS = { is_our_vassal = TEU }
-			NOT = {
-		    year = 1458
-		}
-		idealism = 1
+    war = no
+
+    OR = {
+
+        # Si existe Prusia, necesitás a PRU como vasallo
+        AND = {
+            exists = PRU
+            THIS = { is_our_vassal = PRU }
         }
+
+        # Si NO existe Prusia, necesitás a los Teutones
+        AND = {
+            NOT = { exists = PRU }
+            THIS = { is_our_vassal = TEU }
+        }
+    }
+
+    NOT = {
+        year = 1458
+    }
+
+    idealism = 1
+}
 		     
 
         effect = {                
             prestige = 1
 			set_country_flag = pol_teu
-			696 = {secede_province = THIS}
+			691 = { add_core = THIS }
+			PRU = {
+			change_tag = TEU
+			}
+			TEU = {
+				696 = {secede_province = THIS}
 			696 = { add_core = THIS }
 			693 = {secede_province = THIS}
 			693 = { add_core = THIS }
@@ -2791,7 +2761,7 @@ political_decisions = {
 			690 = { add_core = THIS }
 			691 = {secede_province = THIS}
 			681 = {secede_province = BRD}
-			691 = { add_core = THIS }
+			}
 			diplomatic_influence = {
 			who = TEU
 			value = 400

@@ -46,7 +46,7 @@ promotion_focus =
 {
 	promote_aristocrats =
 	{
-		aristocrats = 0.20 #20% more likeley to become artisans
+		aristocrats = 0.30 #20% more likeley to become artisans
 		limit = {
 			ai = no
 		}
@@ -56,7 +56,7 @@ promotion_focus =
 
 	promote_artisans =
 	{
-		artisans = 0.20 #20% more likeley to become this type
+		artisans = 0.30 #20% more likeley to become this type
 		limit = {
 			ai = no
 		}
@@ -66,14 +66,14 @@ promotion_focus =
 
 	promote_bureaucrats =
 	{
-		bureaucrats = 0.20 #20% more likeley to become this type
+		bureaucrats = 0.30 #20% more likeley to become this type
 		icon = 7
 		outliner_show_as_percent = yes
 	}
 
 	promote_capitalists =
 	{
-		capitalists = 0.20 #20% more likeley to become this type
+		capitalists = 0.30 #20% more likeley to become this type
 		icon = 8
 		outliner_show_as_percent = yes
 		limit = {
@@ -84,7 +84,7 @@ promotion_focus =
 	
 	promote_clergymen =
 	{
-		clergymen = 0.20 #20% more likeley to become this type
+		clergymen = 0.30 #20% more likeley to become this type
 		icon = 9
 		outliner_show_as_percent = yes
 	}
@@ -102,7 +102,7 @@ promotion_focus =
 
 	promote_craftsmen =
 	{
-		craftsmen = 0.20 #20% more likeley to become this type
+		craftsmen = 0.30 #20% more likeley to become this type
 		icon = 11
 		outliner_show_as_percent = yes
 		limit = {
@@ -113,7 +113,7 @@ promotion_focus =
 
 	promote_farmers =
 	{
-		farmers = 0.20 #20% more likeley to become this type
+		farmers = 0.30 #20% more likeley to become this type
 		icon = 12
 		limit = {
 			ai = no
@@ -123,7 +123,7 @@ promotion_focus =
 	
 	promote_labourers =
 	{
-		labourers = 0.20 #20% more likeley to become this type
+		labourers = 0.30 #20% more likeley to become this type
 		icon = 13
 		limit = {
 			ai = no
@@ -133,7 +133,7 @@ promotion_focus =
 
 	promote_officers =
 	{
-		officers = 0.20 #20% more likeley to become this type
+		officers = 0.30 #20% more likeley to become this type
 		icon = 14
 		limit = {
 			ai = no
@@ -143,7 +143,7 @@ promotion_focus =
 
 	promote_soldiers =
 	{
-		soldiers = 0.20 #20% more likeley to become this type
+		soldiers = 0.30 #20% more likeley to become this type
 		limit = {
 			NOT = { state_scope = { soldiers = 0.05 } }
 		}

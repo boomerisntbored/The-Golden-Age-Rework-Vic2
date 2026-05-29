@@ -21,7 +21,7 @@ political_decisions = {
 		
 		allow = {
 			money = 100000
-			nationalism_n_imperialism = 1
+			naval_statistics = 1
 		}
 		
 		effect = {
@@ -53,7 +53,7 @@ political_decisions = {
 		
 		allow = {
 			money = 100000
-			nationalism_n_imperialism = 1
+			naval_statistics = 1
 		}
 		
 		effect = {
@@ -88,7 +88,7 @@ political_decisions = {
 		
 		allow = {
 			money = 100000
-			nationalism_n_imperialism = 1
+			naval_statistics = 1
 		}
 		
 		effect = {
@@ -124,7 +124,7 @@ political_decisions = {
 		
 		allow = {
 			money = 100000
-			nationalism_n_imperialism = 1
+			naval_statistics = 1
 		}
 		
 		effect = {
@@ -156,7 +156,7 @@ political_decisions = {
 		
 		allow = {
 			money = 100000
-			nationalism_n_imperialism = 1
+			naval_statistics = 1
 		}
 		
 		effect = {
@@ -188,7 +188,7 @@ political_decisions = {
 
 		allow = {
 			money = 100000
-			nationalism_n_imperialism = 1
+			naval_statistics = 1
 		}
 
 		effect = {
