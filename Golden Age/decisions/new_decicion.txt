@@ -1100,7 +1100,7 @@ political_decisions = {
 				exists = HOY
 			}
             NOT = {
-				exists = KUK
+				tag = KUK
 			}			
 			has_country_modifier = hre_mendling
         }
