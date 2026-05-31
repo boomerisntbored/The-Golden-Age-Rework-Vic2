@@ -1,0 +1,72 @@
+#Army
+
+army = {
+    name = "1. Hadsereg"
+    location = 641
+    
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+        home = 641
+    }
+    
+    regiment = {
+        name = "1st Hussar"
+        type = hussar
+        home = 649
+    }
+    
+    regiment = {
+        name = "2nd Hussar"
+        type = hussar
+        home = 652
+    }
+    
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+        home = 652
+    }
+    
+    regiment = {
+        name = "2nd Artillery"
+        type = artillery
+        home = 773
+    }
+    
+    regiment = {
+        name = "3rd Artillery"
+        type = artillery
+        home = 768
+    }
+    
+    regiment = {
+        name = "4th Artillery"
+        type = artillery
+        home = 647
+    }
+    
+    regiment = {
+        name = "5th Artillery"
+        type = artillery
+        home = 637
+    }
+    
+    regiment = {
+        name = "6th Artillery"
+        type = artillery
+        home = 633
+    }
+    
+    regiment = {
+        name = "7th Artillery"
+        type = artillery
+        home = 639
+    }
+    
+    regiment = {
+        name = "8th Artillery"
+        type = artillery
+        home = 771
+    }
+}

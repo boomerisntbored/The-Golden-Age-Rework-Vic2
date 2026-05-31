@@ -1,4 +1,40 @@
 political_decisions = {
+    enabled_conolizar = {
+		potential = {
+        ai = no
+			NOT = {
+		    has_country_flag = enabled_conolizar
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+		
+		allow = {
+
+		}
+		
+		effect = {
+			   set_country_flag = enabled_conolizar
+		}
+	}
+	desactivar_conolizar = {
+		potential = {
+        ai = no
+		    has_country_flag = enabled_conolizar
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+		
+		allow = {
+
+		}
+		
+		effect = {
+			   clr_country_flag = enabled_conolizar
+		}
+	}
        conolizar_brazil = {
 		potential = {
 			OR = {                
@@ -14,6 +50,7 @@ political_decisions = {
 			NOT = {
 		    has_global_flag = brazil
 		}
+		has_country_flag = enabled_conolizar
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
@@ -46,6 +83,7 @@ political_decisions = {
 			NOT = {
 		    has_global_flag = cuba
 		}
+		has_country_flag = enabled_conolizar
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
@@ -81,6 +119,7 @@ political_decisions = {
 			NOT = {
 		    has_global_flag = usa
 		}
+		has_country_flag = enabled_conolizar
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
@@ -117,6 +156,7 @@ political_decisions = {
 			NOT = {
 		    has_global_flag = canada
 		}
+		has_country_flag = enabled_conolizar
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
@@ -149,6 +189,7 @@ political_decisions = {
 			NOT = {
 		    has_global_flag = mex
 		}
+		has_country_flag = enabled_conolizar
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
@@ -181,6 +222,7 @@ political_decisions = {
 			NOT = {
 		    has_global_flag = aires
 		}
+		has_country_flag = enabled_conolizar
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
@@ -211,6 +253,7 @@ political_decisions = {
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
+		has_country_flag = enabled_conolizar
 		}
 		
 		allow = {

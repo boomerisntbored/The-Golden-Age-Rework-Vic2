@@ -158,3 +158,7 @@ hanover_form_title;To form the kingdom of Hanover;;;;;;;;;;;;;
 hanover_form_desc;To form the kingdom of Hanover;;;;;;;;;;;;;
 abandonar_iberia_title;Italian coup d'etat;;;;;;;;;;;;;
 abandonar_iberia_desc;Since the Kingdom of Aragon fell, the Italians in our territory are demanding a change.;;;;;;;;;;;;;
+enabled_conolizar_title;Activate colonization decisions;;;;;;;;;;;;;
+enabled_conolizar_desc;Activate colonization decisions;;;;;;;;;;;;;
+desactivar_conolizar_title;Deactivate colonization decisions;;;;;;;;;;;;;
+desactivar_conolizar_desc;Deactivate colonization decisions;;;;;;;;;;;;;

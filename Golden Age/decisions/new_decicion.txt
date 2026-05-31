@@ -3265,10 +3265,6 @@ political_decisions = {
 			add_accepted_culture = swedish
 			add_accepted_culture = danish
 			add_accepted_culture = norwegian
-			add_accepted_culture = scottish
-			SCO = {
-				all_core = { add_core = THIS}
-			}
 		}
 		ai_will_do = {
 			factor = 1
@@ -3304,4 +3300,48 @@ political_decisions = {
 			factor = 1
 			}
     }
+	
+	
+	scottish_sca  = {
+        potential = {
+                tag = SCA   				
+            
+		NOT = {
+		    has_country_flag = annex_sco
+		}
+	}
+
+        allow = {         
+            war = no 
+            state_n_government = 1
+						SCO = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+		     
+
+        effect = {                
+            prestige = 1
+			set_country_flag = annex_sco
+			THIS = { inherit = SCO }
+			SCO = {
+				all_core = { add_core = SCA}
+			}
+			add_accepted_culture = scottish
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
+
 	}
