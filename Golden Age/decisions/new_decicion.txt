@@ -1100,7 +1100,7 @@ political_decisions = {
 				exists = HOY
 			}
             NOT = {
-				exists = KUK
+				tag = KUK
 			}			
 			has_country_modifier = hre_mendling
         }
@@ -1327,6 +1327,223 @@ political_decisions = {
 			inherit = MUN
 			inherit = BRA
 			inherit = HES
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Arles  = {
+        potential = {
+            OR = {                
+                tag = SWI 
+                tag = SAV     
+                tag = LOM
+                tag = GNA 
+                tag = MOD
+                tag = PRO  				
+            }
+            NOT = { exists = ARL }
+			
+        }
+
+        allow = {         
+            war = no          
+            SWI = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 SAV = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 GNA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 LOM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 MOD = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 1
+            change_tag = ARL
+			add_accepted_culture = swiss
+			add_accepted_culture = north_italian
+			add_accepted_culture = occitain
+            SWI = {
+				all_core = { add_core = ARL}
+			}
+			SAV = {
+				all_core = { add_core = ARL}
+			}
+			LOM = {
+				all_core = { add_core = ARL}
+			}
+			MOD = {
+				all_core = { add_core = ARL}
+			}
+			GNA = {
+				all_core = { add_core = ARL}
+			}
+			FRA_467 = {
+				add_core = ARL
+			}
+			FRA_451 = {
+				add_core = ARL
+			}
+			AUS_726 = {
+				add_core = ARL
+			}
+			inherit = SWI
+			inherit = SAV
+			inherit = LOM
+			inherit = MOD
+			inherit = GNA
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Aquitania  = {
+        potential = {
+            OR = {                
+                tag = ARL
+                tag = AUV 					
+            }
+            NOT = { exists = AQT }
+			
+        }
+
+        allow = {         
+            war = no          
+            AQT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 FRA_461 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 FRA_448 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 FRA_455 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 FRA_458 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 FRA_445 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 FRA_442 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 1
+            change_tag = AQT
+			add_accepted_culture = aquitaine
+			FRA_461 = {
+				add_core = AQT
+			}
+			FRA_448 = {
+				add_core = AQT
+			}
+			FRA_455 = {
+				add_core = AQT
+			}
+			FRA_458 = {
+				add_core = AQT
+			}
+			FRA_445 = {
+				add_core = AQT
+			}
+			FRA_442 = {
+				add_core = AQT
+			}
         }
 		ai_will_do = {
 			factor = 1

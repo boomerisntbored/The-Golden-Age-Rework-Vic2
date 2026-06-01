@@ -311,7 +311,6 @@ RAG = "countries/Ragusa.txt"
 RAJ = "countries/Rajputna.txt"
 RAM = "countries/Ramazan.txt"
 REB = "countries/rebels.txt"
-RFR = "countries/RevolutionaryFrance.txt"
 RHO = "countries/Southern Rhodesia.txt"
 RIG = "countries/Riga.txt"
 ROM = "countries/Romania.txt"
@@ -407,7 +406,8 @@ ZAZ = "countries/Zaporozhie.txt"
 ZIM = "countries/Mutapa.txt"
 ZUL = "countries/Zulu.txt"
 ARI = "countries/Aragon-Italy.txt"
-
+ARL = "countries/Arles.txt"
+AQT = "countries/Aquitania.txt"
 
 ##HoD Dominions
 dynamic_tags = yes # any tags after this is considered dynamic dominions

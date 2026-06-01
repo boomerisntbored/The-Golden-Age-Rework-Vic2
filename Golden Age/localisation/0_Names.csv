@@ -463,6 +463,10 @@ ARI_fascist_dictatorship;The Latin Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARI_fascist_dictatorship_ADJ;Latin;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARA;The Caliphate;;;;;;;;;;;;;,,
 ARA_ADJ;Caliphate;;;;;;;;;;;;;,,
+ARL;Kingdom of Arles;;;;;;;;;;;;;,,
+ARL_ADJ;Arles;;;;;;;;;;;;;,,
+AQT;Aquitaine;;;;;;;;;;;;;,,
+AQT_ADJ;Aquitaine;;;;;;;;;;;;;,,
 NONE;;;;;;;;;;;;;;x;;;;;
 NONE;*;*;*;*;*;*;*;*;;;;;;x;;;;;
 NONE;*;*;*;*;*;*;*;*;;;;;;x;;;;;
