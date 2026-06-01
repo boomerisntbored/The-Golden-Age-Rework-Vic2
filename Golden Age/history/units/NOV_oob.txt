@@ -1,0 +1,22 @@
+army = {
+	name = "Novgorodskaya Druzhina"
+	location = 1003
+	
+	regiment = { name= "1st Artillery" type = artillery home = 989 }
+	regiment = { name= "2nd Artillery" type = artillery home = 989 }
+	regiment = { name= "3rd Artillery" type = artillery home = 989 }
+	regiment = { name= "4th Artillery" type = artillery home = 991 }
+	regiment = { name= "5th Artillery" type = artillery home = 991 }
+	regiment = { name= "6th Artillery" type = artillery home = 994 }
+	regiment = { name= "7th Artillery" type = artillery home = 994 }
+	regiment = { name= "8th Artillery" type = artillery home = 996 }
+	regiment = { name= "9th Artillery" type = artillery home = 997 }
+	regiment = { name= "10th Artillery" type = artillery home = 1003 }
+
+	regiment = { name= "1st Hussars" type = hussar home = 339 }
+	regiment = { name= "2nd Hussars" type = hussar home = 1005 }
+
+	regiment = { name= "1st Infantry" type = infantry home = 1007 }
+	regiment = { name= "2nd Infantry" type = infantry home = 1004 }
+	regiment = { name= "3rd Infantry" type = infantry home = 981 }
+}

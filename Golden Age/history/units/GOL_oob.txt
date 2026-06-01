@@ -1,0 +1,18 @@
+army = {
+	name = "Altan Orda"
+	location = 1040
+
+	regiment = { name= "1st Artillery" type = artillery home = 1019 }
+	regiment = { name= "2nd Artillery" type = artillery home = 1019 }
+	regiment = { name= "3rd Artillery" type = artillery home = 1019 }
+	regiment = { name= "4th Artillery" type = artillery home = 1025 }
+	regiment = { name= "5th Artillery" type = artillery home = 1025 }
+	regiment = { name= "6th Artillery" type = artillery home = 1039 }
+	regiment = { name= "7th Artillery" type = artillery home = 1039 }
+
+	regiment = { name= "1st Hussars" type = hussar home = 1017 }
+
+	regiment = { name= "1st Infantry" type = infantry home = 980 }
+	regiment = { name= "2nd Infantry" type = infantry home = 1041 }
+	regiment = { name= "3rd Infantry" type = infantry home = 1046 }
+}
