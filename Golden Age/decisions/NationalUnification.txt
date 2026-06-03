@@ -173,10 +173,13 @@ political_decisions = {
 				exists = ITA
 			}
 			NOT = {
-				exists = ARL
+				tag = ARL
 			}
 			NOT = {
-				exists = AQT
+				tag = AQT
+			}
+			NOT = {
+				tag = FMM
 			}
 		}
 		
