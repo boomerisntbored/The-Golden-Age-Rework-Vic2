@@ -1,49 +1,49 @@
 2019 = {
 	aristocrats=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=1350
 	}
 
 	bureaucrats=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	officers=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=725
 	}
 
 	artisans=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=2800
 	}
 
 	soldiers=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=700
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=54225
 	}
@@ -94,35 +94,35 @@
 2020 = {
 	aristocrats=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	clergymen=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	artisans=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	soldiers=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=5225
 	}
@@ -171,35 +171,35 @@
 
 	aristocrats=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=725
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=8550
 	}
@@ -250,35 +250,35 @@
 
 	aristocrats=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=775
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=8450
 	}
@@ -287,35 +287,35 @@
 2022 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=775
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=14450
 	}
@@ -366,35 +366,35 @@
 2023 = {
 	aristocrats=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	clergymen=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	artisans=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=575
 	}
 
 	soldiers=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = african_minor
 		religion = animist
 		size=6850
 	}

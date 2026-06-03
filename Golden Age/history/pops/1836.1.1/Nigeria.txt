@@ -433,42 +433,42 @@
 
 	aristocrats=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=1550
 	}
 
 	clergymen=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=775
 	}
 
 	artisans=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=3125
 	}
 
 	soldiers=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=800
 	}
 
 	farmers=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=45750
 	}
 
 	slaves=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=26000
 	}
@@ -767,42 +767,42 @@
 1935 = {
 	aristocrats=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=2075
 	}
 
 	clergymen=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=1050
 	}
 
 	artisans=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=4175
 	}
 
 	soldiers=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=1050
 	}
 
 	farmers=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=78650
 	}
 
 	slaves=
 	{
-		culture = ibo
+		culture = african_minor
 		religion = animist
 		size=17000
 	}
@@ -811,42 +811,42 @@
 1936 = {
 	aristocrats=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=1850
 	}
 
 	clergymen=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=925
 	}
 
 	artisans=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=3725
 	}
 
 	soldiers=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=950
 	}
 
 	farmers=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=62550
 	}
 
 	slaves=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=23000
 	}
@@ -855,42 +855,42 @@
 1937 = {
 	aristocrats=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=875
 	}
 
 	clergymen=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	artisans=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=1775
 	}
 
 	soldiers=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	farmers=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=34250
 	}
 
 	slaves=
 	{
-		culture = tiv
+		culture = african_minor
 		religion = animist
 		size=8000
 	}
@@ -1159,35 +1159,35 @@
 
 	aristocrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=375
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=775
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=12600
 	}
@@ -1805,35 +1805,35 @@
 
 	aristocrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=225
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=525
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=10125
 	}

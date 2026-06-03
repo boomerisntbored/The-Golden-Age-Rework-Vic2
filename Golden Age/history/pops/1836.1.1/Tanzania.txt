@@ -233,35 +233,35 @@
 2040 = {
 	aristocrats=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	clergymen=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	artisans=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=800
 	}
 
 	soldiers=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=15425
 	}
@@ -310,7 +310,7 @@
 
 	slaves=
 	{
-		culture = chewa
+		culture = african_minor
 		religion = animist
 		size=2000
 	}
@@ -377,35 +377,35 @@
 2042 = {
 	aristocrats=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	clergymen=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	artisans=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=800
 	}
 
 	soldiers=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=13225
 	}
@@ -489,35 +489,35 @@
 
 	aristocrats=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=525
 	}
 
 	clergymen=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	artisans=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=1100
 	}
 
 	soldiers=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	farmers=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=17825
 	}
@@ -526,35 +526,35 @@
 2043 = {
 	aristocrats=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=1075
 	}
 
 	clergymen=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=550
 	}
 
 	artisans=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=2200
 	}
 
 	soldiers=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=550
 	}
 
 	farmers=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=37625
 	}
@@ -603,42 +603,42 @@
 
 	aristocrats=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=2700
 	}
 
 	slaves=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=6000
 	}
@@ -647,70 +647,70 @@
 2044 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=475
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=1100
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=9025
 	}
 
 	aristocrats=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	clergymen=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	artisans=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=600
 	}
 
 	soldiers=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	farmers=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=3825
 	}
@@ -724,105 +724,105 @@
 
 	aristocrats=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=925
 	}
 
 	clergymen=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=475
 	}
 
 	artisans=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=2350
 	}
 
 	soldiers=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=475
 	}
 
 	farmers=
 	{
-		culture = sukuma
+		culture = african_minor
 		religion = animist
 		size=42775
 	}
 
 	aristocrats=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=10
 	}
 
 	clergymen=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	artisans=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=15
 	}
 
 	farmers=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=900
 	}
 
 	aristocrats=
 	{
-		culture = ruanda
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = ruanda
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = ruanda
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = ruanda
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = ruanda
+		culture = african_minor
 		religion = animist
 		size=2700
 	}
@@ -889,35 +889,35 @@
 2046 = {
 	aristocrats=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=1075
 	}
 
 	clergymen=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=550
 	}
 
 	artisans=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=2200
 	}
 
 	soldiers=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=550
 	}
 
 	farmers=
 	{
-		culture = unyamwezi
+		culture = african_minor
 		religion = animist
 		size=31425
 	}
@@ -966,35 +966,35 @@
 
 	aristocrats=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	farmers=
 	{
-		culture = rundi
+		culture = african_minor
 		religion = animist
 		size=3650
 	}
