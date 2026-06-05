@@ -569,19 +569,21 @@ emigration_chance =
 #general assimilation mtth, same for all pops
 assimilation_chance = 
 {
-	factor = 1
+	factor = 0.25
 	
-group = {
+	group = {
 		modifier = {
-			factor = 0.1
+			factor = 1.1
+			literacy = 0.4
+			NOT = { literacy = 0.6 }
+		}
+		modifier = {
+			factor = 1.25
 			literacy = 0.6
+			NOT = { literacy = 0.8 }
 		}
 		modifier = {
-			factor = 0.1
-			literacy = 0.7
-		}
-		modifier = {
-			factor = 0.1
+			factor = 1.5
 			literacy = 0.8
 		}
 	}	
@@ -600,227 +602,210 @@ group = {
 
 	group = {
 		modifier = {
-			factor = 0.2
-			luxury_needs = 0.9
-		}
-		modifier = {
-			factor = 0.2
-			luxury_needs = 0.7
-		}
-		modifier = {
-			factor = 0.2
-			luxury_needs = 0.5
-		}
-		modifier = {
-			factor = 0.2
-			luxury_needs = 0.3
-		}
-		modifier = {
-			factor = 0.2
+			factor = 1.1
 			luxury_needs = 0.1
+			NOT = { luxury_needs = 0.4 }
+		}
+		modifier = {
+			factor = 1.2
+			luxury_needs = 0.4
+			NOT = { luxury_needs = 0.7 }
+		}
+		modifier = {
+			factor = 1.4
+			luxury_needs = 0.7
+			NOT = { luxury_needs = 0.9 }
+		}
+		modifier = {
+			factor = 1.6
+			luxury_needs = 0.9
 		}
 	}
 
-
 	group = {
 		modifier = {
-			factor = -0.2
+			factor = 0.75
+			militancy = 4
+			NOT = { militancy = 7 }
+		}
+		modifier = {
+			factor = 0.5
 			militancy = 7
+			NOT = { militancy = 9 }
 		}
 		modifier = {
-			factor = -0.2
-			militancy = 8
-		}
-		modifier = {
-			factor = -0.2
+			factor = 0.2
 			militancy = 9
 		}
 	}
 
 	modifier = {
-		factor = 1
+		factor = 1.5
 		is_accepted_culture = yes
 	}
 
-
 	group = {
 		modifier = {
-			factor = 0.05
+			factor = 1.05
 			NOT = { unemployment = 0.1 }
 		}
 		modifier = {
-			factor = 0.05
+			factor = 1.1
 			NOT = { unemployment = 0.05 }
 		}
 	}
 	
 	modifier = {
-    factor = 5000
-
-    country = {
-        primary_culture = anglois
-    }
-        OR = {
-            has_pop_culture = british
-            has_pop_culture = aquitaine
+		factor = 5000
+		country = {
+			primary_culture = anglois
+		}
+		OR = {
+			has_pop_culture = british
+			has_pop_culture = aquitaine
 			has_pop_culture = normand
-        }
-    }
+		}
+	}
 	
 	modifier = {
-    factor = 5000
-
-    country = {
-        primary_culture = british
-    }
-        OR = {
-            has_pop_culture = anglois
-        }
-    }
+		factor = 5000
+		country = {
+			primary_culture = british
+		}
+		OR = {
+			has_pop_culture = anglois
+		}
+	}
 	
 	modifier = {
-    factor = 10
-
-    country = {
-        primary_culture = cosmopolitan_french
-    }
-        OR = {
-            has_pop_culture = normand
-        }
-    }
+		factor = 10
+		country = {
+			primary_culture = cosmopolitan_french
+		}
+		OR = {
+			has_pop_culture = normand
+		}
+	}
 	
 	modifier = {
-    factor = 10
-
-    country = {
-        primary_culture = cosmopolitan_french
-    }
-        OR = {
-            has_pop_culture = aquitaine
-        }
-    }
+		factor = 10
+		country = {
+			primary_culture = cosmopolitan_french
+		}
+		OR = {
+			has_pop_culture = aquitaine
+		}
+	}
 	
 	modifier = {
-    factor = 15
-
-    country = {
-        primary_culture = swedish
-    }
-        OR = {
-            has_pop_culture = russian
-        }
-    }
+		factor = 15
+		country = {
+			primary_culture = swedish
+		}
+		OR = {
+			has_pop_culture = russian
+		}
+	}
 	
 	modifier = {
-    factor = 50
-
-    country = {
-        primary_culture = anglois
-    }
-        OR = {
-            has_pop_culture = cosmopolitan_french
-        }
-    }
+		factor = 50
+		country = {
+			primary_culture = anglois
+		}
+		OR = {
+			has_pop_culture = cosmopolitan_french
+		}
+	}
 	
 	modifier = {
-    factor = 15
-
-    country = {
-        primary_culture = cosmopolitan_french
-    }
-        OR = {
-            has_pop_culture = anglois
-        }
-    }
+		factor = 15
+		country = {
+			primary_culture = cosmopolitan_french
+		}
+		OR = {
+			has_pop_culture = anglois
+		}
+	}
 	
 	modifier = {
-    factor = 5
-
-    country = {
-        primary_culture = czech
-    }
-        OR = {
-            has_pop_culture = north_german
-        }
-    }
+		factor = 5
+		country = {
+			primary_culture = czech
+		}
+		OR = {
+			has_pop_culture = north_german
+		}
+	}
 	
 	modifier = {
-    factor = 5
-
-    country = {
-        primary_culture = south_german
-    }
-        OR = {
-            has_pop_culture = north_german
-        }
-    }
+		factor = 5
+		country = {
+			primary_culture = south_german
+		}
+		OR = {
+			has_pop_culture = north_german
+		}
+	}
 	
 	modifier = {
-    factor = 5
-
-    country = {
-        primary_culture = north_german
-    }
-        OR = {
-            has_pop_culture = south_german
-        }
-    }
+		factor = 5
+		country = {
+			primary_culture = north_german
+		}
+		OR = {
+			has_pop_culture = south_german
+		}
+	}
 	
 	modifier = {
-    factor = 5
-
-    country = {
-        primary_culture = south_italian
-    }
-        OR = {
-            has_pop_culture = north_italian
-        }
-    }
+		factor = 5
+		country = {
+			primary_culture = south_italian
+		}
+		OR = {
+			has_pop_culture = north_italian
+		}
+	}
 	
 	modifier = {
-    factor = 5
-
-    country = {
-        primary_culture = north_italian
-    }
-        OR = {
-            has_pop_culture = south_italian
-        }
-    }
+		factor = 5
+		country = {
+			primary_culture = north_italian
+		}
+		OR = {
+			has_pop_culture = south_italian
+		}
+	}
 	
 	modifier = {
-    factor = 5
-
-    country = {
-        primary_culture = czech
-    }
-        OR = {
-            has_pop_culture = south_german
-        }
-    }
+		factor = 5
+		country = {
+			primary_culture = czech
+		}
+		OR = {
+			has_pop_culture = south_german
+		}
+	}
 	
 	modifier = {
-    factor = 10
-
-    country = {
-        primary_culture = castillian
-    }
-        OR = {
-            has_pop_culture = galician
-        }
-    }
+		factor = 10
+		country = {
+			primary_culture = castillian
+		}
+		OR = {
+			has_pop_culture = galician
+		}
+	}
 	
-	
-modifier = {
-    factor = 10
-
-    country = {
-				has_country_flag = AUSSS
-			}
-        OR = {
-            has_pop_culture = czech
-        }
-    }
+	modifier = {
+		factor = 10
+		country = {
+			has_country_flag = AUSSS
+		}
+		OR = {
+			has_pop_culture = czech
+		}
+	}
 }
 
 #general conversion mtth, same for all pops
