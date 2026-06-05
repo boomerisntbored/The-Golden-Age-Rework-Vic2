@@ -1,84 +1,84 @@
 2049 = {
 	aristocrats=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=1600
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=28250
 	}
 
 	slaves=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=5000
 	}
 
 	aristocrats=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	clergymen=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=225
 	}
 
 	artisans=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=1750
 	}
 
 	soldiers=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	farmers=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=9525
 	}
 
 	slaves=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=13000
 	}
@@ -87,84 +87,84 @@
 2050 = {
 	aristocrats=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=1600
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=23250
 	}
 
 	slaves=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=5000
 	}
 
 	aristocrats=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	artisans=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=1850
 	}
 
 	soldiers=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	farmers=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=19075
 	}
 
 	slaves=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=16000
 	}
@@ -173,84 +173,84 @@
 2051 = {
 	aristocrats=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=600
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=8975
 	}
 
 	slaves=
 	{
-		culture = nguni
+		culture = african_minor
 		religion = animist
 		size=2000
 	}
 
 	aristocrats=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	artisans=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=1400
 	}
 
 	soldiers=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	farmers=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=18600
 	}
 
 	slaves=
 	{
-		culture = tonga
+		culture = african_minor
 		religion = animist
 		size=11000
 	}
@@ -1013,42 +1013,42 @@
 2581 = {
 	aristocrats=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	clergymen=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	artisans=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=2100
 	}
 
 	soldiers=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	farmers=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=35600
 	}
 
 	slaves=
 	{
-		culture = yao
+		culture = african_minor
 		religion = animist
 		size=2000
 	}

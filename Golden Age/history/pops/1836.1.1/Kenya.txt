@@ -1,35 +1,35 @@
 2024 = {
 	aristocrats=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=925
 	}
 
 	clergymen=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=475
 	}
 
 	artisans=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=2400
 	}
 
 	soldiers=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=500
 	}
 
 	farmers=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=43700
 	}
@@ -71,35 +71,35 @@
 
 	aristocrats=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	farmers=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=3650
 	}
@@ -108,35 +108,35 @@
 2026 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=4625
 	}
@@ -187,70 +187,70 @@
 2027 = {
 	aristocrats=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	clergymen=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	artisans=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	soldiers=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = kikuyu
+		culture = african_minor
 		religion = animist
 		size=7350
 	}
 
 	aristocrats=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	artisans=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=650
 	}
 
 	soldiers=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	farmers=
 	{
-		culture = maasai
+		culture = african_minor
 		religion = animist
 		size=11725
 	}
@@ -301,35 +301,35 @@
 2028 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=775
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=20350
 	}

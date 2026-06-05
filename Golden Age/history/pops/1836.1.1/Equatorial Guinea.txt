@@ -36,28 +36,28 @@
 
 	artisans=
 	{
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size=120
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = catholic
 		size=1530
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=1100
 	}
@@ -66,35 +66,35 @@
 1973 = {
 	aristocrats=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=1500
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=31500
 	}

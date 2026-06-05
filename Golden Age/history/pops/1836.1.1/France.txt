@@ -2330,7 +2330,7 @@
 	{
 		culture = aquitaine
 		religion = catholic
-		size=102268
+		size=10226
 	}
 
 }
@@ -3175,7 +3175,7 @@
 	{
 		culture = aquitaine
 		religion = catholic
-		size=1645
+		size=10
 	}
 
 	artisans=
@@ -3217,7 +3217,7 @@
 	{
 		culture = aquitaine
 		religion = catholic
-		size=130084
+		size=13008
 	}
 
 }

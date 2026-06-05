@@ -154,35 +154,35 @@
 1850 = {
 	aristocrats=
 	{
-		culture = tigray
+		culture = african_minor
 		religion = coptic
 		size=125
 	}
 
 	clergymen=
 	{
-		culture = tigray
+		culture = african_minor
 		religion = coptic
 		size=75
 	}
 
 	artisans=
 	{
-		culture = tigray
+		culture = african_minor
 		religion = coptic
 		size=350
 	}
 
 	soldiers=
 	{
-		culture = tigray
+		culture = african_minor
 		religion = coptic
 		size=75
 	}
 
 	farmers=
 	{
-		culture = tigray
+		culture = african_minor
 		religion = coptic
 		size=6375
 	}

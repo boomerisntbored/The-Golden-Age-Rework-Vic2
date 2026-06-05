@@ -168,84 +168,84 @@
 1821 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=175
 	}
 
 	bureaucrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=15
 	}
 
 	officers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=35
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=550
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=7015
 	}
 
 	aristocrats=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	soldiers=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	farmers=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=4500
 	}
@@ -261,35 +261,35 @@
 1822 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=275
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=600
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=10825
 	}
@@ -303,35 +303,35 @@
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=175
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=3650
 	}
@@ -340,70 +340,70 @@
 1823 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=350
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=175
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=725
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=13550
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=2700
 	}
@@ -512,35 +512,35 @@
 1825 = {
 	aristocrats=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	artisans=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=800
 	}
 
 	soldiers=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=175
 	}
 
 	farmers=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=14575
 	}
@@ -584,35 +584,35 @@
 1826 = {
 	aristocrats=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	clergymen=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=350
 	}
 
 	soldiers=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	farmers=
 	{
-		culture = teda
+		culture = african_minor
 		religion = sunni
 		size=6375
 	}

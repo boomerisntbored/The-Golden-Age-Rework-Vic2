@@ -1457,6 +1457,194 @@ political_decisions = {
 			factor = 1
 			}
     }
+	Francia_media  = {
+        potential = {
+            OR = {                
+                tag = BRG  				
+            }
+            NOT = { exists = FMM }
+			 NOT = {
+		    has_country_flag = dutch
+		}
+        }
+
+        allow = {         
+            war = no          
+            SWI = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 SAV = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 GNA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 LOM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 MOD = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 MOD = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 TUS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 SNA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+			 AUS_726 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 AUS_729 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            prestige = 1
+            change_tag = FMM
+			add_accepted_culture = swiss
+			add_accepted_culture = north_italian
+            SWI = {
+				all_core = { add_core = FMM}
+			}
+			SAV = {
+				all_core = { add_core = FMM}
+			}
+			LOM = {
+				all_core = { add_core = FMM}
+			}
+			MOD = {
+				all_core = { add_core = FMM}
+			}
+			GNA = {
+				all_core = { add_core = FMM}
+			}
+			TUS = {
+				all_core = { add_core = FMM}
+			}
+			SNA = {
+				all_core = { add_core = FMM}
+			}
+			FRA_467 = {
+				add_core = FMM
+			}
+			FRA_451 = {
+				add_core = FMM
+			}
+			AUS_726 = {
+				add_core = FMM
+			}
+			AUS_729 = {
+				add_core = FMM
+			}
+			FRA_404 = {
+				add_core = FMM
+			}
+			inherit = SWI
+			inherit = SAV
+			inherit = LOM
+			inherit = MOD
+			inherit = GNA
+			inherit = TUS
+			inherit = SNA
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
 	Aquitania  = {
         potential = {
             OR = {                

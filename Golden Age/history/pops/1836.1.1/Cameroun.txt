@@ -66,49 +66,49 @@
 
 	soldiers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=560
 	}
 
 	artisans=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=2240
 	}
 
 	clergymen=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=560
 	}
 
 	bureaucrats=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=28
 	}
 
 	officers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=22
 	}
 
 	aristocrats=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=1380
 	}
 
 	farmers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=39210
 	}
@@ -159,42 +159,42 @@
 
 	aristocrats=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=325
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=725
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=11600
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=5000
 	}
@@ -203,42 +203,42 @@
 1959 = {
 	aristocrats=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=525
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=1125
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=16800
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=9000
 	}
@@ -296,49 +296,49 @@
 
 	soldiers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=690
 	}
 
 	artisans=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=2760
 	}
 
 	clergymen=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=690
 	}
 
 	bureaucrats=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=35
 	}
 
 	officers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=28
 	}
 
 	aristocrats=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=1700
 	}
 
 	farmers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=44097
 	}
@@ -347,42 +347,42 @@
 1962 = {
 	aristocrats=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=1225
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=625
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=2500
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=625
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=34025
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = african_minor
 		religion = animist
 		size=17000
 	}
@@ -440,49 +440,49 @@
 
 	soldiers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=931
 	}
 
 	artisans=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=3722
 	}
 
 	clergymen=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=931
 	}
 
 	bureaucrats=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=47
 	}
 
 	officers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=37
 	}
 
 	aristocrats=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=2293
 	}
 
 	farmers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = animist
 		size=63089
 	}
@@ -491,49 +491,49 @@
 1963 = {
 	aristocrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=500
 	}
 
 	bureaucrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	officers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=250
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=1050
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=275
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=19825
 	}

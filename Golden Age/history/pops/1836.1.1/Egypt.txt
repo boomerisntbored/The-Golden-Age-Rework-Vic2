@@ -1426,49 +1426,49 @@
 1771 = {
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=114
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=325
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	bureaucrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=5
 	}
 
 	officers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=4
 	}
 
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=73
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=4429
 	}

@@ -152,35 +152,35 @@
 
 	aristocrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=5475
 	}
@@ -347,21 +347,21 @@
 1796 = {
 	aristocrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=225
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=525
 	}
@@ -375,7 +375,7 @@
 
 	farmers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=8000
 	}
