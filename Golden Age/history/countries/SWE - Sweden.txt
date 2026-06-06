@@ -1,5 +1,6 @@
 capital=322
 primary_culture = swedish
+culture = norwegian
 culture = finnish
 religion = catholic
 government = absolute_monarchy
