@@ -219,70 +219,70 @@
 1883 = {
 	aristocrats=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=800
 	}
 
 	clergymen=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=400
 	}
 
 	artisans=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=1650
 	}
 
 	soldiers=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=425
 	}
 
 	farmers=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=32725
 	}
 
 	aristocrats=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=250
 	}
 
 	soldiers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	farmers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=4550
 	}

@@ -358,25 +358,25 @@ flexible_counterattacks = {
 	}
 	effect = {
 		infantry = {
-			attack = 1
+			attack = 3
 		}
 		guard = {
-			attack = 1
+			attack = 3
 		}
 		engineer = {
-			attack = 1
+			attack = 3
 		}
 		dragoon = {
-			attack = 1
+			attack = 3
 		}
 		hussar = {
-			attack = 1
+			attack = 3
 		}
 		cavalry = {
-			attack = 0.5
+			attack = 1.5
 		}
 		irregular = {
-			attack = 0.5
+			attack = 1.5
 		}
 		army_base = {
 			supply_consumption = 0.05
@@ -687,19 +687,19 @@ muzzle_loaded_rifle_armament = {
 	}
 	effect = {
 		infantry = {
-			attack = 1
+			attack = 2
 			supply_consumption = 0.10
 		}
 		engineer = {
-			attack = 1
+			attack = 2
 			supply_consumption = 0.10
 		}
 		dragoon = {
-			attack = 1
+			attack = 2
 			supply_consumption = 0.10
 		}
 		cavalry = {
-			attack = 0.5
+			attack = 1
 			supply_consumption = 0.10
 		}
 		irregular = {
@@ -722,11 +722,11 @@ breech_loaded_rifle_armament = {
 	}
 	effect = {
 		infantry = {
-			attack = 1
+			attack = 2
 			supply_consumption = 0.20
 		}
 		guard = {
-			attack = 1
+			attack = 2
 			supply_consumption = 0.20
 		}
 		engineer = {
@@ -738,15 +738,15 @@ breech_loaded_rifle_armament = {
 			supply_consumption = 0.20
 		}
 		hussar = {
-			attack = 1
+			attack = 2
 			supply_consumption = 0.20
 		}
 		cavalry = {
-			attack = 0.5
+			attack = 1
 			supply_consumption = 0.20
 		}
 		irregular = {
-			attack = 0.5
+			attack = 1
 			supply_consumption = 0.20
 		}
 	}

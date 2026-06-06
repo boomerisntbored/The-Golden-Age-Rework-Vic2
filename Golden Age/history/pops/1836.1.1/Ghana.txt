@@ -407,35 +407,35 @@
 
 	aristocrats=
 	{
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	clergymen=
 	{
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	artisans=
 	{
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size=725
 	}
 
 	soldiers=
 	{
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = ewe
+		culture = african_minor
 		religion = animist
 		size=11550
 	}

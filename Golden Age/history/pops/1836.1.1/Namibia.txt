@@ -1,70 +1,70 @@
 2078 = {
 	aristocrats=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	soldiers=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=5475
 	}
 
 	aristocrats=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=225
 	}
 
 	clergymen=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	artisans=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=600
 	}
 
 	soldiers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	farmers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=10925
 	}
@@ -73,35 +73,35 @@
 2079 = {
 	aristocrats=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	clergymen=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	artisans=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	soldiers=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=8200
 	}
@@ -182,35 +182,35 @@
 2082 = {
 	aristocrats=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	soldiers=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = african_minor
 		religion = animist
 		size=5475
 	}
@@ -289,35 +289,35 @@
 
 	aristocrats=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=15
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=10
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=900
 	}
@@ -326,35 +326,35 @@
 2083 = {
 	aristocrats=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=15
 	}
 
 	clergymen=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	artisans=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=10
 	}
 
 	farmers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=900
 	}
@@ -363,35 +363,35 @@
 2084 = {
 	aristocrats=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	clergymen=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	soldiers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=6375
 	}
@@ -400,70 +400,70 @@
 2085 = {
 	aristocrats=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=1800
 	}
 
 	aristocrats=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=15
 	}
 
 	clergymen=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	artisans=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=10
 	}
 
 	farmers=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=900
 	}
@@ -472,70 +472,70 @@
 2086 = {
 	aristocrats=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	farmers=
 	{
-		culture = khoisan
+		culture = african_minor
 		religion = animist
 		size=3650
 	}
 
 	aristocrats=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=15
 	}
 
 	clergymen=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	artisans=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=10
 	}
 
 	farmers=
 	{
-		culture = tswana
+		culture = african_minor
 		religion = animist
 		size=900
 	}

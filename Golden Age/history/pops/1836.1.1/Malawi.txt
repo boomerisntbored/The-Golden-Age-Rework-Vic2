@@ -59,77 +59,77 @@
 2067 = {
 	aristocrats=
 	{
-		culture = chewa
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	clergymen=
 	{
-		culture = chewa
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	artisans=
 	{
-		culture = chewa
+		culture = african_minor
 		religion = animist
 		size=950
 	}
 
 	soldiers=
 	{
-		culture = chewa
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = chewa
+		culture = african_minor
 		religion = animist
 		size=17300
 	}
 
 	slaves=
 	{
-		culture = chewa
+		culture = african_minor
 		religion = animist
 		size=4000
 	}
 
 	aristocrats=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=850
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=225
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=15125
 	}

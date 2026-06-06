@@ -326,35 +326,35 @@
 
 	aristocrats=
 	{
-		culture = maures
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = maures
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = maures
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = maures
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	farmers=
 	{
-		culture = maures
+		culture = african_minor
 		religion = sunni
 		size=1700
 	}
@@ -414,49 +414,49 @@
 1789 = {
 	aristocrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=550
 	}
 
 	bureaucrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	officers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=1175
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=21600
 	}

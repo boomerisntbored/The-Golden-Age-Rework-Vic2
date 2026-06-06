@@ -24,37 +24,59 @@ require('ai_country')
 
 -- loading screen randomizer function
 function RandomizeLoadingScreens()
-	local ls_i_array = {}
-	local ls_num = 11
+    local ls_dir = "mod\\Golden Age\\gfx\\loadingscreens\\"
+    
+    -- 1. Generar una lista de todos los archivos .dds reales de la carpeta de forma invisible
+    -- Usamos /B para solo nombres y > para guardarlo en un archivo de texto temporal
+    local list_file = ls_dir .. "file_list.tmp"
+    os.execute('dir "' .. ls_dir .. '*.dds" /B > "' .. list_file .. '"')
 
-	for i=1, ls_num do
-		ls_i_array[i] = i
-	end
+    -- 2. Leer ese archivo de texto y meter los nombres reales en una tabla
+    local raw_files = {}
+    local f = io.open(list_file, "r")
+    if f then
+        for line in f:lines() do
+            if line ~= "" then
+                table.insert(raw_files, line)
+            end
+        end
+        f:close()
+        os.remove(list_file) -- Borramos el archivo temporal de texto
+    end
 
-	for i = #ls_i_array, 1, -1 do
-		local j = math.random(i)
-		ls_i_array[i], ls_i_array[j] = ls_i_array[j], ls_i_array[i]
-	end
+    local total_files = #raw_files
+    if total_files == 0 then return end -- Si no hay archivos, frena para evitar errores
 
-	local ls_dir = "mod\\Golden Age\\gfx\\loadingscreens\\"
-	local ls_start = "load_"
-	local ls_end = ".dds"
+    -- 3. PASO CLAVE: Renombrar TODO el desorden actual a "pantalla_1.dds", "pantalla_2.dds", etc.
+    -- Esto limpia de raíz los nombres raros de tu captura (load_22, load_3, etc.)
+    for i = 1, total_files do
+        local old_path = ls_dir .. raw_files[i]
+        local temp_path = string.format("%spantalla_%d.dds", ls_dir, i)
+        os.rename(old_path, temp_path)
+    end
 
-	for i=1, #ls_i_array do
-		local ls_mid = string.format("%02d", i)
-		local ls_old = ls_dir .. ls_start .. ls_mid .. ls_end
-		local ls_temp = ls_dir .. ls_mid .. ls_end
-		os.rename(ls_old, ls_temp)
-	end
+    -- 4. Crear la lista de índices aleatorios (Fisher-Yates Shuffle)
+    local ls_i_array = {}
+    for i = 1, total_files do
+        ls_i_array[i] = i
+    end
 
-	for i, index in pairs(ls_i_array) do
-		local ls_old_mid = string.format("%02d", i)
-		local ls_new_mid = string.format("%02d", index)
-		local ls_old = ls_dir .. ls_old_mid .. ls_end
-		local ls_new = ls_dir .. ls_start .. ls_new_mid .. ls_end
-		os.rename(ls_old, ls_new)
-	end
+    math.randomseed(os.time())
+    for i = total_files, 1, -1 do
+        local j = math.random(i)
+        ls_i_array[i], ls_i_array[j] = ls_i_array[j], ls_i_array[i]
+    end
 
+    -- 5. Pasar de "pantalla_X" al nombre definitivo "load_XX" usando el orden aleatorio
+    for i = 1, total_files do
+        local temp_path = string.format("%spantalla_%d.dds", ls_dir, i)
+        
+        -- El destino final usará el formato limpio: load_01.dds, load_02.dds, etc.
+        local dest_mid = string.format("%02d", ls_i_array[i])
+        local final_path = string.format("%sload_%s.dds", ls_dir, dest_mid)
+        
+        os.rename(temp_path, final_path)
+    end
 end
 
 RandomizeLoadingScreens()

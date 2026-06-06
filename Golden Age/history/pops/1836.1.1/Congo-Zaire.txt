@@ -8,49 +8,49 @@
 
 	soldiers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = shamanism
 		size=256
 	}
 
 	artisans=
 	{
-		culture = akan
+		culture = african_minor
 		religion = shamanism
 		size=1280
 	}
 
 	clergymen=
 	{
-		culture = akan
+		culture = african_minor
 		religion = shamanism
 		size=320
 	}
 
 	bureaucrats=
 	{
-		culture = akan
+		culture = african_minor
 		religion = shamanism
 		size=16
 	}
 
 	officers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = shamanism
 		size=13
 	}
 
 	aristocrats=
 	{
-		culture = akan
+		culture = african_minor
 		religion = shamanism
 		size=986
 	}
 
 	farmers=
 	{
-		culture = akan
+		culture = african_minor
 		religion = shamanism
 		size=22129
 	}
@@ -117,35 +117,35 @@
 1984 = {
 	aristocrats=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=50
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=625
 	}
@@ -196,35 +196,35 @@
 1985 = {
 	aristocrats=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=650
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=12725
 	}
@@ -275,35 +275,35 @@
 1986 = {
 	aristocrats=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	artisans=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=650
 	}
 
 	soldiers=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	farmers=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=8725
 	}
@@ -354,49 +354,49 @@
 1987 = {
 	aristocrats=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=1950
 	}
 
 	bureaucrats=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=20
 	}
 
 	officers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=80
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=975
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=3925
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=81050
 	}
@@ -447,77 +447,77 @@
 1988 = {
 	aristocrats=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=675
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = african_minor
 		religion = animist
 		size=9675
 	}
 
 	aristocrats=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	clergymen=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	artisans=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=500
 	}
 
 	soldiers=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	farmers=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=9125
 	}
 
 	slaves=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=6000
 	}
@@ -526,35 +526,35 @@
 1989 = {
 	aristocrats=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=1100
 	}
 
 	clergymen=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=500
 	}
 
 	artisans=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=2050
 	}
 
 	soldiers=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=525
 	}
 
 	farmers=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=33925
 	}
@@ -605,35 +605,35 @@
 1990 = {
 	aristocrats=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=225
 	}
 
 	clergymen=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	artisans=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=525
 	}
 
 	soldiers=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	farmers=
 	{
-		culture = luba
+		culture = african_minor
 		religion = animist
 		size=8000
 	}
@@ -728,42 +728,42 @@
 1992 = {
 	aristocrats=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=575
 	}
 
 	clergymen=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	artisans=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=1200
 	}
 
 	soldiers=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	farmers=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=20725
 	}
 
 	slaves=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=7000
 	}
@@ -772,42 +772,42 @@
 1993 = {
 	aristocrats=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	clergymen=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	artisans=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=600
 	}
 
 	soldiers=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	farmers=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=10825
 	}
 
 	slaves=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=3000
 	}
@@ -860,42 +860,42 @@
 1995 = {
 	aristocrats=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=550
 	}
 
 	clergymen=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	artisans=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=1125
 	}
 
 	soldiers=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	farmers=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=21750
 	}
 
 	slaves=
 	{
-		culture = mongo
+		culture = african_minor
 		religion = animist
 		size=4000
 	}
@@ -948,35 +948,35 @@
 1997 = {
 	aristocrats=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	clergymen=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	artisans=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	soldiers=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	farmers=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=6250
 	}
@@ -1027,35 +1027,35 @@
 1998 = {
 	aristocrats=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=525
 	}
 
 	clergymen=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	artisans=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=1350
 	}
 
 	soldiers=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	farmers=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=24575
 	}

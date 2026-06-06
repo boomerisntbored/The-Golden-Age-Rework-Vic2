@@ -1,49 +1,49 @@
 1827 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=650
 	}
 
 	bureaucrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=40
 	}
 
 	officers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=110
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=425
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=2125
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=4000
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=35150
 	}
@@ -71,35 +71,35 @@
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=275
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=800
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=14650
 	}
@@ -113,7 +113,7 @@
 
 	slaves=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=5000
 	}
@@ -122,35 +122,35 @@
 1828 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=375
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=225
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=1150
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=20250
 	}
@@ -164,7 +164,7 @@
 
 	slaves=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=4000
 	}
@@ -173,35 +173,35 @@
 1829 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=400
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=225
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=1150
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=20225
 	}
@@ -250,35 +250,35 @@
 
 	aristocrats=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=3625
 	}
@@ -287,35 +287,35 @@
 1830 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=475
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=250
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=1350
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=21925
 	}
@@ -364,35 +364,35 @@
 
 	aristocrats=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	clergymen=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	soldiers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=7300
 	}
@@ -401,70 +401,70 @@
 1831 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=350
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=975
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=17475
 	}
 
 	aristocrats=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	clergymen=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	soldiers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=7275
 	}
@@ -480,70 +480,70 @@
 1832 = {
 	aristocrats=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	clergymen=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	artisans=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=750
 	}
 
 	soldiers=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	farmers=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=13675
 	}
 
 	aristocrats=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	clergymen=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	soldiers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=6375
 	}
@@ -594,49 +594,49 @@
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=342
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=975
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	bureaucrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=14
 	}
 
 	officers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=12
 	}
 
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=218
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=11289
 	}
@@ -645,49 +645,49 @@
 1834 = {
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=274
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=780
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=120
 	}
 
 	bureaucrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=11
 	}
 
 	officers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=10
 	}
 
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=175
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=10630
 	}
@@ -696,84 +696,84 @@
 1835 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	bureaucrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=10
 	}
 
 	officers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=40
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=2600
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=250
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=700
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=12775
 	}
@@ -787,35 +787,35 @@
 
 	aristocrats=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=15
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=10
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=900
 	}
@@ -824,105 +824,105 @@
 1836 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=3625
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=3600
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=325
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=175
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=900
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=16400
 	}
@@ -931,105 +931,105 @@
 1837 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=15
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=10
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=900
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=5475
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = african_minor
 		religion = sunni
 		size=2700
 	}
@@ -1038,35 +1038,35 @@
 2564 = {
 	aristocrats=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=1800
 	}
@@ -1075,49 +1075,49 @@
 1838 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=500
 	}
 
 	bureaucrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	officers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=250
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=1100
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=450
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=23675
 	}
@@ -1133,35 +1133,35 @@
 1839 = {
 	aristocrats=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=475
 	}
 
 	clergymen=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	artisans=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=1100
 	}
 
 	soldiers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=425
 	}
 
 	farmers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=23850
 	}
@@ -1177,42 +1177,42 @@
 1840 = {
 	aristocrats=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	clergymen=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	artisans=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=725
 	}
 
 	soldiers=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	farmers=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=16450
 	}
 
 	slaves=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=11000
 	}
@@ -1256,49 +1256,49 @@
 1841 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=600
 	}
 
 	bureaucrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	officers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=325
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=1300
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=350
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=29275
 	}
@@ -1314,35 +1314,35 @@
 1842 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=325
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=175
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=750
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=250
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=16300
 	}
@@ -1356,35 +1356,35 @@
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = african_minor
 		religion = sunni
 		size=1800
 	}
@@ -1393,35 +1393,35 @@
 1843 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=350
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=6350
 	}
@@ -1470,42 +1470,42 @@
 
 	aristocrats=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	clergymen=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	artisans=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	soldiers=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=10050
 	}
 
 	slaves=
 	{
-		culture = nuba
+		culture = african_minor
 		religion = animist
 		size=7000
 	}
@@ -1514,105 +1514,105 @@
 1844 = {
 	aristocrats=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	farmers=
 	{
-		culture = sudanese
+		culture = african_minor
 		religion = sunni
 		size=2700
 	}
 
 	aristocrats=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=325
 	}
 
 	clergymen=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	artisans=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=850
 	}
 
 	soldiers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	farmers=
 	{
-		culture = dinka
+		culture = african_minor
 		religion = animist
 		size=15475
 	}
 
 	aristocrats=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=750
 	}
 
 	clergymen=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	artisans=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=1950
 	}
 
 	soldiers=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	farmers=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=35500
 	}
@@ -1663,77 +1663,77 @@
 1845 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = african_minor
 		religion = sunni
 		size=3650
 	}
 
 	aristocrats=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	clergymen=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=225
 	}
 
 	artisans=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=900
 	}
 
 	soldiers=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=325
 	}
 
 	farmers=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=20800
 	}
 
 	slaves=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=8000
 	}
@@ -1742,70 +1742,70 @@
 1846 = {
 	aristocrats=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	clergymen=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	artisans=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=1200
 	}
 
 	soldiers=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	farmers=
 	{
-		culture = azande
+		culture = african_minor
 		religion = animist
 		size=21850
 	}
 
 	aristocrats=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=325
 	}
 
 	clergymen=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	artisans=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=900
 	}
 
 	soldiers=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	farmers=
 	{
-		culture = nuer
+		culture = african_minor
 		religion = animist
 		size=16400
 	}
@@ -1856,35 +1856,35 @@
 1847 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=525
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=275
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=1400
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=300
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = african_minor
 		religion = animist
 		size=25500
 	}

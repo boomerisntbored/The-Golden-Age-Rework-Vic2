@@ -809,35 +809,35 @@
 
 	aristocrats=
 	{
-		culture = sidama
+		culture = african_minor
 		religion = sunni
 		size=2625
 	}
 
 	clergymen=
 	{
-		culture = sidama
+		culture = african_minor
 		religion = sunni
 		size=825
 	}
 
 	artisans=
 	{
-		culture = sidama
+		culture = african_minor
 		religion = sunni
 		size=5350
 	}
 
 	soldiers=
 	{
-		culture = sidama
+		culture = african_minor
 		religion = sunni
 		size=1350
 	}
 
 	farmers=
 	{
-		culture = sidama
+		culture = african_minor
 		religion = sunni
 		size=103850
 	}

@@ -87,42 +87,42 @@
 
 	aristocrats=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=725
 	}
 
 	clergymen=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	artisans=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=1500
 	}
 
 	soldiers=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=375
 	}
 
 	farmers=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=22025
 	}
 
 	slaves=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=10000
 	}
@@ -217,35 +217,35 @@
 
 	aristocrats=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	farmers=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=2700
 	}
@@ -254,77 +254,77 @@
 1896 = {
 	aristocrats=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	clergymen=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	artisans=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=400
 	}
 
 	soldiers=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	farmers=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=7300
 	}
 
 	aristocrats=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=425
 	}
 
 	clergymen=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=225
 	}
 
 	artisans=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=1100
 	}
 
 	soldiers=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=225
 	}
 
 	farmers=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=15025
 	}
 
 	slaves=
 	{
-		culture = kru
+		culture = african_minor
 		religion = animist
 		size=5000
 	}
@@ -377,91 +377,91 @@
 1898 = {
 	aristocrats=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	bureaucrats=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=15
 	}
 
 	officers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	artisans=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=600
 	}
 
 	soldiers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	farmers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=6910
 	}
 
 	aristocrats=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=175
 	}
 
 	clergymen=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	artisans=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=500
 	}
 
 	soldiers=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	farmers=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=9125
 	}
 
 	slaves=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=4000
 	}
@@ -470,77 +470,77 @@
 1899 = {
 	aristocrats=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=200
 	}
 
 	clergymen=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=100
 	}
 
 	artisans=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=550
 	}
 
 	soldiers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=125
 	}
 
 	farmers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=7025
 	}
 
 	aristocrats=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	clergymen=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	soldiers=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=6375
 	}
 
 	slaves=
 	{
-		culture = senufo
+		culture = african_minor
 		religion = animist
 		size=3000
 	}
@@ -549,70 +549,70 @@
 1900 = {
 	aristocrats=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	artisans=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=650
 	}
 
 	soldiers=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=175
 	}
 
 	farmers=
 	{
-		culture = mande
+		culture = african_minor
 		religion = sunni
 		size=11675
 	}
 
 	aristocrats=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	artisans=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=250
 	}
 
 	soldiers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=50
 	}
 
 	farmers=
 	{
-		culture = dyula
+		culture = african_minor
 		religion = sunni
 		size=4575
 	}

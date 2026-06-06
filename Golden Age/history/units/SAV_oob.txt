@@ -1,0 +1,16 @@
+army = {
+    name = "Esercito di Saboia"
+    location = 720
+    
+    regiment = { name= "1. Artiglieria" type = artillery home = 720 }
+    regiment = { name= "2. Artiglieria" type = artillery home = 720 }
+    regiment = { name= "3. Artiglieria" type = artillery home = 465 }
+    regiment = { name= "4. Artiglieria" type = artillery home = 466 }
+
+    regiment = { name= "1. Ussari" type = hussar home = 472 }
+
+
+    regiment = { name= "1. Fanteria" type = infantry home = 723 }
+    regiment = { name= "2. Fanteria" type = infantry home = 722 }
+
+}

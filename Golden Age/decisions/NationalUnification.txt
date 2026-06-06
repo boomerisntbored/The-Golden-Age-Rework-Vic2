@@ -172,6 +172,15 @@ political_decisions = {
 			NOT = {
 				exists = ITA
 			}
+			NOT = {
+				tag = ARL
+			}
+			NOT = {
+				tag = AQT
+			}
+			NOT = {
+				tag = FMM
+			}
 		}
 		
 		allow = {

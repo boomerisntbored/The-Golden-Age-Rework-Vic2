@@ -1,0 +1,35 @@
+army = {
+	name = "Lietuvos Kariuomene"
+	location = 360
+	
+	regiment = { name= "1st Artillery" type = artillery home = 963 }
+	regiment = { name= "2nd Artillery" type = artillery home = 963 }
+	regiment = { name= "3rd Artillery" type = artillery home = 963 }
+	regiment = { name= "4th Artillery" type = artillery home = 1018 }
+	regiment = { name= "5th Artillery" type = artillery home = 1018 }
+	regiment = { name= "6th Artillery" type = artillery home = 962 }
+	regiment = { name= "7th Artillery" type = artillery home = 962 }
+	regiment = { name= "8th Artillery" type = artillery home = 977 }
+	regiment = { name= "9th Artillery" type = artillery home = 977 }
+	regiment = { name= "10th Artillery" type = artillery home = 361 }
+	regiment = { name= "11th Artillery" type = artillery home = 362 }
+	regiment = { name= "12th Artillery" type = artillery home = 364 }
+	regiment = { name= "13th Artillery" type = artillery home = 718 }
+	regiment = { name= "14th Artillery" type = artillery home = 719 }
+	regiment = { name= "15th Artillery" type = artillery home = 936 }
+	regiment = { name= "16th Artillery" type = artillery home = 937 }
+	regiment = { name= "17th Artillery" type = artillery home = 940 }
+	regiment = { name= "18th Artillery" type = artillery home = 942 }
+
+	regiment = { name= "1st Hussars" type = hussar home = 944 }
+	regiment = { name= "2nd Hussars" type = hussar home = 947 }
+	regiment = { name= "3rd Hussars" type = hussar home = 948 }
+	regiment = { name= "4th Hussars" type = hussar home = 958 }
+
+	regiment = { name= "1st Infantry" type = infantry home = 1017 }
+	regiment = { name= "2nd Infantry" type = infantry home = 949 }
+	regiment = { name= "3rd Infantry" type = infantry home = 957 }
+	regiment = { name= "4th Infantry" type = infantry home = 962 } 
+	regiment = { name= "5th Infantry" type = infantry home = 1016 }
+	regiment = { name= "6th Infantry" type = infantry home = 1015 }
+}

@@ -1,56 +1,56 @@
 1901 = {
 	aristocrats=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=2200
 	}
 
 	bureaucrats=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=100
 	}
 
 	officers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=200
 	}
 
 	clergymen=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=1125
 	}
 
 	artisans=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=5500
 	}
 
 	soldiers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=1150
 	}
 
 	farmers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=67825
 	}
 
 	slaves=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=32000
 	}
@@ -59,42 +59,42 @@
 1902 = {
 	aristocrats=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=950
 	}
 
 	clergymen=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=525
 	}
 
 	artisans=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=2500
 	}
 
 	soldiers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=500
 	}
 
 	farmers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=27525
 	}
 
 	slaves=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=10000
 	}
@@ -145,42 +145,42 @@
 1903 = {
 	aristocrats=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=650
 	}
 
 	clergymen=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	artisans=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=1350
 	}
 
 	soldiers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	farmers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=16300
 	}
 
 	slaves=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=3000
 	}
@@ -231,77 +231,77 @@
 1904 = {
 	aristocrats=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	clergymen=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	artisans=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=700
 	}
 
 	soldiers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	farmers=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=12750
 	}
 
 	slaves=
 	{
-		culture = mossi
+		culture = african_minor
 		religion = animist
 		size=7000
 	}
 
 	aristocrats=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=550
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=1150
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=300
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = african_minor
 		religion = sunni
 		size=19700
 	}
