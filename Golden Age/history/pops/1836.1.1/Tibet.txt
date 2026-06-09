@@ -307,49 +307,49 @@
 1593 = {
 	soldiers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=3637
 	}
 
 	artisans=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=10973
 	}
 
 	clergymen=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=2090
 	}
 
 	bureaucrats=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=146
 	}
 
 	officers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=125
 	}
 
 	aristocrats=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=2809
 	}
 
 	farmers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=189220
 	}

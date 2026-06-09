@@ -1,7 +1,6 @@
 capital=1235
-primary_culture = nepali
+primary_culture = panjabi
 culture = marathi
-culture = panjabi
 religion = hindu
 government = absolute_monarchy
 nationalvalue=nv_order
