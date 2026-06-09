@@ -233,65 +233,22 @@ const float SpecValueTwo = 2.0;
 const float vWaterTransparens = 0.7;
 const float vColorMapFactor = 2.5;
 
-float4 PixelShader_HoiWater_2_0(VS_OUTPUT_WATER IN) : COLOR {
-	float2 coordB = IN.texCoord0.xy;
-	float2 coordA = coordB * 3.0 + 0.1;
-	coordB.y += 0.1;
-	float2 coordC = coordB * 2.0;
-	coordC.y += 0.05; // Ajuste simplificado de matemática repetida
-	float2 coordD = coordB * 5.0;
-	coordD.y += 0.2;
+float4 PixelShader_HoiWater_2_0(VS_OUTPUT_WATER IN) : COLOR
+{
+    float3 OutColor = tex2D(WorldColor, IN.WorldTexture).rgb;
 
-	float3 vBumpA = tex2D(WaterNormalMap, coordA);
+    float xoffset = 0.5 / FOW_SIZE_X;
+    float yoffset = 0.5 / FOW_SIZE_Y;
 
-	float timeOffset03 = 0.03 * Time;
-	coordB.x += timeOffset03;
-	coordB.y -= 0.02 * Time;
-	float3 vBumpB = tex2D(WaterNormalMap, coordB);
+    float FOW = tex2D(FOWTexture, IN.WorldTextureTI + float2(-xoffset, yoffset)).b;
+    FOW += tex2D(FOWTexture, IN.WorldTextureTI + float2(xoffset, yoffset)).b;
+    FOW += tex2D(FOWTexture, IN.WorldTextureTI + float2(-xoffset, -yoffset)).b;
+    FOW += tex2D(FOWTexture, IN.WorldTextureTI + float2(xoffset, -yoffset)).b;
 
-	coordC.x += timeOffset03;
-	coordC.y -= 0.01 * Time;
-	float3 vBumpC = tex2D(WaterNormalMap, coordC);
+    FOW = saturate(FOW * 0.5 - 1.0);
+    FOW = saturate(FOW + 0.5);
 
-	coordD.x += 0.02 * Time;
-	coordD.y -= 0.01 * Time;
-	float3 vBumpD = tex2D(WaterNormalMap, coordD);
-
-	float3 vBumpTex = normalize(WaveModOne * (vBumpA + vBumpB + vBumpC + vBumpD) - WaveModTwo);
-	float3 WorldColorColor = tex2D(WorldColor, IN.WorldTexture);
-
-	float3 eyeDir = normalize(IN.eyeDirection);
-	float NdotL = max(dot(eyeDir, (vBumpTex * 0.5)), 0.0);
-
-	NdotL = saturate((NdotL + WRAP) * 0.55555); // 1 / (1 + WRAP) es aprox 0.55555
-	// NdotL = lerp(NdotL, 1.0, IN.heightFactor); // heightFactor es 0, lerp no hace nada
-
-	float3 OutColor = NdotL * (WorldColorColor * vColorMapFactor);
-
-	float3 reflVector = -reflect(IN.lightDirection, vBumpTex);
-	float specular = saturate(dot(normalize(reflVector), eyeDir));
-
-	specular = pow(specular, SpecValueOne);
-	OutColor += (specular * 0.5); // Dividir por 2 es multiplicar por 0.5
-
-	float xoffset = 0.5 / FOW_SIZE_X;
-	float yoffset = 0.5 / FOW_SIZE_Y;
-
-	// FOW (Fog of war)
-	float FOW = tex2D(FOWTexture, IN.WorldTextureTI + float2(-xoffset, yoffset)).b;
-	FOW += tex2D(FOWTexture, IN.WorldTextureTI + float2(xoffset, yoffset)).b;
-	FOW += tex2D(FOWTexture, IN.WorldTextureTI + float2(-xoffset, -yoffset)).b;
-	FOW += tex2D(FOWTexture, IN.WorldTextureTI + float2(xoffset, -yoffset)).b;
-
-	FOW = saturate(FOW * 0.5 - 1.0);
-	FOW = saturate(FOW + 0.5);
-
-	OutColor = lerp(OutColor, OutColor.bbb, 0.3);
-
-	// Combinación de operaciones aritméticas fijas en un solo paso vectorizado para la GPU
-	OutColor = (OutColor + float3(0.17, 0.15, 0.12)) / float3(1.998, 2.2275, 2.4975); // Multiplicación de divisores precalculados
-
-	return float4(OutColor * FOW, vWaterTransparens);
+    return float4(OutColor * FOW, 0.7);
 }
 
 technique WaterShader_2_0 {

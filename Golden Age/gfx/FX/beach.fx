@@ -101,31 +101,12 @@ VS_OUTPUT VertexShader_Beach(const VS_INPUT v )
 
 float4 PixelShader_Beach( VS_OUTPUT v ) : COLOR
 {
-	float4 OutColor = tex2D( BaseTexture, v.vTexCoord0.xy );
-	float4 AlphaColor = tex2D( AlphaTexture, v.vTexCoord1.xy );
-
-	// OPTIMIZACIÓN: Se eliminó una línea muerta redundante (v.vTexCoord1.y = v.vTexCoord1.y)
-	float4 GradientColor = tex2D( AlphaGradientTexture, v.vTexCoord1.xy );
-
-	// Encadenamiento de operaciones de opacidad directo
-	OutColor *= AlphaColor.a * GradientColor.a;
-
-	return OutColor;
+    return float4(0,0,0,0);
 }
 
 float4 PixelShader_Beach_Color( VS_OUTPUT v ) : COLOR
 {
-	float4 OutColor = float4( 0.0f, 0.0f, 0.0f, 1.0f );
-	float4 AlphaColor = tex2D( AlphaTexture, v.vTexCoord1.xy );
-
-	// OPTIMIZACIÓN EXTREMA:
-	// La ecuación original: 1 - (vCameraHeight - 600) / 500
-	// Sustituida algebraicamente dentro de 'saturate' se reduce a una única instrucción MAD por hardware:
-	// AlphaColor.a * 2.0f + vCameraHeight * 0.001f - 1.6f
-
-	OutColor.a = saturate( AlphaColor.a * 2.0f + vCameraHeight * 0.001f - 1.6f ) * 0.7f;
-
-	return OutColor;
+    return float4(0,0,0,0);
 }
 
 ///////////////////////////////////////////////////////////////////////////////
