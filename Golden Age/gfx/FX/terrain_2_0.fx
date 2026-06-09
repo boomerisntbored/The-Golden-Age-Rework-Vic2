@@ -181,10 +181,10 @@ struct TILE_STRUCT {
 
 float4 GenerateTiles( TILE_STRUCT v )
 {
-	float4 IndexColor = tex2D( QuadIndexTexture, v.vTerrainIndexColor.xy );
-	float4 ColorColor = tex2D( ColorTexture, v.vTexCoord1 );
+	float4 IndexColor = tex2Dlod( QuadIndexTexture, float4(v.vTerrainIndexColor.xy, 0, 0) );
+	float4 ColorColor = tex2Dlod( ColorTexture, float4(v.vTexCoord1, 0, 0) );
 	float2 noisecoord = v.vTexCoord0 + 0.5;
-	float3 noisy = tex2D(NoiseTexture, noisecoord ).rgb;
+	float3 noisy = tex2Dlod(NoiseTexture, float4(noisecoord, 0, 0) ).rgb;
 
 	IndexColor *= 256.0;
 
@@ -203,16 +203,16 @@ float4 GenerateTiles( TILE_STRUCT v )
 
 	float2 uvThis;
 	uvThis.x = vIndexCoordX.x; uvThis.y = vIndexCoordY.x;
-	float4 LeftTerrain = tex2D( TextureSheet, TexCoord + uvThis );
+	float4 LeftTerrain = tex2Dlod( TextureSheet, float4(TexCoord + uvThis, 0, 0) );
 
 	uvThis.x = vIndexCoordX.y; uvThis.y = vIndexCoordY.y;
-	float4 UpLeftTerrain = tex2D( TextureSheet, TexCoord + uvThis );
+	float4 UpLeftTerrain = tex2Dlod( TextureSheet, float4(TexCoord + uvThis, 0, 0) );
 
 	uvThis.x = vIndexCoordX.z; uvThis.y = vIndexCoordY.z;
-	float4 Terrain = tex2D( TextureSheet, TexCoord + uvThis );
+	float4 Terrain = tex2Dlod( TextureSheet, float4(TexCoord + uvThis, 0, 0) );
 
 	uvThis.x = vIndexCoordX.w; uvThis.y = vIndexCoordY.w;
-	float4 UpTerrain = tex2D( TextureSheet, TexCoord + uvThis );
+	float4 UpTerrain = tex2Dlod( TextureSheet, float4(TexCoord + uvThis, 0, 0) );
 
 	float4 x1 = lerp( LeftTerrain, Terrain, saturate( PixelTexCoord.x + noisy.x)  );
 	float4 x2 = lerp( UpLeftTerrain, UpTerrain, saturate( PixelTexCoord.x + noisy.y) );
@@ -364,10 +364,10 @@ float4 PixelShader_Map2_0_General( VS_MAP_OUTPUT v ) : COLOR
 
 	float2 vProvinceUV = (v.vProvinceId + 0.5f) * 0.00390625f;
 
- 	float4 Color1 = tex2D( GeneralTexture, vProvinceUV ) - 0.7;
-	float4 Color2 = tex2D( GeneralTexture2, vProvinceUV ) - 0.7;
+ 	float4 Color1 = tex2Dlod( GeneralTexture, float4(vProvinceUV, 0, 0) ) - 0.7;
+	float4 Color2 = tex2Dlod( GeneralTexture2, float4(vProvinceUV, 0, 0) ) - 0.7;
 
-	float vColor = tex2D( StripesTexture, v.vTerrainTexCoord ).a;
+	float vColor = tex2Dlod( StripesTexture, float4(v.vTerrainTexCoord, 0, 0) ).a;
 	float4 Color = lerp(Color1, Color2, vColor);
 
 	Color.rgb = lerp(TerrainColor.rgb, Color.rgb, 0.3) * COLOR_LIGHTNESS;
@@ -376,15 +376,15 @@ float4 PixelShader_Map2_0_General( VS_MAP_OUTPUT v ) : COLOR
 
 float4 PixelShader_Map2_0_General_Low( VS_MAP_OUTPUT v ) : COLOR
 {
-	float4 OverlayColor = tex2D( OverlayTexture, v.vColorTexCoord );
+	float4 OverlayColor = tex2Dlod( OverlayTexture, float4(v.vColorTexCoord, 0, 0) );
 	float2 vProvinceUV = (v.vProvinceId + 0.5f) * 0.00390625f;
 
- 	float4 Color1 = tex2D( GeneralTexture, vProvinceUV ) - 0.7;
-	float4 Color2 = tex2D( GeneralTexture2, vProvinceUV ) - 0.7;
+ 	float4 Color1 = tex2Dlod( GeneralTexture, float4(vProvinceUV, 0, 0) ) - 0.7;
+	float4 Color2 = tex2Dlod( GeneralTexture2, float4(vProvinceUV, 0, 0) ) - 0.7;
 
-	float vColor = tex2D( StripesTexture, v.vTerrainTexCoord ).a;
+	float vColor = tex2Dlod( StripesTexture, float4(v.vTerrainTexCoord, 0, 0) ).a;
 	float4 Color = Color2 * vColor + Color1 * ( 1.0 - vColor );
-	float4 ColorColor = tex2D( ColorTexture, v.vTexCoord1 );
+	float4 ColorColor = tex2Dlod( ColorTexture, float4(v.vTexCoord1, 0, 0) );
 
 	Color.rgb = lerp(Color.rgb, ColorColor.rgb, 0.3);
 	float3 ColorHSV = RGBtoHSV(Color.rgb);
@@ -413,7 +413,7 @@ float4 PixelShader_Map2_0( VS_MAP_OUTPUT v ) : COLOR
     float4 OutColor = GenerateTiles( s );
 
 	float2 vProvinceUV = (v.vProvinceId + 0.5f) * 0.00390625f;
-	float4 FogColor = tex2D( GeneralTexture, vProvinceUV );
+	float4 FogColor = tex2Dlod( GeneralTexture, float4(vProvinceUV, 0, 0) );
 
 	float Grey = dot( OutColor.rgb, GREYIFY );
 	OutColor.rgb = lerp( OutColor.rgb, Grey.rrr, FogColor.b ) + (FogColor.bbb * 0.3);
@@ -468,15 +468,14 @@ float4 PixelShader_Beach_General( VS_OUTPUT_BEACH v ) : COLOR
 	y1.rgb = dot( y1.rgb, GREYIFY ) * White.rgb;
 
 	float2 borderoffset = v.vBorderOffsetColor.rg + float2(-0.00390625f, 0.0f);
-	float4 Color1 = tex2D( GeneralTexture, borderoffset );
-	float4 Color2 = tex2D( GeneralTexture2, borderoffset );
+	float4 Color1 = tex2Dlod( GeneralTexture, float4(borderoffset, 0, 0) );
+	float4 Color2 = tex2Dlod( GeneralTexture2, float4(borderoffset, 0, 0) );
 
-	float vColor = tex2D( StripesTexture, v.vTerrainIndexColor.zw ).a;
+	float vColor = tex2Dlod( StripesTexture, float4(v.vTerrainIndexColor.zw, 0, 0) ).a;
 	float4 Color = lerp( Color1, Color2, vColor ) - 0.7f;
 
 	Color.rgb = lerp(y1.rgb, Color.rgb, 0.3f) * COLOR_LIGHTNESS;
 
-    // Descartamos el píxel
     clip(-1.0f);
 
 	return Color;
@@ -484,13 +483,12 @@ float4 PixelShader_Beach_General( VS_OUTPUT_BEACH v ) : COLOR
 
 float4 PixelShader_Beach_General_Low( VS_OUTPUT_BEACH v ) : COLOR
 {
-	float4 Color = tex2D( GeneralTexture, v.vProvinceIndexCoord ) - 0.7f;
-	float4 ColorColor = tex2D( ColorTexture, v.vColorTexCoord );
+	float4 Color = tex2Dlod( GeneralTexture, float4(v.vProvinceIndexCoord, 0, 0) ) - 0.7f;
+	float4 ColorColor = tex2Dlod( ColorTexture, float4(v.vColorTexCoord, 0, 0) );
 
 	float4 OutColor;
 	OutColor.rgb = lerp(ColorColor.rgb, Color.rgb, 0.3f) * COLOR_LIGHTNESS;
 
-	// CORRECCIÓN 2: Ocultar mallas de playa defectuosas
 	OutColor.a = 0.0f;
 
 	return OutColor;
@@ -540,31 +538,31 @@ float4 PixelShader_Map2_0_Border( VS_BORDER_OUTPUT v ) : COLOR
 	float2 BorderUV = v.vUV_ProvUV.zw + 0.5f;
 	BorderUV *= 0.001953125f; // /= BORDERLOOKUP_SIZE
 
-	float4 BorderTypeColor = tex2D( BorderDirectionTexture, BorderUV );
+	float4 BorderTypeColor = tex2Dlod( BorderDirectionTexture, float4(BorderUV, 0.0, 0.0) );
 
-	float CornerOffset = 0.0;
 	float SettingsBitMask = ( BorderTypeColor.b * 255.0 );
 
-	if ( abs(SettingsBitMask - 1.0) < 0.01 ) { CornerOffset = 1.0; }
-	if ( abs(SettingsBitMask - 2.0) < 0.01 ) { TexCoord.y += 0.5; }
-	if ( abs(SettingsBitMask - 3.0) < 0.01 ) { CornerOffset = 1.0; TexCoord.y += 0.5; }
+    // OPTIMIZACIÓN EXTREMA: Sin saltos 'if'. Todo resuelto con booleanos casteados a float
+	float CornerOffset = (abs(SettingsBitMask - 1.0) < 0.01) + (abs(SettingsBitMask - 3.0) < 0.01);
+	float RowOffset = (abs(SettingsBitMask - 2.0) < 0.01) + (abs(SettingsBitMask - 3.0) < 0.01);
+
+    TexCoord.y += RowOffset * 0.5;
 
 	float2 TexCoord2 = TexCoord;
 	float2 TexCoord3 = TexCoord;
 
 	TexCoord.x += (v.vBorderOffsetColor.b * CornerOffset) + (BorderTypeColor.a * (1.0 - CornerOffset));
 	TexCoord.y += ( BorderTypeColor.a * CornerOffset );
-	const float BIAS = -0.8;
-	float4 ProvinceBorder = tex2Dbias( BorderTexture, float4(TexCoord, 0.0, BIAS) );
+	float4 ProvinceBorder = tex2Dlod( BorderTexture, float4(TexCoord, 0.0, 0.0) );
 
 	TexCoord2.x += BorderTypeColor.r;
 	TexCoord2.y += 0.125;
-	float4 CountryBorder = tex2Dbias( BorderTexture, float4(TexCoord2, 0.0, BIAS) );
+	float4 CountryBorder = tex2Dlod( BorderTexture, float4(TexCoord2, 0.0, 0.0) );
 
 	TexCoord3.x += v.vBorderOffsetColor.a * CornerOffset + BorderTypeColor.g;
 	TexCoord3.y += 0.25;
 	TexCoord3.y += (BorderTypeColor.a * CornerOffset);
-	float4 DiagBorder = tex2D( BorderTexture, TexCoord3 );
+	float4 DiagBorder = tex2Dlod( BorderTexture, float4(TexCoord3, 0.0, 0.0) );
 
 	ProvinceBorder.rgb *= ProvinceBorder.a;
 	CountryBorder.rgb *= CountryBorder.a;
@@ -621,8 +619,7 @@ float4 PixelShader_Beach( VS_OUTPUT_BEACH v ) : COLOR
 	float4 OutColor = GenerateTiles( s );
 	OutColor.rgb *= LIGHTNESS;
 
-	// CORRECCIÓN 1: Typo matemático arreglado (de -0.00000390625 a -0.00390625f)
-	float3 FogColor = tex2D( GeneralTexture, v.vBorderOffsetColor.rg + float2(-0.00390625f, 0.0f)).rgb;
+	float3 FogColor = tex2Dlod( GeneralTexture, float4(v.vBorderOffsetColor.rg + float2(-0.00390625f, 0.0f), 0.0, 0.0)).rgb;
 
 	OutColor.rgb = ApplyFOWColor( OutColor.rgb, FogColor.r);
 	OutColor.rgb += FogColor.g * 1.1f;
@@ -633,9 +630,7 @@ float4 PixelShader_Beach( VS_OUTPUT_BEACH v ) : COLOR
 
 	OutColor.rgb *= LIGHTNESS;
 
-	// CORRECCIÓN 2: No forzar Alpha a 1.0.
-	// En mapas custom, lo ideal es ocultar las mallas rotas devolviendo 0.0f
-	OutColor.a = 0.0f; // Cambiá a 1.0f SOLO si tenés las mallas de la costa perfectamente generadas
+	OutColor.a = 0.0f;
 
 	return OutColor;
 }
@@ -672,7 +667,7 @@ VS_OUTPUT_TREE VertexShader_TREE(const VS_INPUT_TREE v )
 
 float4 PixelShader_TREE( VS_OUTPUT_TREE v ) : COLOR
 {
-	float4 OutColor = tex2D( TreeTexture, v.vTexCoord );
+	float4 OutColor = tex2Dlod( TreeTexture, float4(v.vTexCoord, 0.0, 0.0) );
 	OutColor.a *= vAlpha;
 	return OutColor;
 }
@@ -712,8 +707,8 @@ technique TerrainShader_Border
 		SrcBlend = SRCALPHA;
 		DestBlend = INVSRCALPHA;
 
-		VertexShader = compile vs_1_1 VertexShader_Map_Border();
-		PixelShader = compile ps_2_0 PixelShader_Map2_0_Border();
+		VertexShader = compile vs_3_0 VertexShader_Map_Border();
+		PixelShader = compile ps_3_0 PixelShader_Map2_0_Border();
 	}
 }
 
@@ -726,8 +721,8 @@ technique BeachShader_Graphical
 		SrcBlend = SRCALPHA;
 		DestBlend = INVSRCALPHA;
 
-		VertexShader = compile vs_1_1 VertexShader_Beach();
-		PixelShader = compile ps_2_0 PixelShader_Beach();
+		VertexShader = compile vs_3_0 VertexShader_Beach();
+		PixelShader = compile ps_3_0 PixelShader_Beach();
 	}
 }
 
@@ -735,8 +730,8 @@ technique BeachShader_General
 {
 	pass p0
 	{
-		VertexShader = compile vs_1_1 VertexShader_Beach_General();
-		PixelShader = compile ps_2_0 PixelShader_Beach_General();
+		VertexShader = compile vs_3_0 VertexShader_Beach_General();
+		PixelShader = compile ps_3_0 PixelShader_Beach_General();
 	}
 }
 
@@ -744,8 +739,8 @@ technique BeachShader_General_Low
 {
 	pass p0
 	{
-		VertexShader = compile vs_1_1 VertexShader_Beach_General();
-		PixelShader = compile ps_2_0 PixelShader_Beach_General_Low();
+		VertexShader = compile vs_3_0 VertexShader_Beach_General();
+		PixelShader = compile ps_3_0 PixelShader_Beach_General_Low();
 	}
 }
 
@@ -765,8 +760,8 @@ technique PTIShader
 		ColorOp[1] = Disable;
 		AlphaOp[1] = Disable;
 
-		VertexShader = compile vs_1_1 VertexShader_PTI();
-		PixelShader = compile ps_2_0 PixelShader_PTI();
+		VertexShader = compile vs_3_0 VertexShader_PTI();
+		PixelShader = compile ps_3_0 PixelShader_PTI();
 	}
 }
 
@@ -777,7 +772,7 @@ technique TreeShader
 		ALPHABLENDENABLE = True;
 		ALPHATESTENABLE = True;
 
-		VertexShader = compile vs_1_1 VertexShader_TREE();
-		PixelShader = compile ps_2_0 PixelShader_TREE();
+		VertexShader = compile vs_3_0 VertexShader_TREE();
+		PixelShader = compile ps_3_0 PixelShader_TREE();
 	}
 }
