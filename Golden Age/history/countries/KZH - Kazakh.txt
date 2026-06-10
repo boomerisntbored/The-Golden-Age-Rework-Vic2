@@ -1,5 +1,5 @@
 capital=1193
-primary_culture = kazak
+primary_culture = turkmen
 religion = sunni
 government = absolute_monarchy
 nationalvalue=nv_order

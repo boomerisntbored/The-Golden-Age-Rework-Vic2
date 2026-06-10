@@ -307,49 +307,49 @@
 1336 = {
 	soldiers=
 	{
-		culture = chin
+		culture = burmese
 		religion = animist
 		size=1033
 	}
 
 	artisans=
 	{
-		culture = chin
+		culture = burmese
 		religion = animist
 		size=1580
 	}
 
 	clergymen=
 	{
-		culture = chin
+		culture = burmese
 		religion = animist
 		size=301
 	}
 
 	bureaucrats=
 	{
-		culture = chin
+		culture = burmese
 		religion = animist
 		size=21
 	}
 
 	officers=
 	{
-		culture = chin
+		culture = burmese
 		religion = animist
 		size=18
 	}
 
 	aristocrats=
 	{
-		culture = chin
+		culture = burmese
 		religion = animist
 		size=405
 	}
 
 	farmers=
 	{
-		culture = chin
+		culture = burmese
 		religion = animist
 		size=26742
 	}

@@ -2064,49 +2064,49 @@
 1258 = {
 	soldiers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=4611
 	}
 
 	artisans=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=13914
 	}
 
 	clergymen=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=2650
 	}
 
 	bureaucrats=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=186
 	}
 
 	officers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=159
 	}
 
 	aristocrats=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=3562
 	}
 
 	farmers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=239943
 	}
@@ -2115,49 +2115,49 @@
 1259 = {
 	soldiers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = animist
 		size=2685
 	}
 
 	artisans=
 	{
-		culture = assamese
+		culture = bengali
 		religion = animist
 		size=8101
 	}
 
 	clergymen=
 	{
-		culture = assamese
+		culture = bengali
 		religion = animist
 		size=1543
 	}
 
 	bureaucrats=
 	{
-		culture = assamese
+		culture = bengali
 		religion = animist
 		size=108
 	}
 
 	officers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = animist
 		size=93
 	}
 
 	aristocrats=
 	{
-		culture = assamese
+		culture = bengali
 		religion = animist
 		size=2074
 	}
 
 	farmers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = animist
 		size=139696
 	}
@@ -2166,49 +2166,49 @@
 1260 = {
 	soldiers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=1710
 	}
 
 	artisans=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=5161
 	}
 
 	clergymen=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=983
 	}
 
 	bureaucrats=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=69
 	}
 
 	officers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=59
 	}
 
 	aristocrats=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=1321
 	}
 
 	farmers=
 	{
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size=88997
 	}

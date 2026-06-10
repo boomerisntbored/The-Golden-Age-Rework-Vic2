@@ -9790,35 +9790,35 @@
 1087 = {
 	aristocrats=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=7
 	}
 
 	clergymen=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=8
 	}
 
 	artisans=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=10
 	}
 
 	farmers=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=925
 	}
@@ -9834,35 +9834,35 @@
 1088 = {
 	aristocrats=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=7
 	}
 
 	clergymen=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=8
 	}
 
 	artisans=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=10
 	}
 
 	farmers=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=925
 	}
@@ -9871,35 +9871,35 @@
 1089 = {
 	aristocrats=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=7
 	}
 
 	clergymen=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=8
 	}
 
 	artisans=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=10
 	}
 
 	farmers=
 	{
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size=925
 	}

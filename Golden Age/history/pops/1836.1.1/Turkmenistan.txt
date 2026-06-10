@@ -1,49 +1,49 @@
 1195 = {
 	soldiers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=120
 	}
 
 	artisans=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=400
 	}
 
 	clergymen=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=100
 	}
 
 	bureaucrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=5
 	}
 
 	officers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=4
 	}
 
 	aristocrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=246
 	}
 
 	farmers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=9125
 	}

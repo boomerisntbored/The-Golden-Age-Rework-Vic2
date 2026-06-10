@@ -154,49 +154,49 @@
 2611 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=60
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=200
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=50
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=3
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=2
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=123
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=4562
 	}
@@ -205,49 +205,49 @@
 1181 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=168
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=560
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=140
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=7
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=6
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=345
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=12774
 	}
@@ -256,49 +256,49 @@
 1184 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=288
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=960
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=240
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=12
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=10
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=591
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=21899
 	}
@@ -307,49 +307,49 @@
 1185 = {
 	soldiers=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=201
 	}
 
 	artisans=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=804
 	}
 
 	clergymen=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=201
 	}
 
 	bureaucrats=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=10
 	}
 
 	officers=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=8
 	}
 
 	aristocrats=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=371
 	}
 
 	farmers=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=18505
 	}
@@ -358,49 +358,49 @@
 2606 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=228
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=760
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=190
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=10
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=8
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=468
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=17336
 	}
@@ -409,49 +409,49 @@
 2612 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=204
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=680
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=170
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=9
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=7
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=419
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=15511
 	}
@@ -460,49 +460,49 @@
 1187 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=241
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=804
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=201
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=10
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=8
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=495
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=18341
 	}
@@ -562,49 +562,49 @@
 1186 = {
 	soldiers=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=1033
 	}
 
 	artisans=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=880
 	}
 
 	clergymen=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=220
 	}
 
 	bureaucrats=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=11
 	}
 
 	officers=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=9
 	}
 
 	aristocrats=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=407
 	}
 
 	farmers=
 	{
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size=19440
 	}
@@ -613,49 +613,49 @@
 1193 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=1033
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=1080
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=270
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=14
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=11
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=665
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=23927
 	}
@@ -715,49 +715,49 @@
 2702 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=1033
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=280
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=70
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=4
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=3
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=172
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=5438
 	}
@@ -766,49 +766,49 @@
 1197 = {
 	soldiers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=540
 	}
 
 	artisans=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=1800
 	}
 
 	clergymen=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=450
 	}
 
 	bureaucrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=23
 	}
 
 	officers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=18
 	}
 
 	aristocrats=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=1109
 	}
 
 	farmers=
 	{
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size=41060
 	}

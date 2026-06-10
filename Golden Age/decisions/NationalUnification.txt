@@ -276,10 +276,6 @@ political_decisions = {
 				}
 				country_event = { id=11101 days=0 }
 			}
-			add_accepted_culture = scottish
-			SCO = {
-				all_core = { add_core = THIS}
-			}
 		}
 		ai_will_do = {
 			factor = 1

@@ -1,6 +1,5 @@
 capital=1258
-primary_culture = assamese
-culture = bengali
+primary_culture = bengali
 religion = hindu
 government = absolute_monarchy
 nationalvalue=nv_order

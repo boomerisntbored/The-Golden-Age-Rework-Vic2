@@ -168,49 +168,49 @@
 1202 = {
 	soldiers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=899
 	}
 
 	artisans=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=2998
 	}
 
 	clergymen=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=750
 	}
 
 	bureaucrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=37
 	}
 
 	officers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=30
 	}
 
 	aristocrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=1847
 	}
 
 	farmers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=68389
 	}
@@ -219,49 +219,49 @@
 1198 = {
 	soldiers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=2604
 	}
 
 	artisans=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=6730
 	}
 
 	clergymen=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=2120
 	}
 
 	bureaucrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=109
 	}
 
 	officers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=87
 	}
 
 	aristocrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=5347
 	}
 
 	farmers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=198003
 	}
@@ -284,49 +284,49 @@
 1199 = {
 	soldiers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=1633
 	}
 
 	artisans=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=5442
 	}
 
 	clergymen=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=1361
 	}
 
 	bureaucrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=68
 	}
 
 	officers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=54
 	}
 
 	aristocrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=3352
 	}
 
 	farmers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=124140
 	}
@@ -335,49 +335,49 @@
 1200 = {
 	soldiers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=841
 	}
 
 	artisans=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=2804
 	}
 
 	clergymen=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=701
 	}
 
 	bureaucrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=35
 	}
 
 	officers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=28
 	}
 
 	aristocrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=1727
 	}
 
 	farmers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=63964
 	}

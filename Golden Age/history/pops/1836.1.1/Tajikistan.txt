@@ -1,49 +1,49 @@
 1201 = {
 	soldiers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=600
 	}
 
 	artisans=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=2000
 	}
 
 	clergymen=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=500
 	}
 
 	bureaucrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=25
 	}
 
 	officers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=20
 	}
 
 	aristocrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=1232
 	}
 
 	farmers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=45623
 	}
@@ -52,49 +52,49 @@
 1207 = {
 	soldiers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=360
 	}
 
 	artisans=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=1200
 	}
 
 	clergymen=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=300
 	}
 
 	bureaucrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=15
 	}
 
 	officers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=12
 	}
 
 	aristocrats=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=739
 	}
 
 	farmers=
 	{
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size=27374
 	}
