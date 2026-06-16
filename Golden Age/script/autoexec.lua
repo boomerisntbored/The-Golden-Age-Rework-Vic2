@@ -22,7 +22,40 @@ require('ai_country')
 -- load country specific AI modules.
 --require('ENG')
 
--- loading screen randomizer function
+-- ==========================================
+-- INSTALADOR AUTOMÁTICO DE ARCHIVOS
+-- ==========================================
+
+function CopiarSiNoExiste(origen, destino)
+
+    local f = io.open(destino, "r")
+
+    if f then
+        f:close()
+        return
+    end
+
+    local cmd = string.format(
+        'copy /Y "%s" "%s" > nul',
+        origen,
+        destino
+    )
+
+    os.execute(cmd)
+
+    print("[Golden Age] Copiado: " .. destino)
+end
+
+CopiarSiNoExiste(
+    "mod\\Golden Age\\Vic2CrashFixLauncher.exe",
+    "Vic2CrashFixLauncher.exe"
+)
+
+CopiarSiNoExiste(
+    "mod\\Golden Age\\Lobby_bug_fixed_Only_Hosted_Golden_Age.bat",
+    "Lobby_bug_fixed_Only_Hosted_Golden_Age.bat"
+)
+
 function RandomizeLoadingScreens()
     local ls_dir = "mod\\Golden Age\\gfx\\loadingscreens\\"
     
