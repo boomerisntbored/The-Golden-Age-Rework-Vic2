@@ -919,7 +919,7 @@ american_demand_concession = {
 		}
         NOT = { is_our_vassal = THIS }
 		THIS = {
-			nationalism_n_imperialism = 1
+			naval_statistics = 1
 		}
 		civilized = no
 		number_of_states = 2
@@ -1844,7 +1844,7 @@ establish_protectorate_casus_belli_america = {
 	can_use = {
 		NOT = { is_our_vassal = THIS }
 		THIS = {
-			nationalism_n_imperialism = 1
+			naval_statistics = 1
 		}
 		OR = {
 			NOT = {

@@ -1929,7 +1929,7 @@
 	{
 		culture = anglois
 		religion = catholic
-		size=88481
+		size=1900
 	}
 
 }
