@@ -6,7 +6,7 @@ country_event = {
 	trigger = {
 	tag = BRG
 	NOT = {
-		    year = 1460
+		    year = 1465
 		}
 	is_greater_power = no
 	NOT = {
@@ -27,56 +27,56 @@ country_event = {
 		AUS = {
 		casus_belli = {
                 target = BRG
-                type = make_puppet
+                type = make_puppet_bor
                 months = 120
             }
 	}
 	CAS = {
 		casus_belli = {
                 target = BRG
-                type = make_puppet
+                type = make_puppet_bor
                 months = 120
             }
 	}
 	SPP = {
 		casus_belli = {
                 target = BRG
-                type = make_puppet
+                type = make_puppet_bor
                 months = 120
             }
 	}
 	SPA = {
 		casus_belli = {
                 target = BRG
-                type = make_puppet
+                type = make_puppet_bor
                 months = 120
             }
 	}
 	BOH = {
 		casus_belli = {
                 target = BRG
-                type = make_puppet
+                type = make_puppet_bor
                 months = 120
             }
 	}
 	CZH = {
 		casus_belli = {
                 target = BRG
-                type = make_puppet
+                type = make_puppet_bor
                 months = 120
             }
 	}
 	ARO = {
 		casus_belli = {
                 target = BRG
-                type = make_puppet
+                type = make_puppet_bor
                 months = 120
             }
 	}
 	ARI = {
 		casus_belli = {
                 target = BRG
-                type = make_puppet
+                type = make_puppet_bor
                 months = 120
             }
 	}
