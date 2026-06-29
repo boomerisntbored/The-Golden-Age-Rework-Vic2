@@ -1,6 +1,8 @@
 capital=521
 primary_culture = portuguese
+culture = galician
 culture = berber
+culture = maghrebi
 religion = catholic
 government = absolute_monarchy
 nationalvalue=nv_order

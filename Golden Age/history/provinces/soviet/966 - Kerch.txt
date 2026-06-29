@@ -1,6 +1,5 @@
 owner= GNA
 controller= GNA
-add_core= GNA
 add_core= CRI
 add_core= TBZ
 add_core= BYZ
