@@ -6,7 +6,7 @@ country_event = {
 	trigger = {
 	tag = BRG
 	NOT = {
-		    year = 1465
+		    year = 1480
 		}
 	is_greater_power = no
 	NOT = {
