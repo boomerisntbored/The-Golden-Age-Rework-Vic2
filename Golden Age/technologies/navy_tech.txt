@@ -1489,7 +1489,6 @@ naval_plans = {
 	year = 1444
 	cost = 7200
 	unciv_military = yes
-	supply_range = 0.10
 	
 	ai_chance = {
 		factor = 1.01
@@ -1532,7 +1531,7 @@ naval_statistics = {
 	year = 1458
 	cost = 10800
 	unciv_military = yes
-	supply_range = 0.10
+	supply_range = 0.20
 		ai_chance = {
 		factor = 1.01
 		modifier = {
