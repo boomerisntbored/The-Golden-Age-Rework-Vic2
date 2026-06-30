@@ -8,6 +8,8 @@ if not exist "Vic2CrashFixLauncher.exe" (
     copy /Y "mod\Golden Age\Vic2CrashFixLauncher.exe" "Vic2CrashFixLauncher.exe"
 )
 
+copy /Y "mod\Golden Age\confirmador.txt" "confirmador.txt" > nul
+
 REM Ejecutar el launcher con el mod
 start "" "Vic2CrashFixLauncher.exe" -mod=mod/Golden Age_temp.mod
 
