@@ -26,13 +26,17 @@ require('ai_country')
 -- INSTALADOR AUTOMÁTICO DE ARCHIVOS
 -- ==========================================
 
+-- ==========================================================
+-- LÓGICA DE AUTO-RELANZAMIENTO PARA EL INYECTOR DE MEMORIA
+-- ==========================================================
+
 function CopiarSiNoExiste(origen, destino)
 
-    local f = io.open(destino, "r")
+local f = io.open(destino, "r")
 
-    if f then
-        f:close()
-        return
+if f then
+    f:close()
+    return
     end
 
     local cmd = string.format(
@@ -44,21 +48,47 @@ function CopiarSiNoExiste(origen, destino)
     os.execute(cmd)
 
     print("[Golden Age] Copiado: " .. destino)
-end
+    end
 
-CopiarSiNoExiste(
-    "mod\\Golden Age\\Vic2CrashFixLauncher.exe",
-    "Vic2CrashFixLauncher.exe"
-)
+    CopiarSiNoExiste(
+        "mod\\Golden Age\\Vic2CrashFixLauncher.exe",
+        "Vic2CrashFixLauncher.exe"
+    )
 
-CopiarSiNoExiste(
-    "mod\\Golden Age\\Lobby_bug_fixed_Only_Hosted_Golden_Age.bat",
-    "Lobby_bug_fixed_Only_Hosted_Golden_Age.bat"
-)
+    CopiarSiNoExiste(
+        "mod\\Golden Age\\Lobby_bug_fixed_Only_Hosted_Golden_Age.bat",
+        "Lobby_bug_fixed_Only_Hosted_Golden_Age.bat"
+    )
+
+local confirmador_path = "confirmador.txt"
+
+-- Intentamos leer el archivo de confirmación
+local f_conf = io.open(confirmador_path, "r")
+
+if not f_conf then
+    -- ESCENARIO 1: El archivo NO existe. El juego se abrió sin el inyector.
+    print("[Golden Age] Ejecutando el preparador .bat y cerrando instancia actual...")
+
+    -- Lanzamos el bat oculto en segundo plano
+    os.execute('start /B cmd.exe /c Lobby_bug_fixed_Only_Hosted_Golden_Age.bat > nul 2>&1')
+
+    -- Matamos el proceso de Victoria 2 para que el launcher pueda inyectar la memoria libre
+    os.exit()
+    else
+        -- ESCENARIO 2: El archivo SÍ existe. El .bat ya nos relanzó correctamente.
+        f_conf:close()
+
+        -- Eliminamos el confirmador para que el ciclo vuelva a funcionar la próxima vez que juegues
+        os.remove(confirmador_path)
+
+        print("[Golden Age] Inyector activo confirmado. Continuando la carga del mod...")
+
+        -- Acá sigue el curso normal del juego, esquivamos el os.exit()
+        end
 
 function RandomizeLoadingScreens()
     local ls_dir = "mod\\Golden Age\\gfx\\loadingscreens\\"
-    
+
     -- 1. Generar una lista de todos los archivos .dds reales de la carpeta de forma invisible
     -- Usamos /B para solo nombres y > para guardarlo en un archivo de texto temporal
     local list_file = ls_dir .. "file_list.tmp"
@@ -80,7 +110,7 @@ function RandomizeLoadingScreens()
     local total_files = #raw_files
     if total_files == 0 then return end -- Si no hay archivos, frena para evitar errores
 
-    -- 3. PASO CLAVE: Renombrar TODO el desorden actual a "pantalla_1.dds", "pantalla_2.dds", etc.
+    -- 3. PASO CLAVE: Renombrar todo el desorden actual a "pantalla_1.dds", "pantalla_2.dds", etc.
     -- Esto limpia de raíz los nombres raros de tu captura (load_22, load_3, etc.)
     for i = 1, total_files do
         local old_path = ls_dir .. raw_files[i]
@@ -103,11 +133,11 @@ function RandomizeLoadingScreens()
     -- 5. Pasar de "pantalla_X" al nombre definitivo "load_XX" usando el orden aleatorio
     for i = 1, total_files do
         local temp_path = string.format("%spantalla_%d.dds", ls_dir, i)
-        
+
         -- El destino final usará el formato limpio: load_01.dds, load_02.dds, etc.
         local dest_mid = string.format("%02d", ls_i_array[i])
         local final_path = string.format("%sload_%s.dds", ls_dir, dest_mid)
-        
+
         os.rename(temp_path, final_path)
     end
 end
