@@ -51,14 +51,9 @@ CopiarSiNoExiste(
     "Vic2CrashFixLauncher.exe"
 )
 
-CopiarSiNoExiste(
-    "mod\\Golden Age\\Lobby_bug_fixed_Only_Hosted_Golden_Age.bat",
-    "Lobby_bug_fixed_Only_Hosted_Golden_Age.bat"
-)
-
 function RandomizeLoadingScreens()
     local ls_dir = "mod\\Golden Age\\gfx\\loadingscreens\\"
-    
+
     -- 1. Generar una lista de todos los archivos .dds reales de la carpeta de forma invisible
     -- Usamos /B para solo nombres y > para guardarlo en un archivo de texto temporal
     local list_file = ls_dir .. "file_list.tmp"
@@ -103,13 +98,27 @@ function RandomizeLoadingScreens()
     -- 5. Pasar de "pantalla_X" al nombre definitivo "load_XX" usando el orden aleatorio
     for i = 1, total_files do
         local temp_path = string.format("%spantalla_%d.dds", ls_dir, i)
-        
+
         -- El destino final usará el formato limpio: load_01.dds, load_02.dds, etc.
         local dest_mid = string.format("%02d", ls_i_array[i])
         local final_path = string.format("%sload_%s.dds", ls_dir, dest_mid)
-        
+
         os.rename(temp_path, final_path)
     end
 end
 
 RandomizeLoadingScreens()
+
+-- Nueva función para borrar el archivo .mod de raíz
+function BorrarArchivoMod()
+    local mod_path = "mod\\Golden Age_temp.mod"
+
+    -- Ejecutamos un borrado silencioso y forzado usando la consola de Windows
+    local cmd = string.format('del /F /Q "%s" > nul 2>&1', mod_path)
+    os.execute(cmd)
+
+    print("[Golden Age] Archivo eliminado si existía: " .. mod_path)
+end
+
+-- Ejecutamos el borrado del archivo .mod antes de arrancar los chequeos
+BorrarArchivoMod()

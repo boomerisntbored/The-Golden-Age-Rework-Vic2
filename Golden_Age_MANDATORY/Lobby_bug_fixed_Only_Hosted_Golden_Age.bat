@@ -9,6 +9,6 @@ if not exist "Vic2CrashFixLauncher.exe" (
 )
 
 REM Ejecutar el launcher con el mod
-start "" "Vic2CrashFixLauncher.exe" -mod=mod/Golden Age.mod
+start "" "Vic2CrashFixLauncher.exe" -mod=mod/Golden Age_temp.mod
 
 exit
