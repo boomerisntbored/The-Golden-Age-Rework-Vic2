@@ -1,6 +1,6 @@
 color = { 137 132 151 }
 colonial_company = { 129  191  98 }
-graphical_culture = GenericEasternGC
+graphical_culture = EuropeanGCEasternGC
 
 party = {
     name = "Sich Rada"

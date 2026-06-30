@@ -2,7 +2,7 @@ color = { 75  130  135 }
 #fascist_dictatorship = { 90 60 60 }
 #proletarian_dictatorship = { 255 0 0 }
 
-graphical_culture = PrussianGC
+graphical_culture = EuropeanGC
 
 party = {
     name = "The Burschenschaften's"

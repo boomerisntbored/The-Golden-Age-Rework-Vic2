@@ -1,5 +1,5 @@
 color = { 231  230  138 }
-graphical_culture = PrussianGC
+graphical_culture = EuropeanGC
 
 party = {
     name = "Gentry Faction"

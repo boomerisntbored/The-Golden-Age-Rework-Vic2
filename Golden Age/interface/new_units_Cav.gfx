@@ -1,0 +1,266 @@
+objectTypes = {	
+
+EMFXActorType = {
+		name = "CK_Cav"
+		actorfile = "gfx\anims\Spear_01.xac"
+		scale = 1.0
+	}
+	EMFXActorType={
+	name="CK_Helmet"
+	actorfile="gfx\anims\Helmet_07.xac"
+	scale=1.0
+	}
+	
+	EMFXActorType = {
+        name = "SpanishGCCavalry"
+        actorfile = "gfx\anims\saxon_heavy_cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+        name = "ByzantineGCCavalry"
+        actorfile = "gfx\anims\Byzantine_Heavy_Cavalry_Rider.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
+        scale = 1.0
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+        name = "RussianGCCavalry"
+        actorfile = "gfx\anims\Russian_Heavy_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+        name = "SwedishGCCavalry"
+        actorfile = "gfx\anims\Norse_Heavy_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+        name = "AfricanGCCavalry"
+        actorfile = "gfx\anims\African_Light_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+        name = "PersianGCCavalry"
+        actorfile = "gfx\anims\persian_heavy_cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+        name = "EuropeanGCCavalry"
+        actorfile = "gfx\anims\Western_Heavy_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+		attach={
+		name="CK_Helmet"
+		node="Head"
+		attachId=4
+		}
+	}
+	EMFXActorType = {
+        name = "ItalianGCCavalry"
+        actorfile = "gfx\anims\saxon_heavy_cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.8
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+		name = "GenericMount"
+		actorfile = "gfx\anims\Byzantine_Light_Horse.xac"
+		
+		idle = "gfx\anims\Horse_2_Idle.xsm"
+		move = "gfx\anims\Horse_2_Moving.xsm"
+		attack = "gfx\anims\Horse_2_Idle.xsm"
+		scale = 0.8
+		
+		
+	}
+	EMFXActorType = {
+        name = "FrenchGCCavalry"
+        actorfile = "gfx\anims\christian_heavy_cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+		attach={
+		name="CK_Helmet"
+		node="Head"
+		attachId=4
+		}
+	}
+	EMFXActorType = {
+        name = "CeltGCCavalry"
+        actorfile = "gfx\anims\celtic_heavy_cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+		attach={
+		name="CK_Helmet"
+		node="Head"
+		attachId=4
+		}
+	}
+	EMFXActorType = {
+        name = "MiddleEasternGCCavalry"
+        actorfile = "gfx\anims\Muslim_Heavy_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+        name = "GenericGCCavalry"
+        actorfile = "gfx\anims\Western_Heavy_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+		attach={
+		name="CK_Helmet"
+		node="Head"
+		attachId=4
+		}
+	}
+	EMFXActorType = {
+        name = "AsianGCCavalry"
+        actorfile = "gfx\anims\Western_Heavy_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+		attach={
+		name="CK_Helmet"
+		node="Head"
+		attachId=4
+		}
+	}
+	EMFXActorType = {
+        name = "IndianGCCavalry"
+        actorfile = "gfx\anims\indian_heavy_cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+		attach={
+		name="CK_Helmet"
+		node="Head"
+		attachId=4
+		}
+	}
+	EMFXActorType = {
+        name = "BritishGCCavalry"
+        actorfile = "gfx\anims\Norse_Heavy_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	}
+	

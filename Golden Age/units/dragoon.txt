@@ -10,7 +10,7 @@ dragoon = {
 	sprite_override = Cavalry
 	sprite_mount = GenericMount
 	sprite_mount_attach_node = Saddle_Node
-	floating_flag = yes
+	floating_flag = no
 	
 	#Core Abilities
 	priority = 35

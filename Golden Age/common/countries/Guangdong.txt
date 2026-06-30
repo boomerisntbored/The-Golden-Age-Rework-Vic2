@@ -1,5 +1,5 @@
 color = { 10 75 125 }
-graphical_culture = ChineseGC
+graphical_culture = AsianGC
 
 party = {
     name = "Absolutist Faction"

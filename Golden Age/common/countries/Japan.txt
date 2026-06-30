@@ -4,7 +4,7 @@ democracy = { 244  121  158 }
 #fascist_dictatorship = { 248 51 22 }
 
 
-graphical_culture = JapaneseGC
+graphical_culture = AsianGC
 
 party = {
     name = "Absolutist Faction"

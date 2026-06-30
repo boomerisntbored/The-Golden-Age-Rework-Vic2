@@ -1,5 +1,5 @@
 color = { 106  178  46 }
-graphical_culture = Generic
+graphical_culture = EuropeanGC
 
 party = {
     name = "Nobility Faction"

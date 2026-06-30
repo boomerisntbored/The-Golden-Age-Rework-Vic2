@@ -1,5 +1,5 @@
 color = { 124 40 30 }
-graphical_culture = AustriaHungaryGC
+graphical_culture = EuropeanGC
 
 party = {
     name = "Nobility Faction"
