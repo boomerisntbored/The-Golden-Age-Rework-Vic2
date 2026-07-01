@@ -1,6 +1,6 @@
 color = { 222  107  165 }
 absolute_monarchy = { 235  0  26 }
-graphical_culture = PolishGC
+graphical_culture = EuropeanGC
 
 party = {
     name = "Stronnictwo Hetmanskie"

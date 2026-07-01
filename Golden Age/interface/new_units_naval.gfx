@@ -1,0 +1,219 @@
+objectTypes = {
+
+
+
+EMFXActorType = {
+		name = "BritishGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+	
+		EMFXActorType = {
+		name = "BritishGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+
+		
+		EMFXActorType = {
+		name = "FrenchGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "FrenchGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "AsianGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "AsianGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		EMFXActorType = {
+		name = "RussianGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "RussianGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		EMFXActorType = {
+		name = "ItalianGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "ItalianGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		EMFXActorType = {
+		name = "GenericFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "GenericManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		EMFXActorType = {
+		name = "EuropeanGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "EuropeanGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		EMFXActorType = {
+		name = "SpanishGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "SpanishGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		EMFXActorType = {
+		name = "ByzantineGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "ByzantineGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "AfricanGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "AfricanGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		EMFXActorType = {
+		name = "IndianGCFrigate"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		
+		EMFXActorType = {
+		name = "IndianGCManowar"
+		actorfile = "gfx\anims\Boat.xac"
+		
+		idle   = "gfx\anims\BoatIdle.xsm"
+		move   = "gfx\anims\BoatMove.xsm"
+		attack = "gfx\anims\BoatIdle.xsm"
+		scale = 2.5
+		}
+		}
+		

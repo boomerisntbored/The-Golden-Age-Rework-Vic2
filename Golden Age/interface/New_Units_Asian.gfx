@@ -1,0 +1,81 @@
+objectTypes = {	
+	EMFXActorType={
+	name="Asian_Sword"
+	actorfile="gfx\anims\Sword.xac"
+	scale=1.0
+	}
+	EMFXActorType={
+	name="CK_Helmet"
+	actorfile="gfx\anims\Helmet_07.xac"
+	scale=1.0
+	}
+	EMFXActorType = {
+		name = "CK_Cav"
+		actorfile = "gfx\anims\Spear_01.xac"
+		scale = 1.0
+	}
+	EMFXActorType = {
+		name = "AsianGCIrregular"
+		actorfile = "gfx\anims\Ashigaru.xac"
+		
+		idle   = "gfx\anims\Ashigaru_Idle.xsm"
+		move   = "gfx\anims\Ashigaru_Moving.xsm"
+		attack = "gfx\anims\Ashigaru_Attack.xsm"
+		scale = 2.0
+		
+		attach={
+		name="Asian_Sword"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+		name = "AsianGCInfantry_Defensive"
+		actorfile = "gfx\anims\Samurai.xac"
+		
+		idle   = "gfx\anims\Samurai_Idle.xsm"
+		move   = "gfx\anims\Samurai_Moving.xsm"
+		attack = "gfx\anims\Samurai_Attack.xsm"
+		scale = 2.0
+		
+		attach={
+		name="Asian_Sword"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+		EMFXActorType = {
+		name = "AsianGCInfantry_Offensive"
+		actorfile = "gfx\anims\Ashigaru.xac"
+		
+		idle   = "gfx\anims\Ashigaru_Idle.xsm"
+		move   = "gfx\anims\Ashigaru_Moving.xsm"
+		attack = "gfx\anims\Ashigaru_Attack.xsm"
+		scale = 2.0
+		
+		attach={
+		name="Asian_Sword"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+	EMFXActorType = {
+        name = "AsianGCCavalry"
+        actorfile = "gfx\anims\Western_Heavy_Cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+		attach={
+		name="CK_Helmet"
+		node="Head"
+		attachId=4
+		}
+	}
+	}

@@ -1,5 +1,5 @@
 color = { 255  151  40 }
-graphical_culture = Generic
+graphical_culture = EuropeanGC
 
 party = {
 	name = "TUR_reactionary"

@@ -2,7 +2,7 @@ artillery = {
 	icon = 3
 	
 	type = land
-	sprite = Artillery
+	sprite = Infantry_Offensive
 	active = no
 	unit_type = support
 	floating_flag = no

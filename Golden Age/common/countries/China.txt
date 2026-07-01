@@ -1,5 +1,5 @@
 color = { 200 10 10 }
-graphical_culture = ChineseGC
+graphical_culture = AsianGC
 
 party = {
     name = "Nobility Faction"

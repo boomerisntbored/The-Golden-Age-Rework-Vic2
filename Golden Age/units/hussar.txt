@@ -3,14 +3,14 @@ hussar = {
 	
 	type = land
 	sprite = Hussar
-	active = no
+	active = yes
 	unit_type = cavalry
-	floating_flag = yes
 	
 	#Avatar
 	sprite_override = Cavalry
 	sprite_mount = GenericMount
 	sprite_mount_attach_node = Saddle_Node
+	floating_flag = no
 	
 	#Core Abilities
 	priority = 40

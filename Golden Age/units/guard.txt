@@ -2,7 +2,7 @@ guard = {
 	icon = 18
 	
 	type = land
-	sprite = Guard
+	sprite = Infantry_Defensive
 	active = no
 	unit_type = infantry
 	primary_culture = yes
