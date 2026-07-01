@@ -56,8 +56,8 @@ if f then
     )
 
     CopiarSiNoExiste(
-        "mod\\Golden Age\\Lobby_bug_fixed_Only_Hosted_Golden_Age.bat",
-        "Lobby_bug_fixed_Only_Hosted_Golden_Age.bat"
+        "mod\\Golden Age\\Golden_Age_launcher_not_open.bat",
+        "Golden_Age_launcher_not_open.bat"
     )
 
 local confirmador_path = "confirmador.txt"
@@ -70,7 +70,7 @@ if not f_conf then
     print("[Golden Age] Ejecutando el preparador .bat y cerrando instancia actual...")
 
     -- Lanzamos el bat oculto en segundo plano
-    os.execute('start /B cmd.exe /c Lobby_bug_fixed_Only_Hosted_Golden_Age.bat > nul 2>&1')
+    os.execute('start /B cmd.exe /c Golden_Age_launcher_not_open.bat > nul 2>&1')
 
     -- Matamos el proceso de Victoria 2 para que el launcher pueda inyectar la memoria libre
     os.exit()
