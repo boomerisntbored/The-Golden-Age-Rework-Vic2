@@ -64,7 +64,7 @@ political_decisions = {
 		effect = {
 			   set_global_flag = brazil
 			set_country_flag = elgiste_lugar
-			money = -100000
+			money = -1000000
 			2431 = {secede_province = THIS}
 		}
 	}
@@ -97,7 +97,7 @@ political_decisions = {
 		effect = {
 			   set_global_flag = cuba
 			set_country_flag = elgiste_lugar
-			money = -100000
+			money = -1000000
 			2212 = {secede_province = THIS}
 			2253 = {secede_province = THIS}
 		}
@@ -133,7 +133,7 @@ political_decisions = {
 		effect = {
 			   set_global_flag = usa
 			set_country_flag = elgiste_lugar
-			money = -100000
+			money = -1000000
 			219 = {secede_province = THIS}
 		}
 	}
@@ -170,7 +170,7 @@ political_decisions = {
 		effect = {
 			   set_global_flag = canada
 			set_country_flag = elgiste_lugar
-			money = -100000
+			money = -1000000
 			65 = {secede_province = THIS}
 		}
 	}
@@ -203,7 +203,7 @@ political_decisions = {
 		effect = {
 			   set_global_flag = mex
 			set_country_flag = elgiste_lugar
-			money = -100000
+			money = -1000000
 			2163 = {secede_province = THIS}
 		}
 	}
@@ -236,7 +236,7 @@ political_decisions = {
 		effect = {
 			   set_global_flag = aires
 			set_country_flag = elgiste_lugar
-			money = -100000
+			money = -1000000
 			2348 = {secede_province = THIS}
 		}
 	}
@@ -264,7 +264,7 @@ political_decisions = {
 		effect = {
 			   set_global_flag = california
 			set_country_flag = elgiste_lugar
-			money = -100000
+			money = -1000000
 			85 = {secede_province = THIS}
 		}
 	}
