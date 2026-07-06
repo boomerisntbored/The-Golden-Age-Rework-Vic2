@@ -57,7 +57,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 100000
+			money = 1000000
 			naval_statistics = 1
 		}
 		
@@ -90,7 +90,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 100000
+			money = 1000000
 			naval_statistics = 1
 		}
 		
@@ -126,7 +126,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 100000
+			money = 1000000
 			naval_statistics = 1
 		}
 		
@@ -163,7 +163,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 100000
+			money = 1000000
 			naval_statistics = 1
 		}
 		
@@ -196,7 +196,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 100000
+			money = 1000000
 			naval_statistics = 1
 		}
 		
@@ -229,7 +229,7 @@ political_decisions = {
 		}
 
 		allow = {
-			money = 100000
+			money = 1000000
 			naval_statistics = 1
 		}
 
@@ -257,7 +257,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 100000
+			money = 1000000
 			civilized = yes
 		}
 		
