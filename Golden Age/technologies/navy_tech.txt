@@ -78,7 +78,7 @@ post_nelsonian_thought = {
 }
 battleship_column_doctrine = {
 	area = naval_doctrine
-	year = 1444
+	year = 1458
 	cost = 7200
 	unciv_military = yes
 	max_naval_base = 1
@@ -229,7 +229,7 @@ raider_group_doctrine = {
 }
 blue_and_brown_water_schools = {
 	area = naval_doctrine
-	year = 1875
+	year = 1475
 	cost = 14400
 	unciv_military = yes
 	max_naval_base = 1
@@ -304,7 +304,7 @@ blue_and_brown_water_schools = {
 
 high_sea_battle_fleet = {
 	area = naval_doctrine
-	year = 1895
+	year = 1495
 	cost = 18000
 	unciv_military = yes
 	max_naval_base = 1
@@ -1489,7 +1489,7 @@ naval_plans = {
 	year = 1444
 	cost = 7200
 	unciv_military = yes
-	
+	supply_range = 0.10
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -1531,7 +1531,7 @@ naval_statistics = {
 	year = 1458
 	cost = 10800
 	unciv_military = yes
-	supply_range = 0.20
+	supply_range = 0.10
 		ai_chance = {
 		factor = 1.01
 		modifier = {

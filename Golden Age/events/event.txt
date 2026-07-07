@@ -153,3 +153,37 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 22333
+	title = "Discovery of the Americas"
+	desc = "Our expeditions demonstrated the existence of a new continent; we should start sending exploration teams"
+
+	trigger = {
+	OR = {
+			tag = POR
+			tag = CAS
+			tag = SPA
+			tag = SPP
+			tag = ARO
+			tag = ARI
+            }
+	year = 1458
+	NOT = {
+		    has_country_flag = America
+		}
+	naval_plans = 1
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = America
+    }
+
+	option = {
+		name = "On to the new world"
+		activate_technology = naval_statistics
+	}
+}
