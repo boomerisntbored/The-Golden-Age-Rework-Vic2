@@ -1,6 +1,6 @@
-owner= HUN
-controller= HUN
-add_core= HUN
+owner= AUS
+controller= AUS
+add_core= AUS
 add_core= CRO
 add_core= YUG
 trade_goods = timber

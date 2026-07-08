@@ -2711,33 +2711,6 @@ political_decisions = {
 			factor = 1
 			}
     }
-	aus_slv  = {
-        potential = {
-            OR = {                
-                tag = AUS     				
-            }
-			has_country_flag = hun_integracion
-            NOT = { has_country_flag = aus_slv }
-			
-        }
-
-        allow = {         
-            war = no          
-            owns = 767
-        }
-		
-        
-
-        effect = {
-		    set_country_flag = aus_slv
-			AUS_768 = {
-				add_core = AUS
-			}
-        }
-		ai_will_do = {
-			factor = 1
-			}
-    }
 	aus_cro  = {
         potential = {
             OR = {                
