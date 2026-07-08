@@ -2711,33 +2711,6 @@ political_decisions = {
 			factor = 1
 			}
     }
-	aus_slv  = {
-        potential = {
-            OR = {                
-                tag = AUS     				
-            }
-			has_country_flag = hun_integracion
-            NOT = { has_country_flag = aus_slv }
-			
-        }
-
-        allow = {         
-            war = no          
-            owns = 767
-        }
-		
-        
-
-        effect = {
-		    set_country_flag = aus_slv
-			AUS_768 = {
-				add_core = AUS
-			}
-        }
-		ai_will_do = {
-			factor = 1
-			}
-    }
 	aus_cro  = {
         potential = {
             OR = {                
@@ -3717,7 +3690,6 @@ political_decisions = {
 			}
     }
 	
-	
 	scottish_sca  = {
         potential = {
                 tag = SCA   				
@@ -3758,5 +3730,97 @@ political_decisions = {
 			factor = 1
 			}
     }
+	mughal  = {
+        potential = {
+                tag = TIM   				
+            
+		NOT = {
+		    exists = MUG
+		}
+	}
 
+        allow = {         
+            war = no
+            is_greater_power = yes			
+            DLH = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                vassal_of = THIS
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+		     
+
+        effect = {                
+            prestige = 1
+			change_tag = MUG 
+			set_country_flag = annex_sco
+			THIS = { inherit = DLH }
+			DLH = {
+				all_core = { add_core = MUG}
+			}
+			RAJ = {
+				all_core = { add_core = MUG}
+			}
+			KAS = {
+				all_core = { add_core = MUG}
+			}
+			SIN = {
+				all_core = { add_core = MUG}
+			}
+			GUJ = {
+				all_core = { add_core = MUG}
+			}
+			KHD = {
+				all_core = { add_core = MUG}
+			}
+			SIN = {
+				all_core = { add_core = MUG}
+			}
+			MLW = {
+				all_core = { add_core = MUG}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    fra_bar  = {
+        potential = {
+		NOT = {
+		    has_country_flag = bar_fraa
+		}
+		NOT = {
+		    year = 1460
+		}
+		tag = FRA
+        }
+
+        allow = {         
+            war = no
+            NOT = {
+		    year = 1460
+		} 			
+			owns = 498
+        }
+		     
+
+        effect = {                
+            set_country_flag = bar_fraa
+			464 = { add_core = THIS }
+			499 = { add_core = THIS }
+			498 = { add_core = THIS }
+			500 = { add_core = THIS }
+			501 = { add_core = THIS }
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
 	}
