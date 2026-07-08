@@ -282,45 +282,6 @@ political_decisions = {
 		}
 	}
 	
-	concede_finland = {
-		potential = {
-			tag = SWE
-			NOT = {
-				has_country_flag = Conceded_Finland
-			}
-		}
-		
-		allow = {
-			NOT = {
-				prestige = 40
-			}
-			average_consciousness = 4
-		}
-		
-		effect = {
-			RUS_336 = {
-				remove_core = SWE
-			}
-			RUS_340 = {
-				remove_core = SWE
-			}
-			prestige = 10
-			any_pop = {
-				militancy = -1
-			}
-			set_country_flag = Conceded_Finland
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					average_militancy = 4
-				}
-			}
-		}
-	}
-	
 	reichsland_elsass = {
 		potential = {
 			OR = {
@@ -382,71 +343,6 @@ political_decisions = {
 			clr_global_flag = germany_has_renamed_elsass
 		}
 	}
-	
-	form_gran_colombia = {
-		potential = {
-			OR = {
-				tag = ECU
-				tag = CLM
-				tag = VNZ
-			}
-			NOT = {
-				exists = GCO
-			}
-		}	
-		allow = {
-			war = no
-			is_greater_power = yes
-			GCO = {
-				all_core = {
-					owner = {
-						OR = {
-							tag = THIS
-							in_sphere = THIS
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 10
-			any_country = {
-				limit = {
-					vassal_of = THIS
-				}
-				annex_to = THIS
-			}
-			any_country = {
-				limit = {
-					in_sphere = THIS
-				}
-				
-				any_owned = {
-					limit = {
-						is_core = GCO
-					}
-					secede_province = THIS
-				}
-
-			}
-			
-			2242 = { add_core = GCO } # Mahdia, prev VNZ core
-			
-			# some early claims we can roll with for future colombian lebensraum
-			2200 = { add_core = GCO }
-			2201 = { add_core = GCO }
-			2202 = { add_core = GCO }
-			2203 = { add_core = GCO }
-
-			change_tag = GCO
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}	
 
 unite_moldavia_wallachia = {
 		potential = {
