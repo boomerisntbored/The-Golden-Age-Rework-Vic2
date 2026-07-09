@@ -1,7 +1,7 @@
 owner= TUR
 controller= TUR
 add_core= KAR
-add_core= TUR
+
 add_core= BYZ
 trade_goods = grain
 life_rating = 35

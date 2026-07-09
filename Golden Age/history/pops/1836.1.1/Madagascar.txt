@@ -65,28 +65,28 @@
 	aristocrats=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	clergymen=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=900
 	}
 
@@ -309,28 +309,28 @@
 	aristocrats=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	clergymen=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	farmers=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=1800
 	}
 

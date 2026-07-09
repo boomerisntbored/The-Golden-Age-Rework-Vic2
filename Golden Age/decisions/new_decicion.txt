@@ -3651,6 +3651,29 @@ political_decisions = {
 			factor = 1
 			}
     }
+    ath_annex  = {
+        potential = {
+		tag = BYZ
+		NOT = {
+		    has_country_flag = anex_ath
+		}
+        }
+
+        allow = {
+            war = no
+            BYZ = { is_our_vassal = ATH }
+            year = 1450
+        }
+
+
+        effect = {
+			set_country_flag = anex_ath
+			BYZ = { inherit = ATH }
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
 	BRY  = {
         potential = {
 		OR = {                

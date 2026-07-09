@@ -104,42 +104,42 @@
 	clergymen=
 	{
 		culture = norwegian
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = norwegian
-		religion = protestant
+		religion = catholic
 		size=500
 	}
 
 	soldiers=
 	{
 		culture = norwegian
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = norwegian
-		religion = protestant
+		religion = catholic
 		size=4400
 	}
 
 	farmers=
 	{
 		culture = sami
-		religion = protestant
+		religion = catholic
 		size=2000
 	}
 
 	farmers=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=2000
 	}
 
@@ -199,7 +199,7 @@
 	farmers=
 	{
 		culture = norwegian
-		religion = protestant
+		religion = catholic
 		size=15
 	}
 

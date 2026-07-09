@@ -2,49 +2,49 @@
 	aristocrats=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=450
 	}
 
 	bureaucrats=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	officers=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	clergymen=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 
 	artisans=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=1150
 	}
 
 	soldiers=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
 	farmers=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=20025
 	}
 
@@ -573,21 +573,21 @@
 	clergymen=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=1
 	}
 
 	artisans=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=4
 	}
 
 	farmers=
 	{
 		culture = polynesian
-		religion = protestant
+		religion = catholic
 		size=35
 	}
 

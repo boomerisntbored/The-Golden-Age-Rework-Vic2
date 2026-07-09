@@ -37,7 +37,7 @@
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 

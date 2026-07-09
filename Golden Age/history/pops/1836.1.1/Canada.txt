@@ -1730,28 +1730,28 @@
 	clergymen=
 	{
 		culture = metis
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = metis
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	soldiers=
 	{
 		culture = metis
-		religion = protestant
+		religion = catholic
 		size=15
 	}
 
 	farmers=
 	{
 		culture = metis
-		religion = protestant
+		religion = catholic
 		size=910
 	}
 
@@ -3093,35 +3093,35 @@
 	bureaucrats=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=200
 	}
 
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=125
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=5000
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=13425
 	}
 
@@ -3420,28 +3420,28 @@
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=400
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=4450
 	}
 
@@ -3508,35 +3508,35 @@
 	bureaucrats=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=275
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=750
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=12750
 	}
 
@@ -3573,28 +3573,28 @@
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=600
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	labourers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=11175
 	}
 
@@ -3631,28 +3631,28 @@
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=1500
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=6350
 	}
 
@@ -3661,35 +3661,35 @@
 	bureaucrats=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=4000
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=200
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=14600
 	}
 
@@ -3703,7 +3703,7 @@
 	labourers=
 	{
 		culture = afro_american
-		religion = protestant
+		religion = catholic
 		size=750
 	}
 
@@ -3712,28 +3712,28 @@
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=750
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=125
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=9075
 	}
 
@@ -3749,28 +3749,28 @@
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=4650
 	}
 
@@ -3779,35 +3779,35 @@
 	bureaucrats=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=2000
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=2825
 	}
 
@@ -3837,28 +3837,28 @@
 	clergymen=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 
 	soldiers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = native_american_minor
-		religion = protestant
+		religion = catholic
 		size=4625
 	}
 

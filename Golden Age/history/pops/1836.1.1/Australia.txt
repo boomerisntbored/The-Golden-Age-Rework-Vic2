@@ -2,35 +2,35 @@
 	bureaucrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=35
 	}
 
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=65
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=3500
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=4400
 	}
 
@@ -88,28 +88,28 @@
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=1670
 	}
 
@@ -167,28 +167,28 @@
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=900
 	}
 
@@ -267,28 +267,28 @@
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=1850
 	}
 
@@ -297,28 +297,28 @@
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=900
 	}
 
@@ -695,35 +695,35 @@
 	bureaucrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=2000
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=6775
 	}
 
@@ -767,28 +767,28 @@
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=900
 	}
 
@@ -1315,28 +1315,28 @@
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=15
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=40
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=685
 	}
 
@@ -1898,28 +1898,28 @@
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=3
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=2
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=235
 	}
 

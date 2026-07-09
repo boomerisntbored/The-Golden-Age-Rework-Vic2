@@ -163,5 +163,12 @@ vassal=
 	start_date="1399.1.1"
 	end_date="1936.1.1"
 }
+vassal=
+{
+	first="BYZ"
+	second="ATH"
+	start_date="1399.1.1"
+	end_date="1936.1.1"
+}
 
 

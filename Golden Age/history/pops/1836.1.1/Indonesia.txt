@@ -921,35 +921,35 @@
 	aristocrats=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=750
 	}
 
 	bureaucrats=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=1750
 	}
 
 	clergymen=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=1075
 	}
 
 	soldiers=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=2250
 	}
 
@@ -2805,28 +2805,28 @@
 	bureaucrats=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	artisans=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=15
 	}
 
 	clergymen=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	soldiers=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
@@ -2991,70 +2991,70 @@
 	aristocrats=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=115
 	}
 
 	bureaucrats=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	clergymen=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=125
 	}
 
 	artisans=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=600
 	}
 
 	soldiers=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	farmers=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
 	bureaucrats=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	artisans=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=15
 	}
 
 	clergymen=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	soldiers=
 	{
 		culture = dutch
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
@@ -3098,28 +3098,28 @@
 	clergymen=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=400
 	}
 
 	soldiers=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = moluccan
-		religion = protestant
+		religion = catholic
 		size=1500
 	}
 

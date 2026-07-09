@@ -2,28 +2,28 @@
 	aristocrats=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=200
 	}
 
 	bureaucrats=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=375
 	}
 
 	farmers=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=400
 	}
 

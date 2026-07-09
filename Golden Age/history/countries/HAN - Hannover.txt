@@ -1,6 +1,6 @@
 capital=534
 primary_culture = north_german
-religion = protestant
+religion = catholic
 government = absolute_monarchy
 nationalvalue=nv_order
 literacy=0.000000

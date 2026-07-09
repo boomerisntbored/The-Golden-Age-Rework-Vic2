@@ -2,28 +2,28 @@
 	bureaucrats=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	clergymen=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=15
 	}
 
 	artisans=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=15
 	}
 
 	farmers=
 	{
 		culture = inuit
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
@@ -32,21 +32,21 @@
 	clergymen=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=4
 	}
 
 	artisans=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=4
 	}
 
 	farmers=
 	{
 		culture = inuit
-		religion = protestant
+		religion = catholic
 		size=300
 	}
 
@@ -55,21 +55,21 @@
 	clergymen=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=4
 	}
 
 	artisans=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=4
 	}
 
 	farmers=
 	{
 		culture = inuit
-		religion = protestant
+		religion = catholic
 		size=300
 	}
 
@@ -78,21 +78,21 @@
 	clergymen=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=2
 	}
 
 	artisans=
 	{
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size=2
 	}
 
 	farmers=
 	{
 		culture = inuit
-		religion = protestant
+		religion = catholic
 		size=200
 	}
 

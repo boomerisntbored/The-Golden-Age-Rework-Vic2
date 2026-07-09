@@ -2,28 +2,28 @@
 	bureaucrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=20
 	}
 
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=130
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
@@ -72,21 +72,21 @@
 	clergymen=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=125
 	}
 
 	artisans=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
 	soldiers=
 	{
 		culture = african_minor
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 
