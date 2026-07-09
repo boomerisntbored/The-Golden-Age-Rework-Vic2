@@ -3,7 +3,7 @@
 	{
 		culture = misri
 		religion = sunni
-		size=1387
+		size=3387
 	}
 
 	artisans=
@@ -54,7 +54,7 @@
 	{
 		culture = misri
 		religion = sunni
-		size=1386
+		size=3386
 	}
 
 	artisans=
@@ -126,7 +126,7 @@
 	{
 		culture = misri
 		religion = sunni
-		size=1087
+		size=4087
 	}
 
 	artisans=

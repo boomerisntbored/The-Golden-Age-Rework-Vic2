@@ -1,5 +1,6 @@
-owner= PRO
-controller= PRO
+owner= ENL
+controller= ENL
+add_core= ENL
 add_core= FRA
 add_core= NRM
 add_core= PRO

@@ -1,5 +1,6 @@
-owner= ALE
-controller= ALE
+owner= ENL
+controller= ENL
+add_core= ENL
 add_core= ALE
 add_core= FRA
 trade_goods = grain

@@ -72,14 +72,6 @@ vassal=
 vassal=
 {
 	first="FRA"
-	second="ALE"
-	start_date="1399.1.1"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="FRA"
 	second="AMG"
 	start_date="1399.1.1"
 	end_date="1936.1.1"
@@ -119,22 +111,6 @@ vassal=
 
 vassal=
 {
-	first="VEN"
-	second="NAX"
-	start_date="1399.1.1"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="VEN"
-	second="ION"
-	start_date="1399.1.1"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
 	first="SIA"
 	second="CAM"
 	start_date="1431.1.1"
@@ -168,6 +144,13 @@ vassal=
 {
 	first="DEN"
 	second="SWE"
+	start_date="1399.1.1"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="BYZ"
+	second="ATH"
 	start_date="1399.1.1"
 	end_date="1936.1.1"
 }

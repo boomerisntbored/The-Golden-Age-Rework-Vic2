@@ -2,70 +2,70 @@
 	aristocrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	bureaucrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=1750
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
 	clergymen=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=2750
 	}
 
 	soldiers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 
 	farmers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=18925
 	}
 
@@ -74,56 +74,56 @@
 	aristocrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=130
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	clergymen=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	soldiers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=4050
 	}
 
@@ -132,56 +132,56 @@
 	aristocrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=130
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	clergymen=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	soldiers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=4250
 	}
 
@@ -190,63 +190,63 @@
 	aristocrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=20
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=250
 	}
 
 	soldiers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=5
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=200
 	}
 
 	clergymen=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	soldiers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	farmers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=6725
 	}
 
@@ -255,56 +255,56 @@
 	aristocrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	clergymen=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=10
 	}
 
 	artisans=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=130
 	}
 
 	farmers=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	clergymen=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=200
 	}
 
 	soldiers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size=4700
 	}
 

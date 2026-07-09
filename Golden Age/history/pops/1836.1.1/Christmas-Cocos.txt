@@ -11,7 +11,7 @@
 	aristocrats=
 	{
 		culture = british
-		religion = protestant
+		religion = catholic
 		size=5
 	}
 

@@ -1,7 +1,7 @@
 capital=243
 primary_culture = yankee
 culture = dixie
-religion = protestant
+religion = catholic
 government = democracy
 nationalvalue=nv_liberty
 literacy=0.000000

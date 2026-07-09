@@ -1,6 +1,5 @@
-owner= NAX
-controller= NAX
-add_core= NAX
+owner= VEN
+controller= VEN
 add_core= BYZ
 trade_goods = fish
 life_rating = 35

@@ -1,6 +1,6 @@
 capital=252
 primary_culture = icelandic
-religion = protestant
+religion = catholic
 government = democracy
 nationalvalue=nv_liberty
 literacy=0.000000

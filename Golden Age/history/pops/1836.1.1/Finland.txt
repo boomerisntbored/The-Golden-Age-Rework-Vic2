@@ -2,42 +2,42 @@
 	bureaucrats=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	officers=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=25
 	}
 
 	clergymen=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	artisans=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=800
 	}
 
 	soldiers=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	farmers=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=14725
 	}
 
@@ -97,35 +97,35 @@
 	clergymen=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=475
 	}
 
 	soldiers=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=100
 	}
 
 	farmers=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=8825
 	}
 
 	farmers=
 	{
 		culture = sami
-		religion = protestant
+		religion = catholic
 		size=500
 	}
 
@@ -491,63 +491,63 @@
 	clergymen=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=475
 	}
 
 	artisans=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=2600
 	}
 
 	soldiers=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
 	farmers=
 	{
 		culture = finnish
-		religion = protestant
+		religion = catholic
 		size=47925
 	}
 
 	aristocrats=
 	{
 		culture = swedish
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
 	clergymen=
 	{
 		culture = swedish
-		religion = protestant
+		religion = catholic
 		size=150
 	}
 
 	artisans=
 	{
 		culture = swedish
-		religion = protestant
+		religion = catholic
 		size=1100
 	}
 
 	soldiers=
 	{
 		culture = swedish
-		religion = protestant
+		religion = catholic
 		size=175
 	}
 
 	farmers=
 	{
 		culture = swedish
-		religion = protestant
+		religion = catholic
 		size=13675
 	}
 

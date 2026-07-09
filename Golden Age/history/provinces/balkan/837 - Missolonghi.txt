@@ -1,7 +1,6 @@
-owner= TUR
-controller= TUR
+owner= EPI
+controller= EPI
 add_core= EPI
 add_core= BYZ
-add_core= TUR
 trade_goods = grain
 life_rating = 35

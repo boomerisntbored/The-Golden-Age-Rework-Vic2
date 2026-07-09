@@ -1,6 +1,5 @@
-owner= ION
-controller= ION
-add_core= ION
+owner= VEN
+controller= VEN
 add_core= BYZ
 add_core= VEN
 trade_goods = fish
