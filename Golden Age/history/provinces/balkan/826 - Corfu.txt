@@ -1,6 +1,5 @@
 owner= VEN
 controller= VEN
-add_core= ION
 add_core= BYZ
 add_core= VEN
 trade_goods = fish
