@@ -72,14 +72,6 @@ vassal=
 vassal=
 {
 	first="FRA"
-	second="ALE"
-	start_date="1399.1.1"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="FRA"
 	second="AMG"
 	start_date="1399.1.1"
 	end_date="1936.1.1"
