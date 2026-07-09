@@ -2135,7 +2135,7 @@
 	{
 		culture = cosmopolitan_french
 		religion = catholic
-		size=963
+		size=1363
 	}
 
 	artisans=
@@ -2753,7 +2753,7 @@
 	{
 		culture = occitain
 		religion = catholic
-		size=2987
+		size=2487
 	}
 
 	artisans=

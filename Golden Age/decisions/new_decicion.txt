@@ -3788,6 +3788,8 @@ political_decisions = {
 			MLW = {
 				all_core = { add_core = MUG}
 			}
+			add_accepted_culture = panjabi
+			add_accepted_culture = kashmiri
 		}
 		ai_will_do = {
 			factor = 1
