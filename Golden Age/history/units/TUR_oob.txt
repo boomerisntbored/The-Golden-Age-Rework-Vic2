@@ -515,3 +515,6 @@ navy = {
 
 }
 
+BYZ = {
+	truce_until = 1445.1.1
+}
