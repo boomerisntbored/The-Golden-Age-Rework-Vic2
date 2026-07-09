@@ -2500,6 +2500,8 @@ political_decisions = {
             war = no          
             owns = 416
 			owns = 458
+			owns = 435
+			owns = 436
         }
 		
         
