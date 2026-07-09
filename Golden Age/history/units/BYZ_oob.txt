@@ -1,3 +1,12 @@
 TUR = {
 	truce_until = 1445.1.1
 }
+leader = {
+	name = "Constantine XI"
+	date = 1405.1.1
+	type = land
+	personality = defence_5.1
+	background = attack_5.1
+	prestige = 0.1
+	picture = "Constantine"
+}
