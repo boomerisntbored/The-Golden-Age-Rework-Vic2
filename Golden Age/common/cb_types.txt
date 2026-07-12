@@ -156,7 +156,7 @@ Horda_conquest = {
 				primary_culture = tatar
 		}
 		}
-		NOT = {	year = 1464 }
+		NOT = {	year = 1470 }
 		any_owned_province = {
 			not = { is_core = THIS }
 			is_colonial = no
@@ -323,7 +323,7 @@ tur_conquest = {
 				primary_culture = turkish
 		}
 		}
-		NOT = {	year = 1450 }
+		NOT = {	year = 1468 }
 		any_owned_province = {
 			not = { is_core = THIS }
 			is_colonial = no
