@@ -432,7 +432,7 @@ clergymen = {
 ############################
 # CAPITALISTS
 ############################
-capitalists = {
+bureaucrats = {
     factor = 0.01
 
     modifier = {
@@ -474,12 +474,12 @@ capitalists = {
 
     modifier = {
         factor = -2
-        state_scope = { capitalists = 0.005 }
+        state_scope = { bureaucrats = 0.005 }
     }
 
     modifier = {
         factor = -100
-        state_scope = { capitalists = 0.007 }
+        state_scope = { bureaucrats = 0.007 }
     }
 }
 

@@ -313,7 +313,7 @@ clergymen = {
     }
 }
 
-capitalists = {
+bureaucrats = {
     factor = 0.01
 
     modifier = { factor = -1 terrain = desert }
@@ -338,9 +338,9 @@ capitalists = {
     }
 
     group = {
-        modifier = { factor = -1 state_scope = { capitalists = 0.001 } }
-        modifier = { factor = -2 state_scope = { capitalists = 0.003 } }
-        modifier = { factor = -100 state_scope = { capitalists = 0.007 } }
+        modifier = { factor = -1 state_scope = { bureaucrats = 0.001 } }
+        modifier = { factor = -2 state_scope = { bureaucrats = 0.003 } }
+        modifier = { factor = -100 state_scope = { bureaucrats = 0.007 } }
     }
 
     group = {

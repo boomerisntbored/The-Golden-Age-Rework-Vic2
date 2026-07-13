@@ -70,17 +70,6 @@ promotion_focus =
 		icon = 7
 		outliner_show_as_percent = yes
 	}
-
-	promote_capitalists =
-	{
-		capitalists = 0.30 #20% more likeley to become this type
-		icon = 8
-		outliner_show_as_percent = yes
-		limit = {
-			civilized = yes
-			ai = no
-		}
-	}
 	
 	promote_clergymen =
 	{
