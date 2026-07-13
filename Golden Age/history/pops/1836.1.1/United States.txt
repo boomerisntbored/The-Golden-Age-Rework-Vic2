@@ -9607,7 +9607,7 @@ religion = animist
         size = 232
     }
 
-    capitalists = {
+    bureaucrats = {
 culture = native_american_minor
 religion = animist
         size = 16
@@ -10439,7 +10439,7 @@ religion = animist
 #ruled by the USA
 #New York (44000/11000 POPS)
 232 = {
-    capitalists = {
+    bureaucrats = {
 culture = native_american_minor
 religion = animist
         size = 96
@@ -11137,7 +11137,7 @@ religion = animist
         size = 56
     }
 
-    capitalists = {
+    bureaucrats = {
 culture = native_american_minor
 religion = animist
         size = 8
@@ -11261,7 +11261,7 @@ religion = animist
         size = 16
     }
 
-    capitalists = {
+    bureaucrats = {
 culture = native_american_minor
 religion = animist
         size = 16
@@ -11385,7 +11385,7 @@ religion = animist
         size = 112
     }
 
-    capitalists = {
+    bureaucrats = {
 culture = native_american_minor
 religion = animist
         size = 272

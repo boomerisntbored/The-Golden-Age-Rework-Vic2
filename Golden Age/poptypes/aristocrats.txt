@@ -145,7 +145,7 @@ promote_to =
 ###################################
 # CAPITALISTS
 ###################################
-capitalists =
+bureaucrats =
 {
     factor = 0.01
 

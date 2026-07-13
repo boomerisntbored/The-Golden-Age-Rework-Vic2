@@ -698,7 +698,7 @@ assimilation_chance =
 	}
 	
 	modifier = {
-		factor = 15
+		factor = 25
 		country = {
 			primary_culture = swedish
 		}
@@ -794,6 +794,15 @@ assimilation_chance =
 		}
 		OR = {
 			has_pop_culture = galician
+		}
+	}
+	modifier = {
+		factor = 10
+		country = {
+			primary_culture = bambara
+		}
+		OR = {
+			has_pop_culture = african_minor
 		}
 	}
 	

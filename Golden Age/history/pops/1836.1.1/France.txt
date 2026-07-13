@@ -1577,7 +1577,7 @@
 		size=58
 	}
 
-	capitalists=
+	bureaucrats=
 	{
 		culture = burgundian
 		religion = catholic
@@ -1802,7 +1802,7 @@
 		size=90
 	}
 
-	capitalists=
+	bureaucrats=
 	{
 		culture = cosmopolitan_french
 		religion = catholic

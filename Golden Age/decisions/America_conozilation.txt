@@ -208,7 +208,10 @@ political_decisions = {
 	}
 	buenos_aires = {
 		potential = {
-			continent = europe
+			OR = {
+                continent = europe
+				tag = MAL
+            }
 			OR = {
                 is_greater_power = yes
 				tag = POR

@@ -812,7 +812,7 @@ political_decisions = {
                     }
                 }
 	         }
-			 706 = {
+			 715 = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -3845,6 +3845,335 @@ political_decisions = {
 			498 = { add_core = THIS }
 			500 = { add_core = THIS }
 			501 = { add_core = THIS }
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    costa_mali  = {
+        potential = {
+		NOT = {
+		    has_country_flag = costa_mali
+		}
+		tag = MAL
+        }
+
+        allow = {
+            war = no
+            year = 1458
+        }
+
+
+        effect = {
+            set_country_flag = costa_mali
+			1879 = {secede_province = THIS}
+			1879 = { add_core = THIS }
+			1877 = {secede_province = THIS}
+			1792 = {secede_province = THIS}
+			1785 = {secede_province = THIS}
+			1788 = {secede_province = THIS}
+			2573 = {secede_province = THIS}
+			1783 = {secede_province = THIS}
+			1907 = {secede_province = THIS}
+			1907 = { add_core = THIS }
+			1908 = {secede_province = THIS}
+			1908 = { add_core = THIS }
+			1909 = {secede_province = THIS}
+			1909 = { add_core = THIS }
+			1894 = {secede_province = THIS}
+			1894 = { add_core = THIS }
+			1923 = {secede_province = THIS}
+			1923 = { add_core = THIS }
+			1928 = {secede_province = THIS}
+			1928 = { add_core = THIS }
+			1931 = {secede_province = THIS}
+			1931 = { add_core = THIS }
+			1932 = {secede_province = THIS}
+			1932 = { add_core = THIS }
+			1934 = {secede_province = THIS}
+			1934 = { add_core = THIS }
+			1957 = {secede_province = THIS}
+			1957 = { add_core = THIS }
+			1956 = {secede_province = THIS}
+			1956 = { add_core = THIS }
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    dua_bre  = {
+        potential = {
+            OR = {
+                tag = DUA
+            }
+            NOT = { has_country_flag = bretana_dua }
+        }
+
+        allow = {
+            war = no
+            BRI = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 state_n_government = 1
+        }
+
+
+
+        effect = {
+            prestige = 1
+            set_country_flag = bretana_dua
+			BRI = {
+				all_core = { add_core = DUA}
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    mali_mor  = {
+        potential = {
+            OR = {
+                tag = MAL
+            }
+            NOT = { has_country_flag = mali_mor }
+        }
+
+        allow = {
+            war = no
+            MOR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+
+
+
+        effect = {
+            prestige = 1
+            set_country_flag = mali_mor
+            inherit = MOR
+			MOR = {
+				all_core = { add_core = MAL}
+			}
+			add_accepted_culture = maghrebi
+			add_accepted_culture = berber
+            remove_accepted_culture = yoruba
+			remove_accepted_culture = akan
+			remove_accepted_culture = hausa
+			1801 = { add_core = THIS }
+			1801 = {secede_province = THIS}
+			1796 = { add_core = THIS }
+			1796 = {secede_province = THIS}
+			1781 = { add_core = THIS }
+			1781 = {secede_province = THIS}
+			1780 = { add_core = THIS }
+			1780 = {secede_province = THIS}
+			1778 = { add_core = THIS }
+			1778 = {secede_province = THIS}
+			1789 = { add_core = THIS }
+			1789 = {secede_province = THIS}
+			1784 = { add_core = THIS }
+			1784 = {secede_province = THIS}
+			1777 = { add_core = THIS }
+			1777 = {secede_province = THIS}
+			1776 = { add_core = THIS }
+			1776 = {secede_province = THIS}
+			1779 = { add_core = THIS }
+			1779 = {secede_province = THIS}
+			1775 = { add_core = THIS }
+			1775 = {secede_province = THIS}
+			1782 = { add_core = THIS }
+			1782 = {secede_province = THIS}
+			1774 = { add_core = THIS }
+			1774 = {secede_province = THIS}
+			1773 = { add_core = THIS }
+			1773 = {secede_province = THIS}
+			1696 = { add_core = THIS }
+			1696 = {secede_province = THIS}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    mali_ibe  = {
+        potential = {
+            OR = {
+                tag = MAL
+            }
+            NOT = { has_country_flag = mali_ibe }
+        }
+
+        allow = {
+            war = no
+            GRA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+
+
+
+        effect = {
+            prestige = 1
+            set_country_flag = mali_ibe
+            inherit = GRA
+            SPA_512 = {
+				add_core = GRA
+			}
+			516 = { add_core = GRA }
+			515 = { add_core = GRA }
+			GRA = {
+				all_core = { add_core = MAL}
+			}
+			add_accepted_culture = andalucian
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    mali_conolizar  = {
+        potential = {
+            OR = {
+                tag = MAL
+            }
+            NOT = { has_country_flag = mali_conolizar }
+        }
+
+        allow = {
+            war = no
+            OR = {
+            is_greater_power = yes
+            nationalism_n_imperialism = 1
+            }
+        }
+
+
+
+        effect = {
+            prestige = 1
+            set_country_flag = mali_conolizar
+			1918 = { add_core = THIS }
+			1918 = {secede_province = THIS}
+			1917 = { add_core = THIS }
+			1917 = {secede_province = THIS}
+			1914 = { add_core = THIS }
+			1914 = {secede_province = THIS}
+			1920 = { add_core = THIS }
+			1920 = {secede_province = THIS}
+			1919 = { add_core = THIS }
+			1919 = {secede_province = THIS}
+			1899 = { add_core = THIS }
+			1899 = {secede_province = THIS}
+			1897 = { add_core = THIS }
+			1897 = {secede_province = THIS}
+			1892 = { add_core = THIS }
+			1892 = {secede_province = THIS}
+			1898 = { add_core = THIS }
+			1898 = {secede_province = THIS}
+			1895 = { add_core = THIS }
+			1895 = {secede_province = THIS}
+			1900 = { add_core = THIS }
+			1900 = {secede_province = THIS}
+			1896 = { add_core = THIS }
+			1896 = {secede_province = THIS}
+			1893 = { add_core = THIS }
+			1893 = {secede_province = THIS}
+			1883 = { add_core = THIS }
+			1883 = {secede_province = THIS}
+			1885 = { add_core = THIS }
+			1885 = {secede_province = THIS}
+			1886 = { add_core = THIS }
+			1886 = {secede_province = THIS}
+			1884 = { add_core = THIS }
+			1884 = {secede_province = THIS}
+			1885 = { add_core = THIS }
+			1885 = {secede_province = THIS}
+			1889 = { add_core = THIS }
+			1889 = {secede_province = THIS}
+			1887 = { add_core = THIS }
+			1887 = {secede_province = THIS}
+			1890 = { add_core = THIS }
+			1890 = {secede_province = THIS}
+			1891 = { add_core = THIS }
+			1891 = {secede_province = THIS}
+			1888 = { add_core = THIS }
+			1888 = {secede_province = THIS}
+			1893 = { add_core = THIS }
+			1893 = {secede_province = THIS}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    mali_core  = {
+        potential = {
+		NOT = {
+		    has_country_flag = mali_core
+		}
+		tag = MAL
+        }
+
+        allow = {
+            war = no
+            owns = 1910
+            owns = 1921
+            owns = 1811
+            owns = 1942
+            owns = 1953
+            owns = 1961
+            owns = 1926
+        }
+
+
+        effect = {
+            set_country_flag = mali_core
+			ASH = {
+				all_core = { add_core = MAL}
+			}
+			OYO = {
+				all_core = { add_core = MAL}
+			}
+			SOK = {
+				all_core = { add_core = MAL}
+			}
+			OYO = {
+				all_core = { add_core = MAL}
+			}
+			HAU = {
+				all_core = { add_core = MAL}
+			}
+			KBO = {
+				all_core = { add_core = MAL}
+			}
+			SON = {
+				all_core = { add_core = MAL}
+			}
+			add_accepted_culture = yoruba
+			add_accepted_culture = akan
+			add_accepted_culture = hausa
+			add_accepted_culture = tuareg
 		}
 		ai_will_do = {
 			factor = 1
