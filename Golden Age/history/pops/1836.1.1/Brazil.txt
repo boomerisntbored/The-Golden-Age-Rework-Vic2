@@ -690,28 +690,28 @@
 2414 = {
 	aristocrats=
 	{
-		culture = french
+		culture = amazonian
 		religion = catholic
 		size=40
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = amazonian
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = amazonian
 		religion = catholic
 		size=15
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = amazonian
 		religion = catholic
 		size=25
 	}

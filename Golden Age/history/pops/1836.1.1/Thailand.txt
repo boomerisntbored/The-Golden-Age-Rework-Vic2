@@ -124,49 +124,49 @@
 
 	soldiers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=820
 	}
 
 	artisans=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=2473
 	}
 
 	clergymen=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=471
 	}
 
 	bureaucrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=33
 	}
 
 	officers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=28
 	}
 
 	aristocrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=633
 	}
 
 	farmers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=39642
 	}
@@ -175,49 +175,49 @@
 1349 = {
 	soldiers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=586
 	}
 
 	artisans=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=1769
 	}
 
 	clergymen=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=337
 	}
 
 	bureaucrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=24
 	}
 
 	officers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=20
 	}
 
 	aristocrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=453
 	}
 
 	farmers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=30511
 	}
@@ -226,49 +226,49 @@
 1350 = {
 	soldiers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=698
 	}
 
 	artisans=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=2105
 	}
 
 	clergymen=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=401
 	}
 
 	bureaucrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=28
 	}
 
 	officers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=24
 	}
 
 	aristocrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=539
 	}
 
 	farmers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=36305
 	}
@@ -284,49 +284,49 @@
 
 	soldiers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=1033
 	}
 
 	artisans=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=2163
 	}
 
 	clergymen=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=412
 	}
 
 	bureaucrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=29
 	}
 
 	officers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=25
 	}
 
 	aristocrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=554
 	}
 
 	farmers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=35884
 	}
@@ -488,49 +488,49 @@
 1355 = {
 	soldiers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=1445
 	}
 
 	artisans=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=4360
 	}
 
 	clergymen=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=831
 	}
 
 	bureaucrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=58
 	}
 
 	officers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=50
 	}
 
 	aristocrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=1116
 	}
 
 	farmers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=75190
 	}
@@ -539,49 +539,49 @@
 2572 = {
 	soldiers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=1169
 	}
 
 	artisans=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=3528
 	}
 
 	clergymen=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=672
 	}
 
 	bureaucrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=47
 	}
 
 	officers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=40
 	}
 
 	aristocrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=903
 	}
 
 	farmers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=60841
 	}
@@ -692,49 +692,49 @@
 1365 = {
 	soldiers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=313
 	}
 
 	artisans=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=945
 	}
 
 	clergymen=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=180
 	}
 
 	bureaucrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=13
 	}
 
 	officers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=11
 	}
 
 	aristocrats=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=242
 	}
 
 	farmers=
 	{
-		culture = thai
+		culture = burmese
 		religion = theravada
 		size=16296
 	}

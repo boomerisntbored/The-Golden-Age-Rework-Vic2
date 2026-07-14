@@ -1,70 +1,70 @@
 2125 = {
 	bureaucrats=
 	{
-		culture = british
+		culture = african_minor
 		religion = catholic
 		size=20
 	}
 
 	clergymen=
 	{
-		culture = british
+		culture = african_minor
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = african_minor
 		religion = catholic
 		size=130
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = african_minor
 		religion = catholic
 		size=25
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = african_minor
 		religion = catholic
 		size=50
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = african_minor
 		religion = catholic
 		size=30
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = african_minor
 		religion = catholic
 		size=180
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = african_minor
 		religion = catholic
 		size=20
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = african_minor
 		religion = catholic
 		size=20
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = african_minor
 		religion = catholic
 		size=200
 	}

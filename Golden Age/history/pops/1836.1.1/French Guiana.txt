@@ -1,42 +1,42 @@
 2241 = {
 	aristocrats=
 	{
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size=150
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size=10
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size=10
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size=80
 	}
