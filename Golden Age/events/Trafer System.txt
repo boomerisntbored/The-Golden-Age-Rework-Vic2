@@ -35,7 +35,7 @@ country_event = {
 		any_country = {
 		add_country_modifier = {
 		    name = trafer_tomadoo
-			duration = 60
+			duration = 10
 		}
 		}
 		
