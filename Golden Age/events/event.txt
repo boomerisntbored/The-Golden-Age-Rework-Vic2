@@ -187,3 +187,32 @@ country_event = {
 		activate_technology = naval_statistics
 	}
 }
+country_event = {
+	id = 52333
+	title = "The End of the French Crown"
+	desc = "The French nation no longer exists; that title makes no sense—only the Angevin one does."
+
+	trigger = {
+	OR = {
+			tag = DUA
+            }
+	NOT = { exists = FRA }
+	NOT = {
+		    has_country_flag = fra_dead
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+    immediate = {
+		set_country_flag = fra_dead
+    }
+
+	option = {
+		name = "Glory to the Angevin Empire"
+        FRA = {
+				all_core = { remove_core = FRA }
+			}
+	}
+}

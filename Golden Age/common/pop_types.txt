@@ -656,7 +656,7 @@ assimilation_chance =
 	}
 	
 	modifier = {
-		factor = 5000
+		factor = 4000
 		country = {
 			primary_culture = anglois
 		}
@@ -668,7 +668,7 @@ assimilation_chance =
 	}
 
 	modifier = {
-		factor = 15000
+		factor = 16000
 		country = {
 			primary_culture = anglois
 		}
