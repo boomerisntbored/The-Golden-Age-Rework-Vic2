@@ -32,13 +32,6 @@ vassal=
 
 vassal=
 {
-	first="HUN"
-	second="SIE"
-	start_date="1399.1.1"
-	end_date="1936.1.1"
-}
-vassal=
-{
 	first="ARO"
 	second="NAA"
 	start_date="1399.1.1"
