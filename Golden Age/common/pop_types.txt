@@ -656,13 +656,23 @@ assimilation_chance =
 	}
 	
 	modifier = {
-		factor = 15000
+		factor = 5000
 		country = {
 			primary_culture = anglois
 		}
 		OR = {
 			has_pop_culture = british
 			has_pop_culture = aquitaine
+			has_pop_culture = normand
+		}
+	}
+
+	modifier = {
+		factor = 15000
+		country = {
+			primary_culture = anglois
+		}
+		OR = {
 			has_pop_culture = normand
 		}
 	}
