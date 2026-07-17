@@ -3140,24 +3140,24 @@ political_decisions = {
 			690 = {secede_province = THIS}
 			690 = { add_core = THIS }
 			691 = {secede_province = THIS}
-			681 = {secede_province = BRD}
+			}
+			PRU = {
+				696 = {secede_province = THIS}
+			696 = { add_core = THIS }
+			693 = {secede_province = THIS}
+			693 = { add_core = THIS }
+			690 = {secede_province = THIS}
+			690 = { add_core = THIS }
+			691 = {secede_province = THIS}
 			}
 			diplomatic_influence = {
 			who = TEU
 			value = 400
 		}
-		TEU = {
-				release_vassal = BRD
-			}
-		TEU = {
-				release_vassal = BRD
-			}
-		TEU = {
-				release_vassal = POM
-			}
-		TEU = {
-				release_vassal = POM
-			}
+		diplomatic_influence = {
+			who = PRU
+			value = 400
+		}
         }
 		ai_will_do = {
 			factor = 1
