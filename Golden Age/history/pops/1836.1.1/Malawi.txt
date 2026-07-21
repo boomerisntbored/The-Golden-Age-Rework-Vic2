@@ -8,49 +8,49 @@
 
 	soldiers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=416
 	}
 
 	artisans=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=2079
 	}
 
 	clergymen=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=520
 	}
 
 	bureaucrats=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=26
 	}
 
 	officers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=21
 	}
 
 	aristocrats=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=1601
 	}
 
 	farmers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=44312
 	}

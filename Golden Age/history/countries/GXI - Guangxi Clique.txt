@@ -1,7 +1,5 @@
 capital=1502
-primary_culture = zhuang
-culture = nanfaren
-culture = yue
+primary_culture = beifaren
 religion = mahayana
 government = absolute_monarchy
 nationalvalue=nv_order

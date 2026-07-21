@@ -1,5 +1,5 @@
 capital=2001
-primary_culture = bakongo
+primary_culture = african_minor
 culture = akan
 religion = shamanism
 government = absolute_monarchy

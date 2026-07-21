@@ -2,5 +2,6 @@ owner= FRI
 controller= FRI
 add_core= FRI
 add_core= BRG
+add_core= HOY
 trade_goods = wool
 life_rating = 35

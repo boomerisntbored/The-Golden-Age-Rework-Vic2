@@ -2,6 +2,7 @@ owner= HLL
 controller= HLL
 add_core= HLL
 add_core= BRG
+add_core= HOY
 trade_goods = cattle
 life_rating = 35
 state_building = {

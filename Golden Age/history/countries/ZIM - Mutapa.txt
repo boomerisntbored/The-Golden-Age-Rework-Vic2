@@ -1,6 +1,5 @@
 capital=2071
-primary_culture = shona
-culture = zulu
+primary_culture = african_minor
 religion = animist
 government = absolute_monarchy
 nationalvalue=nv_order

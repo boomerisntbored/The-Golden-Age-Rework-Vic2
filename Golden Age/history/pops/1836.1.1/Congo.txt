@@ -124,49 +124,49 @@
 
 	soldiers=
 	{
-		culture = bakongo
+		culture = african_minor
 		religion = shamanism
 		size=64
 	}
 
 	artisans=
 	{
-		culture = bakongo
+		culture = african_minor
 		religion = shamanism
 		size=320
 	}
 
 	clergymen=
 	{
-		culture = bakongo
+		culture = african_minor
 		religion = shamanism
 		size=80
 	}
 
 	bureaucrats=
 	{
-		culture = bakongo
+		culture = african_minor
 		religion = shamanism
 		size=4
 	}
 
 	officers=
 	{
-		culture = bakongo
+		culture = african_minor
 		religion = shamanism
 		size=3
 	}
 
 	aristocrats=
 	{
-		culture = bakongo
+		culture = african_minor
 		religion = shamanism
 		size=246
 	}
 
 	farmers=
 	{
-		culture = bakongo
+		culture = african_minor
 		religion = shamanism
 		size=5283
 	}

@@ -2,5 +2,6 @@ owner= ALS
 controller= ALS
 add_core= ALS
 add_core= GER
+add_core= HOY
 trade_goods = grain
 life_rating = 33

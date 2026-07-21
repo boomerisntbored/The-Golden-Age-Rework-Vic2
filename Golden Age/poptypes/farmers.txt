@@ -269,13 +269,6 @@ artisans = {
     }
 
     modifier = {
-        factor = -5
-        state_scope = {
-            work_available = { worker = clerks }
-        }
-    }
-
-    modifier = {
         factor = 10
         AND = {
             state_scope = { has_factories = no }

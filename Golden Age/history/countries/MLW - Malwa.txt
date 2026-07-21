@@ -1,5 +1,5 @@
 capital=1271
-primary_culture = kanauji
+primary_culture = panjabi
 religion = sunni
 government = absolute_monarchy
 nationalvalue=nv_order

@@ -1,42 +1,42 @@
 2517 = {
 	bureaucrats=
 	{
-		culture = spanish
+		culture = malay
 		religion = catholic
 		size=1
 	}
 
 	clergymen=
 	{
-		culture = spanish
+		culture = malay
 		religion = catholic
 		size=4
 	}
 
 	soldiers=
 	{
-		culture = spanish
+		culture = malay
 		religion = catholic
 		size=5
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=75
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=15
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=1490
 	}
@@ -45,28 +45,28 @@
 2521 = {
 	clergymen=
 	{
-		culture = spanish
+		culture = malay
 		religion = catholic
 		size=2
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=70
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=3
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=1325
 	}
@@ -75,35 +75,35 @@
 2518 = {
 	aristocrats=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=1800
 	}
@@ -112,35 +112,35 @@
 2519 = {
 	aristocrats=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=5
 	}
 
 	clergymen=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=10
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=25
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=5
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=485
 	}
@@ -149,35 +149,35 @@
 2579 = {
 	aristocrats=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=15
 	}
 
 	clergymen=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=20
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=40
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=10
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=700
 	}
@@ -186,35 +186,35 @@
 610 = {
 	aristocrats=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=10
 	}
 
 	clergymen=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=15
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=35
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=5
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=600
 	}
@@ -246,7 +246,7 @@
 2524 = {
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=15
 	}
@@ -255,7 +255,7 @@
 2525 = {
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=15
 	}
@@ -264,35 +264,35 @@
 2522 = {
 	aristocrats=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=10
 	}
 
 	clergymen=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=25
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=75
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=15
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=1375
 	}
@@ -301,35 +301,35 @@
 2523 = {
 	aristocrats=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=5
 	}
 
 	clergymen=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=5
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=10
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=5
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=225
 	}
@@ -338,35 +338,35 @@
 2527 = {
 	aristocrats=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=175
 	}
 
 	soldiers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = micronesian
+		culture = malay
 		religion = animist
 		size=3125
 	}

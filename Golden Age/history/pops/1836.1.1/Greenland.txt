@@ -1,28 +1,28 @@
 251 = {
 	bureaucrats=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=15
 	}
 
 	artisans=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=15
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = catholic
 		size=1100
 	}
@@ -31,21 +31,21 @@
 2591 = {
 	clergymen=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=4
 	}
 
 	artisans=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=4
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = catholic
 		size=300
 	}
@@ -54,21 +54,21 @@
 2632 = {
 	clergymen=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=4
 	}
 
 	artisans=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=4
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = catholic
 		size=300
 	}
@@ -77,21 +77,21 @@
 2636 = {
 	clergymen=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=2
 	}
 
 	artisans=
 	{
-		culture = danish
+		culture = native_american_minor
 		religion = catholic
 		size=2
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = catholic
 		size=200
 	}

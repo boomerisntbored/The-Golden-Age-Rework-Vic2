@@ -9619,7 +9619,7 @@ religion = animist
         size = 424
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 40
@@ -9667,7 +9667,7 @@ religion = animist
         size = 96
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 1
@@ -10451,7 +10451,7 @@ religion = animist
         size = 528
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 248
@@ -10511,7 +10511,7 @@ religion = animist
         size = 56
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 72
@@ -11149,7 +11149,7 @@ religion = animist
         size = 424
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 32
@@ -11273,7 +11273,7 @@ religion = animist
         size = 136
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 56
@@ -11397,7 +11397,7 @@ religion = animist
         size = 528
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 640
@@ -11457,7 +11457,7 @@ religion = animist
         size = 32
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 32
@@ -11615,7 +11615,7 @@ religion = animist
         size = 176
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 16
@@ -11871,7 +11871,7 @@ religion = animist
         size = 8000
     }
 
-    clerks = {
+    farmers = {
 culture = native_american_minor
 religion = animist
         size = 16

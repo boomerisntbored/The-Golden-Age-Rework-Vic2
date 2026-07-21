@@ -2,5 +2,6 @@ owner= UTR
 controller= UTR
 add_core= BRG
 add_core= UTR
+add_core= HOY
 trade_goods = grain
 life_rating = 35

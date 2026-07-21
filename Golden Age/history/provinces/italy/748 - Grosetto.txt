@@ -2,5 +2,6 @@ owner= SNA
 controller= SNA
 add_core= SNA
 add_core= ITA
+add_core= HOY
 trade_goods = cattle
 life_rating = 35

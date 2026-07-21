@@ -1,6 +1,5 @@
 capital=1852
-primary_culture = oromo
-culture = somali
+primary_culture = african_minor
 religion = orthodox
 government = absolute_monarchy
 nationalvalue=nv_order

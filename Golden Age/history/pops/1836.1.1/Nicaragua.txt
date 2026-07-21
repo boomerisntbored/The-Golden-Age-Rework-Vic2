@@ -161,28 +161,28 @@
 
 	clergymen=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=1800
 	}

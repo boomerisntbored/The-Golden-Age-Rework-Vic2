@@ -1,56 +1,56 @@
 2468 = {
 	bureaucrats=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=35
 	}
 
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=65
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=3500
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=4400
 	}
 
 	clergymen=
 	{
-		culture = irish
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = irish
+		culture = aborigine
 		religion = catholic
 		size=500
 	}
 
 	farmers=
 	{
-		culture = irish
+		culture = aborigine
 		religion = catholic
 		size=2475
 	}
@@ -87,49 +87,49 @@
 2469 = {
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=250
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=1670
 	}
 
 	clergymen=
 	{
-		culture = irish
+		culture = aborigine
 		religion = catholic
 		size=10
 	}
 
 	artisans=
 	{
-		culture = irish
+		culture = aborigine
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = irish
+		culture = aborigine
 		religion = catholic
 		size=960
 	}
@@ -166,28 +166,28 @@
 2470 = {
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=900
 	}
@@ -266,28 +266,28 @@
 
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=1850
 	}
@@ -296,28 +296,28 @@
 2473 = {
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=900
 	}
@@ -694,35 +694,35 @@
 2482 = {
 	bureaucrats=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=100
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=2000
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=100
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=6775
 	}
@@ -766,28 +766,28 @@
 
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=25
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=900
 	}
@@ -1314,28 +1314,28 @@
 2497 = {
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=15
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=40
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=10
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=685
 	}
@@ -1897,28 +1897,28 @@
 2508 = {
 	clergymen=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=3
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=10
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=2
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = aborigine
 		religion = catholic
 		size=235
 	}

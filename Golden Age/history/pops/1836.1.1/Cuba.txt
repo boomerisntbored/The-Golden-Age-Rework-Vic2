@@ -1,112 +1,112 @@
 2209 = {
 	aristocrats=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=350
 	}
 
 	bureaucrats=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=300
 	}
 
 	clergymen=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=325
 	}
 
 	artisans=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=4325
 	}
 
 	soldiers=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=200
 	}
 
 	aristocrats=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=650
 	}
 
 	bureaucrats=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=175
 	}
 
 	artisans=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=10000
 	}
 
 	artisans=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=4000
 	}
 
 	soldiers=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=28625
 	}
 
 	artisans=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=6000
 	}
 
 	soldiers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=500
 	}
 
 	farmers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=2500
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=38000
 	}
@@ -115,63 +115,63 @@
 2210 = {
 	aristocrats=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=600
 	}
 
 	clergymen=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=375
 	}
 
 	artisans=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=1200
 	}
 
 	soldiers=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=250
 	}
 
 	farmers=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=21575
 	}
 
 	artisans=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=2000
 	}
 
 	soldiers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=150
 	}
 
 	farmers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=11850
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=25000
 	}
@@ -180,63 +180,63 @@
 2211 = {
 	aristocrats=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=450
 	}
 
 	clergymen=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=400
 	}
 
 	artisans=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=3500
 	}
 
 	soldiers=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=150
 	}
 
 	farmers=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=8500
 	}
 
 	artisans=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=1500
 	}
 
 	soldiers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=300
 	}
 
 	farmers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=2200
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=25000
 	}
@@ -245,63 +245,63 @@
 2212 = {
 	aristocrats=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=200
 	}
 
 	clergymen=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=175
 	}
 
 	artisans=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=3500
 	}
 
 	soldiers=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=150
 	}
 
 	farmers=
 	{
-		culture = caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=8975
 	}
 
 	artisans=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=1500
 	}
 
 	soldiers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=200
 	}
 
 	farmers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=3300
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=14000
 	}

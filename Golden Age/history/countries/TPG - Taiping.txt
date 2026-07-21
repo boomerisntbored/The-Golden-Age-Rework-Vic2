@@ -1,6 +1,5 @@
 capital=2221
-primary_culture = nanfaren
-culture = beifaren
+primary_culture = beifaren
 religion = catholic
 government = absolute_monarchy
 nationalvalue=nv_equality

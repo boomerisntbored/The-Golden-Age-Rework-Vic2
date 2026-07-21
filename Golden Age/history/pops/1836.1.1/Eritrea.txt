@@ -1,49 +1,49 @@
 1849 = {
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=28
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=280
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=70
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=4
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=3
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=129
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=6486
 	}
@@ -52,49 +52,49 @@
 1851 = {
 	soldiers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=44
 	}
 
 	artisans=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=440
 	}
 
 	clergymen=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=110
 	}
 
 	bureaucrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=6
 	}
 
 	officers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=4
 	}
 
 	aristocrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=203
 	}
 
 	farmers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=10193
 	}
@@ -103,49 +103,49 @@
 1848 = {
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=80
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=798
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=199
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=10
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=8
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=368
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=18477
 	}

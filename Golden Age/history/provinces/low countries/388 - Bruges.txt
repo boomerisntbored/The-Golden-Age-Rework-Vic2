@@ -3,5 +3,6 @@ controller= BRG
 add_core= FLA
 add_core= BRG
 add_core= BRB
+add_core= HOY
 trade_goods = grain
 life_rating = 35
