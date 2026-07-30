@@ -3210,7 +3210,7 @@ political_decisions = {
             war = no          
             THIS = { is_our_vassal = BRG }
 			NOT = {
-		    year = 1460
+		    year = 1480
 		}
         }
 		     
@@ -4174,6 +4174,59 @@ political_decisions = {
 			add_accepted_culture = akan
 			add_accepted_culture = hausa
 			add_accepted_culture = tuareg
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    dutch_form  = {
+        potential = {
+			primary_culture = dutch
+			NOT = {
+		    tag = NET
+		}
+        }
+
+       allow = {
+       war = no
+       owns = 375
+       OR = {
+        AND = {
+            owns = 377
+            owns = 380
+            owns = 882
+            owns = 885
+            owns = 384
+        }
+        year = 1460
+      }
+     }
+
+
+        effect = {
+			change_tag = NET
+			add_accepted_culture = flemish
+			BRB = {
+				all_core = { add_core = THIS}
+			}
+			LIE = {
+				all_core = { add_core = THIS}
+			}
+			LUX = {
+				all_core = { add_core = THIS}
+			}
+			HLL = {
+				all_core = { add_core = THIS}
+			}
+			UTR = {
+				all_core = { add_core = THIS}
+			}
+			GEL = {
+				all_core = { add_core = THIS}
+			}
+			FRI = {
+				all_core = { add_core = THIS}
+			}
 		}
 		ai_will_do = {
 			factor = 1
