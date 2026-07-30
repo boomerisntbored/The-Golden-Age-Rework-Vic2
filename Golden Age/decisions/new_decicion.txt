@@ -4205,6 +4205,7 @@ political_decisions = {
 
         effect = {
 			change_tag = NET
+			capital = 375
 			add_accepted_culture = flemish
 			BRB = {
 				all_core = { add_core = THIS}
