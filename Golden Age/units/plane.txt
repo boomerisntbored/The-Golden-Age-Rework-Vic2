@@ -2,7 +2,7 @@ plane = {
 	icon = 19
 	
 	type = land
-	sprite = Plane
+	sprite = Infantry_Offensive
 	active = no
 	unit_type = cavalry
 	floating_flag = no
