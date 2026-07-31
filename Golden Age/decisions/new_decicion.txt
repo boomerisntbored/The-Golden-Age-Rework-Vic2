@@ -443,7 +443,8 @@ political_decisions = {
         effect = {
         any_country = {
 				limit = {
-					NOT = { exists = yes } 
+					NOT = { exists = yes }
+                    NOT = { tag = REB } 					
 				}
 		country_event = { id=921011 days=0 }
         }
