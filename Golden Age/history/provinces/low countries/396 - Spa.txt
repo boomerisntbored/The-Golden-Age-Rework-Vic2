@@ -2,5 +2,6 @@ owner= LIE
 controller= LIE
 add_core= LIE
 add_core= BRG
+add_core= HOY
 trade_goods = coal
 life_rating = 35

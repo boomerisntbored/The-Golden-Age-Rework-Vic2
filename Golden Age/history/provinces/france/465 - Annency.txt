@@ -1,5 +1,6 @@
 owner= SAV
 controller= SAV
 add_core= SAV
+add_core= HOY
 trade_goods = coal
 life_rating = 30

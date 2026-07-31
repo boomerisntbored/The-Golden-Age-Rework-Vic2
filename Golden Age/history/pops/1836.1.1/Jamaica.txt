@@ -1,70 +1,70 @@
 2217 = {
 	aristocrats=
 	{
-		culture = british
+		culture = native_american_minor
 		religion = catholic
 		size=100
 	}
 
 	bureaucrats=
 	{
-		culture = british
+		culture = native_american_minor
 		religion = catholic
 		size=85
 	}
 
 	clergymen=
 	{
-		culture = british
+		culture = native_american_minor
 		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
-		culture = british
+		culture = native_american_minor
 		religion = catholic
 		size=2500
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = native_american_minor
 		religion = catholic
 		size=2190
 	}
 
 	clergymen=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=625
 	}
 
 	artisans=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=2000
 	}
 
 	soldiers=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=1100
 	}
 
 	farmers=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=84375
 	}
@@ -73,21 +73,21 @@
 2218 = {
 	clergymen=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=5
 	}
 
 	artisans=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=15
 	}
 
 	farmers=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=280
 	}

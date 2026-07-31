@@ -590,49 +590,49 @@
 1358 = {
 	soldiers=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=2632
 	}
 
 	artisans=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=7942
 	}
 
 	clergymen=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=1513
 	}
 
 	bureaucrats=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=106
 	}
 
 	officers=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=91
 	}
 
 	aristocrats=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=2033
 	}
 
 	farmers=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=136958
 	}
@@ -641,49 +641,49 @@
 1359 = {
 	soldiers=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=783
 	}
 
 	artisans=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=2363
 	}
 
 	clergymen=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=450
 	}
 
 	bureaucrats=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=32
 	}
 
 	officers=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=27
 	}
 
 	aristocrats=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=605
 	}
 
 	farmers=
 	{
-		culture = khmer
+		culture = burmese
 		religion = theravada
 		size=40740
 	}

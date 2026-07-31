@@ -1,5 +1,5 @@
 capital=1334
-primary_culture = shan
+primary_culture = burmese
 religion = theravada
 government = absolute_monarchy
 nationalvalue=nv_order

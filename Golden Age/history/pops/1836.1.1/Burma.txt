@@ -205,49 +205,49 @@
 1334 = {
 	soldiers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=1044
 	}
 
 	artisans=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=3150
 	}
 
 	clergymen=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=600
 	}
 
 	bureaucrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=42
 	}
 
 	officers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=36
 	}
 
 	aristocrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=806
 	}
 
 	farmers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=54322
 	}
@@ -409,49 +409,49 @@
 1338 = {
 	soldiers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=1811
 	}
 
 	artisans=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=5465
 	}
 
 	clergymen=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=1041
 	}
 
 	bureaucrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=73
 	}
 
 	officers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=62
 	}
 
 	aristocrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=1399
 	}
 
 	farmers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=94249
 	}
@@ -460,49 +460,49 @@
 1340 = {
 	soldiers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=1183
 	}
 
 	artisans=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=3570
 	}
 
 	clergymen=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=680
 	}
 
 	bureaucrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=48
 	}
 
 	officers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=41
 	}
 
 	aristocrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=914
 	}
 
 	farmers=
 	{
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size=61564
 	}
@@ -562,49 +562,49 @@
 1341 = {
 	soldiers=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=940
 	}
 
 	artisans=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=2835
 	}
 
 	clergymen=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=540
 	}
 
 	bureaucrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=38
 	}
 
 	officers=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=32
 	}
 
 	aristocrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=726
 	}
 
 	farmers=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=48889
 	}
@@ -613,49 +613,49 @@
 1342 = {
 	soldiers=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=1583
 	}
 
 	artisans=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=4778
 	}
 
 	clergymen=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=910
 	}
 
 	bureaucrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=64
 	}
 
 	officers=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=55
 	}
 
 	aristocrats=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=1223
 	}
 
 	farmers=
 	{
-		culture = shan
+		culture = burmese
 		religion = animist
 		size=82387
 	}

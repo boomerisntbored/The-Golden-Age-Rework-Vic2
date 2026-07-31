@@ -1,5 +1,5 @@
 capital=1379
-primary_culture = cham
+primary_culture = burmese
 religion = hindu
 government = absolute_monarchy
 nationalvalue=nv_order

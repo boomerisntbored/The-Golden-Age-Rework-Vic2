@@ -1,5 +1,5 @@
 capital=1291
-primary_culture = gujarati
+primary_culture = panjabi
 religion = sunni
 government = absolute_monarchy
 nationalvalue=nv_order

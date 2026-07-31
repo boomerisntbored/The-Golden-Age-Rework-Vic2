@@ -2212,49 +2212,49 @@
 2136 = {
 	aristocrats=
 	{
-		culture = spanish
+		culture = castillian
 		religion = catholic
 		size=825
 	}
 
 	officers=
 	{
-		culture = spanish
+		culture = castillian
 		religion = catholic
 		size=50
 	}
 
 	bureaucrats=
 	{
-		culture = spanish
+		culture = castillian
 		religion = catholic
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = spanish
+		culture = castillian
 		religion = catholic
 		size=525
 	}
 
 	artisans=
 	{
-		culture = spanish
+		culture = castillian
 		religion = catholic
 		size=3000
 	}
 
 	soldiers=
 	{
-		culture = spanish
+		culture = castillian
 		religion = catholic
 		size=500
 	}
 
 	farmers=
 	{
-		culture = spanish
+		culture = castillian
 		religion = catholic
 		size=47025
 	}

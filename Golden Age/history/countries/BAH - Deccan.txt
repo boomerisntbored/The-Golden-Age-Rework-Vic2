@@ -1,7 +1,5 @@
 capital=1283
-primary_culture = telegu
-culture = kannada
-culture = marathi
+primary_culture = marathi
 religion = sunni
 government = absolute_monarchy
 nationalvalue=nv_order

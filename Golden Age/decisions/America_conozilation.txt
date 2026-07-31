@@ -220,6 +220,7 @@ political_decisions = {
 				tag = SPP
 				tag = SPA
 				tag = ARI
+				tag = MAL
             }
 			NOT = {
 		    has_global_flag = aires

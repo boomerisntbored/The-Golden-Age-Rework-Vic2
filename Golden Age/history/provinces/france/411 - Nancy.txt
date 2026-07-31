@@ -4,5 +4,6 @@ add_core= PRO
 add_core= BAR
 add_core= PRO
 add_core= BRG
+add_core= HOY
 trade_goods = dye
 life_rating = 30

@@ -2,5 +2,6 @@ owner= HLL
 controller= HLL
 add_core= HLL
 add_core= BRG
+add_core= HOY
 trade_goods = fish
 life_rating = 35

@@ -1,77 +1,77 @@
 2126 = {
 	aristocrats=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=750
 	}
 
 	bureaucrats=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=500
 	}
 
 	soldiers=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=300
 	}
 
 	farmers=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=5825
 	}
 
 	clergymen=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=125
 	}
 
 	artisans=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=850
 	}
 
 	soldiers=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=200
 	}
 
 	farmers=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=1825
 	}
 
 	slaves=
 	{
-		culture = afro_antillean
+		culture = native_american_minor
 		religion = catholic
 		size=14000
 	}

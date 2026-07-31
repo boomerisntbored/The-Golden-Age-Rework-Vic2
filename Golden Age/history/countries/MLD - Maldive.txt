@@ -1,5 +1,5 @@
 capital=1325
-primary_culture = malayalam
+primary_culture = marathi
 religion = sunni
 government = absolute_monarchy
 nationalvalue=nv_order

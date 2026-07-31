@@ -29,35 +29,35 @@
 
 	clergymen=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=1750
 	}
 
 	farmers=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=1200
 	}
 
 	soldiers=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = catholic
 		size=25
 	}
 
 	slaves=
 	{
-		culture = afro_caribbean
+		culture = native_american_minor
 		religion = animist
 		size=9000
 	}
@@ -66,35 +66,35 @@
 2245 = {
 	aristocrats=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=1750
 	}

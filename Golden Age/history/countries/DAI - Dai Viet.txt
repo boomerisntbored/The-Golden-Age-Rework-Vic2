@@ -1,5 +1,5 @@
 capital=1369
-primary_culture = vietnamese
+primary_culture = burmese
 religion = theravada
 government = absolute_monarchy
 nationalvalue=nv_order

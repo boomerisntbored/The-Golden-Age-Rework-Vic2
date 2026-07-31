@@ -2,5 +2,6 @@ owner= BRG
 controller= BRG
 add_core= BRB
 add_core= BRG
+add_core= HOY
 trade_goods = cattle
 life_rating = 35

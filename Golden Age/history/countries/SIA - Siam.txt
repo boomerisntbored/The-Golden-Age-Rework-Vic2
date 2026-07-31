@@ -1,5 +1,5 @@
 capital=1348
-primary_culture = thai
+primary_culture = burmese
 culture = malay
 religion = theravada
 government = absolute_monarchy

@@ -1,5 +1,5 @@
 capital=1367
-primary_culture = khmer
+primary_culture = burmese
 religion = theravada
 government = absolute_monarchy
 nationalvalue=nv_order

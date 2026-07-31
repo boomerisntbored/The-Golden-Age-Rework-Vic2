@@ -50,28 +50,28 @@
 
 	clergymen=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=600
 	}
 
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=125
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=11225
 	}
@@ -115,28 +115,28 @@
 
 	clergymen=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=250
 	}
 
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=4700
 	}
@@ -180,28 +180,28 @@
 
 	clergymen=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=300
 	}
 
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=75
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=5575
 	}
@@ -245,28 +245,28 @@
 
 	clergymen=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=25
 	}
 
 	artisans=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size=3725
 	}
@@ -588,35 +588,35 @@
 
 	aristocrats=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=300
 	}
 
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=5475
 	}
@@ -660,35 +660,35 @@
 
 	aristocrats=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=3625
 	}
@@ -769,35 +769,35 @@
 
 	aristocrats=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=1800
 	}
@@ -855,35 +855,35 @@
 
 	aristocrats=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=75
 	}
 
 	clergymen=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=200
 	}
 
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=3600
 	}
@@ -892,35 +892,35 @@
 2333 = {
 	aristocrats=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=2700
 	}
@@ -929,35 +929,35 @@
 2334 = {
 	aristocrats=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	clergymen=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	artisans=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=100
 	}
 
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=1800
 	}
@@ -966,35 +966,35 @@
 2335 = {
 	aristocrats=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=10
 	}
 
 	clergymen=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	artisans=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=15
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=900
 	}

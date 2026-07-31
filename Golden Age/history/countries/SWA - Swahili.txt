@@ -1,6 +1,5 @@
 capital=2060
-primary_culture = swahili
-culture = zulu
+primary_culture = african_minor
 religion = sunni
 government = absolute_monarchy
 nationalvalue=nv_order

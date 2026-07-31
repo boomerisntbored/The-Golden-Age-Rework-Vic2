@@ -208,35 +208,35 @@
 
 	aristocrats=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=25
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=2700
 	}
@@ -294,35 +294,35 @@
 
 	clergymen=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	artisans=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=150
 	}
 
 	soldiers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=50
 	}
 
 	farmers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=1800
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=1100
 	}
@@ -366,35 +366,35 @@
 
 	clergymen=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=75
 	}
 
 	artisans=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=750
 	}
 
 	soldiers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=150
 	}
 
 	farmers=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=6025
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = native_american_minor
 		religion = catholic
 		size=8000
 	}

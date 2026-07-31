@@ -2,5 +2,6 @@ owner= LOR
 controller= LOR
 add_core= LOR
 add_core= BRG
+add_core= HOY
 trade_goods = iron
 life_rating = 30

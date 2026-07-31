@@ -1550,7 +1550,7 @@
 		size=962
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = burgundian
 		religion = catholic
@@ -1781,7 +1781,7 @@
 		size=1500
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = cosmopolitan_french
 		religion = catholic

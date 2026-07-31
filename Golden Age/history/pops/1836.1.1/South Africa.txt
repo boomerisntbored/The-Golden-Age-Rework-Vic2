@@ -2095,35 +2095,35 @@
 
 	aristocrats=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=425
 	}
 
 	clergymen=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=225
 	}
 
 	artisans=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=1050
 	}
 
 	soldiers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=250
 	}
 
 	farmers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=21050
 	}
@@ -2132,35 +2132,35 @@
 2112 = {
 	aristocrats=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=750
 	}
 
 	clergymen=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=400
 	}
 
 	artisans=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=1950
 	}
 
 	soldiers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=7000
 	}
 
 	farmers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=28900
 	}
@@ -2169,49 +2169,49 @@
 2113 = {
 	aristocrats=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=1550
 	}
 
 	bureaucrats=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=25
 	}
 
 	officers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=150
 	}
 
 	clergymen=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=825
 	}
 
 	artisans=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=4000
 	}
 
 	soldiers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=16000
 	}
 
 	farmers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=57450
 	}
@@ -2220,35 +2220,35 @@
 2114 = {
 	aristocrats=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=125
 	}
 
 	clergymen=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	artisans=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=350
 	}
 
 	soldiers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=75
 	}
 
 	farmers=
 	{
-		culture = zulu
+		culture = african_minor
 		religion = animist
 		size=6375
 	}

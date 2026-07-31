@@ -3,6 +3,7 @@ controller= LOM
 add_core= LOM
 add_core= VEN
 add_core= ITA
+add_core= HOY
 trade_goods = iron
 life_rating = 35
 fort = 1

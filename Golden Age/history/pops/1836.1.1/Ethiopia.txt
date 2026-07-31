@@ -8,84 +8,84 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=427
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=4274
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=1056
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=57
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=45
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=2040
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=92201
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=50
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=75
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=250
 	}
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=25
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=2600
 	}
@@ -101,49 +101,49 @@
 
 	soldiers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=469
 	}
 
 	artisans=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=4688
 	}
 
 	clergymen=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=1172
 	}
 
 	bureaucrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=59
 	}
 
 	officers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=47
 	}
 
 	aristocrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=2166
 	}
 
 	farmers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=89599
 	}
@@ -159,84 +159,84 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=364
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=4093
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=1086
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=58
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=46
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=2045
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=91383
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=100
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=75
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=550
 	}
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=100
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = jewish
 		size=8175
 	}
@@ -252,49 +252,49 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=788
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=7884
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=1971
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=99
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=79
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=3642
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=170637
 	}
@@ -310,49 +310,49 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=141
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=1408
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=352
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=18
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=14
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=650
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=26517
 	}
@@ -368,49 +368,49 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=128
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=1284
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=321
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=16
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=13
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=593
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=24745
 	}
@@ -426,49 +426,49 @@
 
 	soldiers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=48
 	}
 
 	artisans=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=480
 	}
 
 	clergymen=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=120
 	}
 
 	bureaucrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=6
 	}
 
 	officers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=5
 	}
 
 	aristocrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=222
 	}
 
 	farmers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=9119
 	}
@@ -484,49 +484,49 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=1033
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=5163
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=1291
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=65
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=52
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=2385
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = orthodox
 		size=86086
 	}
@@ -542,49 +542,49 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=460
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=4604
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=1151
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=58
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=46
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=2127
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=94654
 	}
@@ -600,49 +600,49 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=384
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=3840
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=960
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=48
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=38
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=1774
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=76956
 	}
@@ -658,49 +658,49 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=368
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=3680
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=920
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=46
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=37
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=1700
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=72250
 	}
@@ -716,49 +716,49 @@
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=644
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=6444
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=1611
 	}
 
 	bureaucrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=81
 	}
 
 	officers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=64
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=2977
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=101679
 	}
@@ -767,42 +767,42 @@
 1864 = {
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=875
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=1850
 	}
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=450
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=35375
 	}
 
 	slaves=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size=7000
 	}
@@ -860,49 +860,49 @@
 
 	soldiers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=1033
 	}
 
 	artisans=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=3416
 	}
 
 	clergymen=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=854
 	}
 
 	bureaucrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=43
 	}
 
 	officers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=34
 	}
 
 	aristocrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=1578
 	}
 
 	farmers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=67442
 	}
@@ -953,70 +953,70 @@
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=625
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=325
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=1600
 	}
 
 	soldiers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=325
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = african_minor
 		religion = sunni
 		size=29225
 	}
 
 	aristocrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=275
 	}
 
 	clergymen=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	artisans=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=750
 	}
 
 	soldiers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=150
 	}
 
 	farmers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=13675
 	}
@@ -1032,49 +1032,49 @@
 
 	soldiers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=329
 	}
 
 	artisans=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=3288
 	}
 
 	clergymen=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=822
 	}
 
 	bureaucrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=41
 	}
 
 	officers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=33
 	}
 
 	aristocrats=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=1519
 	}
 
 	farmers=
 	{
-		culture = somali
+		culture = african_minor
 		religion = sunni
 		size=72168
 	}

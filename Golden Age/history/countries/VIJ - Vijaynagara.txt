@@ -1,7 +1,5 @@
 capital=1313
-primary_culture = kannada
-culture = marathi
-culture = tamil
+primary_culture = marathi
 religion = hindu
 government = absolute_monarchy
 nationalvalue=nv_order

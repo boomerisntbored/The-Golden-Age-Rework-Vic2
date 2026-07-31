@@ -1,6 +1,5 @@
 capital=1248
-primary_culture = bihari
-culture = avadhi
+primary_culture = avadhi
 religion = hindu
 government = absolute_monarchy
 nationalvalue=nv_order

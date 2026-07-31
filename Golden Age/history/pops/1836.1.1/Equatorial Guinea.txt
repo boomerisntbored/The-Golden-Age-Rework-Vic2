@@ -1,35 +1,35 @@
 1955 = {
 	aristocrats=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=3
 	}
 
 	bureaucrats=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=2
 	}
 
 	clergymen=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=5
 	}
 
 	artisans=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=5
 	}
 
 	soldiers=
 	{
-		culture = spanish
+		culture = native_american_minor
 		religion = catholic
 		size=5
 	}

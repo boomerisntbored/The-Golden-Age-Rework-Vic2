@@ -8,49 +8,49 @@
 
 	soldiers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=89
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=443
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=111
 	}
 
 	bureaucrats=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=6
 	}
 
 	officers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=4
 	}
 
 	aristocrats=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=341
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=8981
 	}
@@ -387,49 +387,49 @@
 
 	soldiers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=56
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=278
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=70
 	}
 
 	bureaucrats=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=3
 	}
 
 	officers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=3
 	}
 
 	aristocrats=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=214
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=3326
 	}
@@ -617,49 +617,49 @@
 
 	soldiers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=217
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=1084
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=271
 	}
 
 	bureaucrats=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=14
 	}
 
 	officers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=11
 	}
 
 	aristocrats=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=835
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = african_minor
 		religion = animist
 		size=21668
 	}
