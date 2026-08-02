@@ -215,6 +215,7 @@ country_event = {
             primary_culture = dutch
             primary_culture = wallonian
             primary_culture = swiss
+            primary_culture = flemish
             tag = BOH
             tag = SAV
             tag = GNA
