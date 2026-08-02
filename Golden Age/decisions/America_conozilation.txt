@@ -56,14 +56,14 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 1000000
+			money = 500000
 			naval_statistics = 1
 		}
 		
 		effect = {
 			   set_global_flag = brazil
 			set_country_flag = elgiste_lugar
-			money = -1000000
+			money = -500000
 			2431 = {secede_province = THIS}
 		}
 	}
@@ -89,14 +89,14 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 1000000
+			money = 500000
 			naval_statistics = 1
 		}
 		
 		effect = {
 			   set_global_flag = cuba
 			set_country_flag = elgiste_lugar
-			money = -1000000
+			money = -500000
 			2212 = {secede_province = THIS}
 			2253 = {secede_province = THIS}
 		}
@@ -125,15 +125,50 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 1000000
+			money = 500000
 			naval_statistics = 1
 		}
 		
 		effect = {
 			   set_global_flag = usa
 			set_country_flag = elgiste_lugar
-			money = -1000000
+			money = -500000
 			219 = {secede_province = THIS}
+		}
+	}
+	usa_misipi = {
+		potential = {
+			continent = europe
+			OR = {
+                is_greater_power = yes
+				tag = SCO
+				tag = IRE
+				tag = SWE
+				tag = DEN
+				tag = SCA
+				tag = ENL
+				tag = BRG
+				tag = FRA
+            }
+			NOT = {
+		    has_global_flag = usa_misipi
+		}
+		has_country_flag = enabled_conolizar
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		}
+
+		allow = {
+			money = 500000
+			naval_statistics = 1
+		}
+
+		effect = {
+			   set_global_flag = usa_misipi
+			set_country_flag = elgiste_lugar
+			money = -500000
+			139 = {secede_province = THIS}
 		}
 	}
 	canada = {
@@ -162,14 +197,14 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 1000000
+			money = 500000
 			naval_statistics = 1
 		}
 		
 		effect = {
 			   set_global_flag = canada
 			set_country_flag = elgiste_lugar
-			money = -1000000
+			money = -500000
 			65 = {secede_province = THIS}
 		}
 	}
@@ -195,14 +230,14 @@ political_decisions = {
 		}
 		
 		allow = {
-			money = 1000000
+			money = 500000
 			naval_statistics = 1
 		}
 		
 		effect = {
 			   set_global_flag = mex
 			set_country_flag = elgiste_lugar
-			money = -1000000
+			money = -500000
 			2163 = {secede_province = THIS}
 		}
 	}
@@ -232,24 +267,20 @@ political_decisions = {
 		}
 
 		allow = {
-			money = 1000000
+			money = 500000
 			naval_statistics = 1
 		}
 
 		effect = {
 			   set_global_flag = aires
 			set_country_flag = elgiste_lugar
-			money = -1000000
+			money = -500000
 			2348 = {secede_province = THIS}
 		}
 	}
 	california = {
 		potential = {
 			continent = asia
-			OR = {                
-                is_culture_group = east_asian
-				is_culture_group = south_asian
-            }
 			NOT = {
 		    has_global_flag = california
 		}
@@ -258,17 +289,65 @@ political_decisions = {
 		}
 		has_country_flag = enabled_conolizar
 		}
+
+		allow = {
+			money = 500000
+			civilized = yes
+		}
+
+		effect = {
+			   set_global_flag = california
+			set_country_flag = elgiste_lugar
+			money = -500000
+			85 = {secede_province = THIS}
+		}
+	}
+	alaska = {
+		potential = {
+			continent = asia
+			NOT = {
+		    has_global_flag = alaska
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		has_country_flag = enabled_conolizar
+		}
 		
 		allow = {
-			money = 1000000
+			money = 500000
 			civilized = yes
 		}
 		
 		effect = {
-			   set_global_flag = california
+			set_global_flag = alaska
 			set_country_flag = elgiste_lugar
-			money = -1000000
-			85 = {secede_province = THIS}
+			money = -500000
+			15 = {secede_province = THIS}
+		}
+	}
+	patagonia = {
+		potential = {
+			continent = asia
+			NOT = {
+		    has_global_flag = patagonia
+		}
+		NOT = {
+		    has_country_flag = elgiste_lugar
+		}
+		has_country_flag = enabled_conolizar
+		}
+
+		allow = {
+			money = 500000
+			civilized = yes
+		}
+
+		effect = {
+			set_global_flag = patagonia
+			set_country_flag = elgiste_lugar
+			money = -500000
+			2325 = {secede_province = THIS}
 		}
 	}
 	}
