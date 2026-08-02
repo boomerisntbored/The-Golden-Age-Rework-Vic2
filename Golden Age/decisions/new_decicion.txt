@@ -4185,7 +4185,11 @@ political_decisions = {
     }
     dutch_form  = {
         potential = {
-			primary_culture = dutch
+			OR = {
+                primary_culture = dutch
+                primary_culture = flemish
+                primary_culture = wallonian
+            }
 			NOT = {
 		    tag = NET
 		}
