@@ -1464,8 +1464,8 @@ political_decisions = {
                 tag = BRG  				
             }
             NOT = { exists = FMM }
-			 NOT = {
-		    has_country_flag = dutch
+		NOT = {
+		    has_country_modifier = hre_mendling
 		}
         }
 
@@ -1652,6 +1652,9 @@ political_decisions = {
                 tag = ARL
                 tag = AUV 					
             }
+            NOT = {
+		    has_country_modifier = hre_mendling
+		}
             NOT = { exists = AQT }
 			
         }
