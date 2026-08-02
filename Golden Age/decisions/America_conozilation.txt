@@ -280,7 +280,14 @@ political_decisions = {
 	}
 	california = {
 		potential = {
-			continent = asia
+			OR = {
+                continent = asia
+                tag = MUG
+            }
+			OR = {
+                is_culture_group = east_asian
+				is_culture_group = south_asian
+            }
 			NOT = {
 		    has_global_flag = california
 		}
@@ -304,10 +311,14 @@ political_decisions = {
 	}
 	alaska = {
 		potential = {
-			continent = asia
-			NOT = {
-		    has_global_flag = alaska
-		}
+			OR = {
+                continent = asia
+                tag = MUG
+            }
+			OR = {
+                is_culture_group = east_asian
+				is_culture_group = south_asian
+            }
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
@@ -328,10 +339,14 @@ political_decisions = {
 	}
 	patagonia = {
 		potential = {
-			continent = asia
-			NOT = {
-		    has_global_flag = patagonia
-		}
+			OR = {
+                continent = asia
+                tag = MUG
+            }
+			OR = {
+                is_culture_group = east_asian
+				is_culture_group = south_asian
+            }
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
