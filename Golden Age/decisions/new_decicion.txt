@@ -3538,6 +3538,9 @@ political_decisions = {
 		    has_country_modifier = hre_kaiser
 		}
 		NOT = {
+		    has_country_modifier = hre_mendling
+		}
+		NOT = {
 		    has_country_flag = destroy_empire
 		}
 		ai = no
