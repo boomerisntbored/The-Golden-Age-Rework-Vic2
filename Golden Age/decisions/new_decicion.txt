@@ -1469,7 +1469,8 @@ political_decisions = {
 		}
         }
 
-        allow = {         
+        allow = {
+        nationalism_n_imperialism = 1
             war = no
             AUS_726 = {
                 all_core = {
@@ -1479,6 +1480,13 @@ political_decisions = {
                 }
 	         }
 			 AUS_729 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+	         BRG = {
                 all_core = {
                     OR = {
                         owned_by = THIS
