@@ -8,11 +8,11 @@ political_decisions = {
 		    has_country_flag = elgiste_lugar
 		}
 		}
-		
+
 		allow = {
 
 		}
-		
+
 		effect = {
 			   set_country_flag = enabled_conolizar
 		}
@@ -25,28 +25,45 @@ political_decisions = {
 		    has_country_flag = elgiste_lugar
 		}
 		}
-		
+
 		allow = {
 
 		}
-		
+
 		effect = {
 			   clr_country_flag = enabled_conolizar
 		}
 	}
        conolizar_brazil = {
 		potential = {
-			OR = {                
+			OR = {
                 continent = europe
 				tag = MAL
             }
-			OR = {                
+			OR = {
                 is_greater_power = yes
 				tag = POR
 				tag = MAL
 				tag = SPP
             }
-            is_secondary_power = yes
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			NOT = {
 		    has_global_flag = brazil
 		}
@@ -55,12 +72,12 @@ political_decisions = {
 		    has_country_flag = elgiste_lugar
 		}
 		}
-		
+
 		allow = {
 			money = 500000
 			naval_statistics = 1
 		}
-		
+
 		effect = {
 			   set_global_flag = brazil
 			set_country_flag = elgiste_lugar
@@ -80,7 +97,24 @@ political_decisions = {
 				tag = SPA
 				tag = ARI
             }
-            is_secondary_power = yes
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			NOT = {
 		    has_global_flag = cuba
 		}
@@ -89,12 +123,12 @@ political_decisions = {
 		    has_country_flag = elgiste_lugar
 		}
 		}
-		
+
 		allow = {
 			money = 500000
 			naval_statistics = 1
 		}
-		
+
 		effect = {
 			   set_global_flag = cuba
 			set_country_flag = elgiste_lugar
@@ -116,8 +150,26 @@ political_decisions = {
 				tag = ENL
 				tag = BRG
 				tag = FRA
+				tag = NET
             }
-            is_secondary_power = yes
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			NOT = {
 		    has_global_flag = usa
 		}
@@ -126,12 +178,12 @@ political_decisions = {
 		    has_country_flag = elgiste_lugar
 		}
 		}
-		
+
 		allow = {
 			money = 500000
 			naval_statistics = 1
 		}
-		
+
 		effect = {
 			   set_global_flag = usa
 			set_country_flag = elgiste_lugar
@@ -152,8 +204,26 @@ political_decisions = {
 				tag = ENL
 				tag = BRG
 				tag = FRA
+				tag = NET
             }
-            is_secondary_power = yes
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			NOT = {
 		    has_global_flag = usa_misipi
 		}
@@ -191,7 +261,24 @@ political_decisions = {
 				tag = NET
 				tag = BRG
             }
-            is_secondary_power = yes
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			NOT = {
 		    has_global_flag = canada
 		}
@@ -200,12 +287,12 @@ political_decisions = {
 		    has_country_flag = elgiste_lugar
 		}
 		}
-		
+
 		allow = {
 			money = 500000
 			naval_statistics = 1
 		}
-		
+
 		effect = {
 			   set_global_flag = canada
 			set_country_flag = elgiste_lugar
@@ -225,7 +312,24 @@ political_decisions = {
 				tag = SPA
 				tag = ARI
             }
-            is_secondary_power = yes
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			NOT = {
 		    has_global_flag = mex
 		}
@@ -234,12 +338,12 @@ political_decisions = {
 		    has_country_flag = elgiste_lugar
 		}
 		}
-		
+
 		allow = {
 			money = 500000
 			naval_statistics = 1
 		}
-		
+
 		effect = {
 			   set_global_flag = mex
 			set_country_flag = elgiste_lugar
@@ -263,7 +367,24 @@ political_decisions = {
 				tag = ARI
 				tag = MAL
             }
-            is_secondary_power = yes
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			NOT = {
 		    has_global_flag = aires
 		}
@@ -295,7 +416,24 @@ political_decisions = {
                 is_culture_group = east_asian
 				is_culture_group = south_asian
             }
-            is_secondary_power = yes
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			NOT = {
 		    has_global_flag = california
 		}
@@ -323,22 +461,39 @@ political_decisions = {
                 continent = asia
                 tag = MUG
             }
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			OR = {
                 is_culture_group = east_asian
 				is_culture_group = south_asian
             }
-            is_secondary_power = yes
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}
 		has_country_flag = enabled_conolizar
 		}
-		
+
 		allow = {
 			money = 500000
 			civilized = yes
 		}
-		
+
 		effect = {
 			set_global_flag = alaska
 			set_country_flag = elgiste_lugar
@@ -352,11 +507,28 @@ political_decisions = {
                 continent = asia
                 tag = MUG
             }
+            OR = {
+                rank = 16
+                rank = 15
+                rank = 14
+                rank = 13
+                rank = 12
+                rank = 11
+                rank = 10
+                rank = 9
+                rank = 8
+                rank = 7
+                rank = 6
+                rank = 5
+                rank = 4
+                rank = 3
+                rank = 2
+                rank = 1
+            }
 			OR = {
                 is_culture_group = east_asian
 				is_culture_group = south_asian
             }
-            is_secondary_power = yes
 		NOT = {
 		    has_country_flag = elgiste_lugar
 		}

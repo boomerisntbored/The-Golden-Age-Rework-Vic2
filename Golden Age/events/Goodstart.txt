@@ -358,3 +358,31 @@ country_event = {
 			}
     }
 }
+country_event = {
+    id = 921211
+    title = "da igual soy ai"
+    desc = "da igual soy ai"
+    picture = hre_prince
+    trigger = {
+	    NOT = {
+		    has_country_flag = money132_Start12
+		}
+		tag = TUR
+		year = 1453
+		NOT = {
+		  owns = 860
+		}
+		ai = yes
+	}
+
+    option = {
+        name = "War again?"
+		set_country_flag = money132_Start12
+        war = {
+	         target = BYZ
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+    }
+}
