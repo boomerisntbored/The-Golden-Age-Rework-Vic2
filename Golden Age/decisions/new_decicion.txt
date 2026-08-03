@@ -4208,8 +4208,8 @@ political_decisions = {
         AND = {
             owns = 377
             owns = 380
-            owns = 882
-            owns = 885
+            owns = 382
+            owns = 385
             owns = 384
         }
         year = 1460
