@@ -1470,7 +1470,21 @@ political_decisions = {
         }
 
         allow = {         
-            war = no          
+            war = no
+            AUS_726 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
+			 AUS_729 = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                    }
+                }
+	         }
             SWI = {
                 all_core = {
                     OR = {
@@ -1559,20 +1573,6 @@ political_decisions = {
                                 vassal_of = THIS                      
                             }
                         }
-                    }
-                }
-	         }
-			 AUS_726 = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                    }
-                }
-	         }
-			 AUS_729 = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
                     }
                 }
 	         }
