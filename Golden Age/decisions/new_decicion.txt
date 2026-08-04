@@ -3239,6 +3239,27 @@ political_decisions = {
 			FRI = {
 				all_core = { add_core = THIS}
 			}
+			BRB = {
+				all_core = { add_core = NET}
+			}
+			LIE = {
+				all_core = { add_core = NET}
+			}
+			LUX = {
+				all_core = { add_core = NET}
+			}
+			HLL = {
+				all_core = { add_core = NET}
+			}
+			UTR = {
+				all_core = { add_core = NET}
+			}
+			GEL = {
+				all_core = { add_core = NET}
+			}
+			FRI = {
+				all_core = { add_core = NET}
+			}
 		}
 		ai_will_do = {
 			factor = 1
