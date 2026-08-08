@@ -28,9 +28,9 @@ luxury_needs = {
     furniture = 3
     liquor = 1.5
     paper = 1.0
-    sugar = 5
-    spices = 5
-    fur = 3
+    #sugar = 5
+    #sugar = 5
+    #sugar = 3
     #telephones = 1.0
     automobiles = 0.5
     #radio = 1.0
@@ -629,11 +629,6 @@ conservative = {
     modifier = {
         factor = 1.1
         NOT = { is_ideology_enabled = anarcho_liberal }
-    }
-
-    modifier = {
-        factor = 1.1
-        social_policy = no_state_interference
     }
 }
 

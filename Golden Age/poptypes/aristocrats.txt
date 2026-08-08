@@ -23,8 +23,7 @@ everyday_needs = {
 	regular_clothes = 8
     wine = 8
     tobacco = 6
-    sugar = 6
-    spices = 6
+    #sugar = 6
     coffee = 5
 }
 
@@ -41,7 +40,7 @@ luxury_needs = {
     opium = 10
     telephones = 10
     automobiles = 10
-    fur = 10
+    #sugar = 10
     #aeroplanes = 5
     #radio = 10
     #fuel = 10

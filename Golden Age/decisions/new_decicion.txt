@@ -1307,13 +1307,7 @@ political_decisions = {
 			HES = {
 				all_core = { add_core = WES}
 			}
-			ACC = {
-				all_core = { add_core = WES}
-			}
 			FRM = {
-				all_core = { add_core = WES}
-			}
-			ACC = {
 				all_core = { add_core = WES}
 			}
 			OLD = {

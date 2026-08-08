@@ -37,7 +37,7 @@ luxury_needs = {
     opium = 1.0
     luxury_clothes = 1
     luxury_furniture = 1
-    fur = 5
+    #sugar = 5
     #telephones = 1.25
     automobiles = 1.0
     wine = 10
@@ -55,8 +55,8 @@ everyday_needs = {
     paper = 5
     glass = 1
     tobacco = 3
-    sugar = 5
-    spices = 5
+    #sugar = 5
+    #sugar = 5
     tea = 5
 }
 life_needs = {
@@ -2701,79 +2701,6 @@ issues =
             OR = {
                 NOT = {
                     is_next_reform = wealth_voting
-                }
-                NOT = { consciousness = 6 }
-                luxury_needs =  1.0
-                NOT = { life_needs = 0.7 }
-            }
-        }
-        modifier = {
-            factor = 0.25
-            country = {
-                civilized = no
-            }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 1 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.90 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.80 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.70 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.60 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.50 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.40 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.30 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.20 }
-        }
-        modifier = {
-            factor = 1.25
-            NOT = { agree_with_ruling_party = 0.10 }
-        }
-        modifier = {
-            factor = 1.25
-            consciousness = 7
-        }
-        modifier = {
-            factor = 1.25
-            consciousness = 8
-        }
-
-        modifier = {
-            factor = 1.25
-            consciousness = 9
-        }
-    }
-    universal_weighted_voting = {
-        factor = 1
-        modifier = {
-            factor = 0
-            OR = {
-                NOT = {
-                    is_next_reform = universal_weighted_voting
                 }
                 NOT = { consciousness = 6 }
                 luxury_needs =  1.0
