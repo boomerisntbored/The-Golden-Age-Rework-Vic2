@@ -386,3 +386,21 @@ country_event = {
             }
     }
 }
+country_event = {
+    id = 921232
+    title = "The destruction of the Elbian Confederation"
+    desc = "The End"
+    picture = hre_prince
+    trigger = {
+		has_country_modifier = hre_refunded
+		tag = CAE
+	}
+
+    option = {
+        name = "The End"
+		set_country_flag = money132_Start122
+        change_tag = BOH
+        primary_culture = czech
+        remove_accepted_culture = north_german
+    }
+}

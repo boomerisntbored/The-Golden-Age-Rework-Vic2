@@ -3519,12 +3519,41 @@ political_decisions = {
     }
 	Exit_empire  = {
         potential = {
-		has_country_modifier = hre_mendling
-		NOT = {
-		    has_country_modifier = hre_kaiser
-		}
-		ai = no
+    has_country_modifier = hre_mendling
+
+    NOT = {
+        has_country_modifier = hre_refunded
+    }
+
+    NOT = {
+                has_country_modifier = hre_kaiser
+            }
+
+    OR = {
+        # Jugador: las relaciones no importan
+        ai = no
+
+        # IA
+        AND = {
+            ai = yes
+
+            # No es el Kaiser
+            NOT = {
+                has_country_modifier = hre_kaiser
+            }
+
+            # Existe un Kaiser con el que tenemos -100 o menos
+            any_country = {
+                has_country_modifier = hre_kaiser
+
+                relation = {
+                    who = THIS
+                    value = -100
+                }
+            }
         }
+    }
+}
 
         allow = {         
             war = no                   
@@ -3534,6 +3563,10 @@ political_decisions = {
 
         effect = {                
                 remove_country_modifier = hre_mendling
+                add_country_modifier = {
+                        name = hre_traidor
+                        duration = 3650
+                }
 		}
 		ai_will_do = {
 			factor = 1
@@ -3599,6 +3632,9 @@ political_decisions = {
             }
 				any_country = {
                 remove_country_modifier = hre_kaiser
+            }
+            any_country = {
+                remove_country_modifier = hre_refunded
             }
 		}
 		ai_will_do = {

@@ -69,6 +69,14 @@ hre_kaiser = {
 	icon = 6
 }
 
+hre_traidor = {
+    icon = 6
+}
+
+hre_refunded = {
+    icon = 6
+}
+
 Coldown_hre = {
 	icon = 6
 }
