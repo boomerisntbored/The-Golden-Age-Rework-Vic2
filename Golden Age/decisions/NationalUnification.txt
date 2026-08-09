@@ -11,6 +11,9 @@ political_decisions = {
 				tag = KUK
 				tag = WES
 			}
+			NOT = {
+		    has_country_modifier = hre_kaiser
+		}
 		}	
 		allow = {
 			war = no

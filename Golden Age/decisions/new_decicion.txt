@@ -3529,31 +3529,8 @@ political_decisions = {
                 has_country_modifier = hre_kaiser
             }
 
-    OR = {
-        # Jugador: las relaciones no importan
         ai = no
-
-        # IA
-        AND = {
-            ai = yes
-
-            # No es el Kaiser
-            NOT = {
-                has_country_modifier = hre_kaiser
-            }
-
-            # Existe un Kaiser con el que tenemos -100 o menos
-            any_country = {
-                has_country_modifier = hre_kaiser
-
-                relation = {
-                    who = THIS
-                    value = -100
-                }
-            }
-        }
-    }
-}
+   }
 
         allow = {         
             war = no                   

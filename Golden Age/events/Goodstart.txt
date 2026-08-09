@@ -398,7 +398,9 @@ country_event = {
 
     option = {
         name = "The End"
-		set_country_flag = money132_Start122
+        CAE = {
+				all_core = { remove_core = CAE}
+			}
         change_tag = BOH
         primary_culture = czech
         remove_accepted_culture = north_german
