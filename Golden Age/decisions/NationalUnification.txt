@@ -11,12 +11,12 @@ political_decisions = {
 				tag = KUK
 				tag = WES
 			}
-			NOT = {
-		    has_country_modifier = hre_mendling
-		}
 		}	
 		allow = {
 			war = no
+			NOT = {
+		    has_country_modifier = hre_mendling
+		}
 			BAV = {
 				all_core = {
 					owner = {

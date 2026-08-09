@@ -1000,13 +1000,13 @@ political_decisions = {
                 tag = BOH 				
             }
             NOT = { exists = CAE }
-			NOT = {
-		    has_country_modifier = hre_mendling
-		}
         }
 
         allow = {         
-            war = no          
+            war = no
+            NOT = {
+		    has_country_modifier = hre_mendling
+		}
             BOH = {
                 all_core = {
                     OR = {
