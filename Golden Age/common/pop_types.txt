@@ -654,6 +654,11 @@ assimilation_chance =
 			NOT = { unemployment = 0.05 }
 		}
 	}
+
+	modifier = {
+		factor = 0.1
+		is_accepted_culture = no
+	}
 	
 	modifier = {
 		factor = 4000
@@ -713,6 +718,22 @@ assimilation_chance =
 			primary_culture = swedish
 		}
 		OR = {
+			has_pop_culture = russian
+		}
+	}
+
+	modifier = {
+		factor = 25
+		country = {
+			has_country_flag = baltico_orden
+		}
+		OR = {
+			has_pop_culture = latvian
+			has_pop_culture = estonian
+			has_pop_culture = lithuanian
+			has_pop_culture = polish
+			has_pop_culture = byelorussian
+			has_pop_culture = ukrainian
 			has_pop_culture = russian
 		}
 	}

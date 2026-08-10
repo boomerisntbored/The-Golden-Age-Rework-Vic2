@@ -15312,3 +15312,7 @@ LEADERDIED_BTN2;OK;OK;OK;OK;Aceptar;OK;Rendben;OK;;;;;;x;;;;
 LEADERDIED_BTN3;Goto;ALLER ?Goto;OK;Ir all?OK;Rendben;OK;;;;;;x;;;;
 LEADERDIED_MAP;*;*;*;Id?do;*;Andare;Ugrás;Pøejít na;;;;;;x;;;;
 ;;;;*;;*;*;;;;;;;x;;;;
+uni_orden;Merge the orders;Conquête;Eroberung;;Conquista;;;;;;;;;x;;;;
+uni_orden_desc;Merge the orders;Conquête;Eroberung;;Conquista;;;;;;;;;x;;;;
+uni_orden_setup;Annex $RECIPIENT$;Annexer $RECIPIENT$;$RECIPIENT$ annektieren;;Anexión de $RECIPIENT$;;;;;;;;;x;;;;
+uni_orden_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;$RECIPIENT$ annektieren;;Anexión de $RECIPIENT$;;;;;;;;;x;;;;

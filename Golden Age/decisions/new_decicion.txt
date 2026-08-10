@@ -923,7 +923,7 @@ political_decisions = {
                 tag = BRD     				
             }
             NOT = { exists = PRU }
-			
+			NOT = { has_country_flag = baltico_orden }
         }
 
         allow = {         
@@ -2004,6 +2004,32 @@ political_decisions = {
 			}
             inherit = LIV			
 			inherit = RIG
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    conquest_lit  = {
+        potential = {
+            OR = {
+                tag = TEU
+            }
+            NOT = { has_country_flag = baltico_orden }
+
+        }
+
+        allow = {
+            war = no
+			owns = 360
+        }
+
+
+
+        effect = {
+            set_country_flag = baltico_orden
+            LIT = {
+				all_core = { add_core = THIS}
+			}
         }
 		ai_will_do = {
 			factor = 1

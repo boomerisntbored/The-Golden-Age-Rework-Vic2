@@ -149,16 +149,12 @@ country_event = {
 			who = HUN
 			value = -400
 		}
-		POL = {
-			    limit = { ai = yes
-			}
 		    war = {
 	         target = HUN
 	         attacker_goal = { casus_belli = make_puppet }
 	         defender_goal = { casus_belli = status_quo }
 	         call_ally = no
             }
-			}
 	}
 }
 country_event = {
@@ -196,6 +192,10 @@ country_event = {
 	option = {
 		name = "Not Union of Lit"
 		inherit = MAZ
+		inherit = MOL
+		MOL = {
+				all_core = { add_core = THIS}
+			}
 		set_country_flag = not_polonia_lit
 		add_country_modifier = {
 			name = polish_spirit
