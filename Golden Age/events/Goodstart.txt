@@ -406,3 +406,21 @@ country_event = {
         remove_accepted_culture = north_german
     }
 }
+country_event = {
+    id = 921233
+    title = "The destruction of the Munich Confederation"
+    desc = "The End"
+    picture = hre_prince
+    trigger = {
+		has_country_modifier = hre_refunded
+		tag = SGF
+	}
+
+    option = {
+        name = "The End"
+        SGF = {
+				all_core = { remove_core = SGF}
+			}
+        change_tag = BAV
+    }
+}
