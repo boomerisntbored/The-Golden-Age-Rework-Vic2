@@ -3782,6 +3782,14 @@ political_decisions = {
 			set_country_flag = annex_holl
 			THIS = { inherit = BRI }
 			release_vassal = BRI
+			diplomatic_influence = {
+				who = BRI
+				value = 400
+			}
+			relation = {
+				who = BRI
+				value = 400
+			}
 		}
 		ai_will_do = {
 			factor = 1
