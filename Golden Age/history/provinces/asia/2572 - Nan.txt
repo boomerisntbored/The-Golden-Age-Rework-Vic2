@@ -1,5 +1,5 @@
-owner= LNA
-controller= LNA
-add_core= LNA
+owner= SST
+controller= SST
+add_core= SST
 trade_goods = opium
 life_rating = 30

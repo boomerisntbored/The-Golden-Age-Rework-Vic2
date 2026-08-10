@@ -345,20 +345,6 @@ country_event = {
     }
 }
 country_event = {
-    id = 921011
-    title = "da igual soy ai"
-    desc = "da igual soy ai"
-    picture = hre_prince
-    is_triggered_only = yes
-
-    option = {
-        name = "War again?"
-        JAN = {
-				inherit = THIS
-			}
-    }
-}
-country_event = {
     id = 921211
     title = "da igual soy ai"
     desc = "da igual soy ai"

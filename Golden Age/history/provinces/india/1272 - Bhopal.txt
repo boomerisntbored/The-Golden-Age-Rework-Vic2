@@ -1,5 +1,5 @@
-owner= KHD
-controller= KHD
-add_core= KHD
+owner= MLW
+controller= MLW
+add_core= MLW
 trade_goods = dye
 life_rating = 32
