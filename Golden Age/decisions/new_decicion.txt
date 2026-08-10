@@ -3756,7 +3756,37 @@ political_decisions = {
 			factor = 1
 			}
     }
-	
+	BRY_puppet  = {
+        potential = {
+		OR = {
+                tag = BRG
+            }
+		NOT = {
+		    has_country_flag = annex_holl
+		}
+		NOT = {
+		    has_country_flag = annex_hol
+		}
+        }
+
+        allow = {
+            war = no
+            BRI = {
+            in_sphere = THIS
+            }
+            state_n_government = 1
+        }
+
+
+        effect = {
+			set_country_flag = annex_holl
+			THIS = { inherit = BRI }
+			release_vassal = BRI
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
 	scottish_sca  = {
         potential = {
                 tag = SCA   				
