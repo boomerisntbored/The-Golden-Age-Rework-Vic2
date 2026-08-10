@@ -2014,8 +2014,8 @@ political_decisions = {
             OR = {
                 tag = TEU
             }
-            NOT = { has_country_flag = baltico_orden }
-
+            NOT = { has_country_flag = lit_orden }
+            has_country_flag = baltico_orden
         }
 
         allow = {
@@ -2026,7 +2026,7 @@ political_decisions = {
 
 
         effect = {
-            set_country_flag = baltico_orden
+            set_country_flag = lit_orden
             LIT = {
 				all_core = { add_core = THIS}
 			}
