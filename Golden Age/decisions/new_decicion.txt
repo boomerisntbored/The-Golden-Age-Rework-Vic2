@@ -3903,7 +3903,10 @@ political_decisions = {
 		NOT = {
 		    year = 1480
 		}
-		tag = FRA
+		OR = {
+		    tag = FRA
+		    tag = DUA
+		}
         }
 
         allow = {
