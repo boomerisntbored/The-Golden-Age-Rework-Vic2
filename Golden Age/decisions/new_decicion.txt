@@ -11,8 +11,20 @@ political_decisions = {
         }
 
         allow = {         
-            war = no          
-            SPA = {
+            war = no
+            CAS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                vassal_of = THIS
+                            }
+                        }
+                    }
+                }
+	         }
+            ARO = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -3878,6 +3890,49 @@ political_decisions = {
 			498 = { add_core = THIS }
 			500 = { add_core = THIS }
 			501 = { add_core = THIS }
+		}
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    fra_nav  = {
+        potential = {
+		NOT = {
+		    has_country_flag = fra_nav
+		}
+		NOT = {
+		    year = 1480
+		}
+		tag = FRA
+        }
+
+        allow = {
+            war = no
+            NOT = {
+		    year = 1480
+		}
+			NAV = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+
+
+        effect = {
+            set_country_flag = fra_nav
+			FRA = {
+				all_core = { add_core = NAV}
+			}
+			add_accepted_culture = basque
 		}
 		ai_will_do = {
 			factor = 1
