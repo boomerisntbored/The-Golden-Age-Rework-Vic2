@@ -171,7 +171,7 @@ Francia_media_desc;Form Middle France (It cannot be formed if you accept the Dut
 BRY_title;Integrate Brittany into the same country;;;;;;;;;;;;;
 BRY_desc;It is time to unite our houses into a single crown.;;;;;;;;;;;;;
 BRY_puppet_title;Personal union with Brittany;;;;;;;;;;;;;
-BRY_puppet_desc;It is time to unite our houses into a single crown.;;;;;;;;;;;;;
+BRY_puppet_desc;It is time to unite our houses into a single crown. (Puppeting Brittany is an intermediate decision; annexing is not mandatory, and choosing one does not cancel out the other.);;;;;;;;;;;;;
 fra_bar_title;To reclaim the Principality of Catalonia;;;;;;;;;;;;;
 fra_bar_desc;Catalonia is legitimate territory of the French Crown.;;;;;;;;;;;;;
 mughal_title;To form the Mughal Empire;;;;;;;;;;;;;
