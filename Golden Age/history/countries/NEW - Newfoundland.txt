@@ -5,10 +5,10 @@ culture = french_canadian
 religion = catholic
 government = democracy
 nationalvalue=nv_order
-literacy=0.000000
+literacy=1.000000
 civilized=yes
 
-ruling_party=
+ruling_party = "Nobility Faction"##
 upper_house=
 {
 	fascist = 0

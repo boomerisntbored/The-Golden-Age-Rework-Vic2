@@ -8,7 +8,7 @@ literacy=0.250000
 prestige = 75
 civilized=yes
 
-ruling_party=EGY_conservative
+ruling_party = "Nobility Faction"##EGY_conservative
 upper_house=
 {
 	fascist = 0

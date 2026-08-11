@@ -6,7 +6,7 @@ nationalvalue=nv_order
 literacy=0.210000
 civilized=yes
 
-ruling_party=RUS_reactionary
+ruling_party = "Nobility Faction"##RUS_reactionary
 upper_house=
 {
 	fascist = 0

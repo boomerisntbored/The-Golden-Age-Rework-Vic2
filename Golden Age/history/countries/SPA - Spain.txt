@@ -5,11 +5,11 @@ culture = catalan
 religion = catholic
 government = hms_government
 nationalvalue=nv_equality
-literacy=0.000000
+literacy=1.000000
 civilized=yes
 is_releasable_vassal = no
 
-ruling_party=
+ruling_party = "Nobility Faction"##
 upper_house=
 {
 	fascist = 0

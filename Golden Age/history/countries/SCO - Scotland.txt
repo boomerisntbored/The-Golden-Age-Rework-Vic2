@@ -6,7 +6,7 @@ nationalvalue=nv_order
 literacy=0.280000
 civilized=yes
 
-ruling_party=SCO_reactionary
+ruling_party = "Nobility Faction"##SCO_reactionary
 upper_house=
 {
 	fascist = 0

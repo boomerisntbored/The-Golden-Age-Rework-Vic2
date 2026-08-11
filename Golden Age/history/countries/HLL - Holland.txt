@@ -6,7 +6,7 @@ nationalvalue=nv_liberty
 literacy=0.380000
 civilized=yes
 
-ruling_party=HOL_liberal
+ruling_party = "Nobility Faction"##HOL_liberal
 upper_house=
 {
 	fascist = 0

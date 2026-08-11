@@ -6,7 +6,7 @@ nationalvalue=France_war
 literacy=0.320000
 civilized=yes
 
-ruling_party=FRA_reactionary
+ruling_party = "Nobility Faction"##FRA_reactionary
 upper_house=
 {
 	fascist = 0

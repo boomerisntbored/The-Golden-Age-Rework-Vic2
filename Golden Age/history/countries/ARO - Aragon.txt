@@ -8,7 +8,7 @@ literacy=0.500000
 civilized=yes
 leadership=60
 
-ruling_party=CAT_liberal
+ruling_party = "Nobility Faction"##CAT_liberal
 upper_house=
 {
 	fascist = 0

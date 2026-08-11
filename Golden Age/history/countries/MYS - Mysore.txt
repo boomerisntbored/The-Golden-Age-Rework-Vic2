@@ -5,7 +5,7 @@ government = absolute_monarchy
 nationalvalue=nv_order
 literacy=0.130000
 
-ruling_party=MYS_conservative
+ruling_party = "Nobility Faction"##MYS_conservative
 upper_house=
 {
 	fascist = 0

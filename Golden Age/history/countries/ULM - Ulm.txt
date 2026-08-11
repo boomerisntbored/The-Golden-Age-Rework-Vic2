@@ -6,7 +6,7 @@ nationalvalue=nv_liberty
 literacy=0.410000
 civilized=yes
 
-ruling_party=WUR_liberal
+ruling_party = "Nobility Faction"##WUR_liberal
 upper_house=
 {
 	fascist = 0

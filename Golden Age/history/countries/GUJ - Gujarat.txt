@@ -5,7 +5,7 @@ government = absolute_monarchy
 nationalvalue=nv_order
 literacy=0.220000
 
-ruling_party=BER_reactionary
+ruling_party = "Nobility Faction"##BER_reactionary
 upper_house=
 {
 	fascist = 0

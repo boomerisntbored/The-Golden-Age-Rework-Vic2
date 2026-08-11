@@ -1,12 +1,13 @@
 capital=846
-primary_culture = greek
+primary_culture = maltese
+culture = greek
 religion = catholic
 government = absolute_monarchy
 nationalvalue=nv_order
 literacy=0.210000
 civilized=yes
 
-ruling_party=GRE_reactionary
+ruling_party = "Nobility Faction"##GRE_reactionary
 upper_house=
 {
 	fascist = 0

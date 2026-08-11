@@ -5,7 +5,7 @@ government = absolute_monarchy
 nationalvalue=nv_order
 literacy=0.120000
 
-ruling_party=PAN_conservative
+ruling_party = "Nobility Faction"##PAN_conservative
 upper_house=
 {
 	fascist = 0

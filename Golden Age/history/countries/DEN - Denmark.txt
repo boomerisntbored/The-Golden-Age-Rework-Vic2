@@ -7,7 +7,7 @@ nationalvalue=nv_liberty
 literacy=0.360000
 civilized=yes
 
-ruling_party=DAN_conservative
+ruling_party = "Nobility Faction"##DAN_conservative
 upper_house=
 {
 	fascist = 0

@@ -5,7 +5,7 @@ government = absolute_monarchy
 nationalvalue=nv_order
 literacy=0.200000
 
-ruling_party=DAI_reactionary
+ruling_party = "Nobility Faction"##DAI_reactionary
 upper_house=
 {
 	fascist = 0

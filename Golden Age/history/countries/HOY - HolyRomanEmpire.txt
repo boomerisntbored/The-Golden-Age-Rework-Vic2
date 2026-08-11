@@ -1,8 +1,8 @@
 nationalvalue=
-literacy=0.000000
+literacy=1.000000
 is_releasable_vassal = no
 
-ruling_party=
+ruling_party = "Nobility Faction"##
 upper_house=
 {
 	fascist = 0

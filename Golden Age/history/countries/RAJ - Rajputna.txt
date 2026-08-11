@@ -5,7 +5,7 @@ government = absolute_monarchy
 nationalvalue=nv_order
 literacy=0.250000
 
-ruling_party=JOD_reactionary
+ruling_party = "Nobility Faction"##JOD_reactionary
 upper_house=
 {
 	fascist = 0

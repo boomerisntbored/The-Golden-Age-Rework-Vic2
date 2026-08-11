@@ -1,7 +1,7 @@
 nationalvalue=
-literacy=4.000000
+literacy=1.000000
 
-ruling_party=Nobility Faction
+ruling_party = "Nobility Faction"##
 upper_house=
 {
 	fascist = 0
