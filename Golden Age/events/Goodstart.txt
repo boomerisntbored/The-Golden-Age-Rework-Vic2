@@ -33,7 +33,6 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA25221"
-		ruling_party_ideology = conservative
 	}
 }
 country_event = {
