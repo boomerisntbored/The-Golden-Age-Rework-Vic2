@@ -1546,19 +1546,6 @@ political_decisions = {
                     }
                 }
 	         }
-			 SNA = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
         }
 		
         
@@ -1586,9 +1573,6 @@ political_decisions = {
 			TUS = {
 				all_core = { add_core = FMM}
 			}
-			SNA = {
-				all_core = { add_core = FMM}
-			}
 			FRA_467 = {
 				add_core = FMM
 			}
@@ -1610,7 +1594,6 @@ political_decisions = {
 			inherit = MOD
 			inherit = GNA
 			inherit = TUS
-			inherit = SNA
         }
 		ai_will_do = {
 			factor = 1
