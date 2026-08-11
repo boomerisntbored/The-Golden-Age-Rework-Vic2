@@ -25,32 +25,6 @@ presidential_dictatorship = {    #Presidental Dictatorship
     flagType = republic
 }
 
-colonial_company = {    #Autonomous Dependency
-    #which ideology of parties.
-    liberal = yes
-    #socialist = yes
-    conservative = yes
-    reactionary = yes
-
-    election = no
-    appoint_ruling_party = yes
-}
-
-dominion = {
-    liberal = yes
-    #socialist = yes
-    conservative = yes
-    reactionary = yes
-    communist = yes
-    #anarcho_liberal = yes
-    #fascist = yes
-
-    election = yes
-    duration = 48
-    appoint_ruling_party = yes
-}
-
-
 bourgeois_dictatorship = {
     #which ideology of parties.
     anarcho_liberal = yes
@@ -96,19 +70,6 @@ prussian_constitutionalism = {
     flagType = monarchy
 }
 
-elective_monarchy_oligarchy = {
-    liberal = yes
-    socialist = yes
-    conservative = yes
-    reactionary = yes
-
-
-    election = yes
-    duration = 48
-    appoint_ruling_party = no
-    flagType = monarchy
-}
-
 hms_government = {
     liberal = yes
     socialist = yes
@@ -140,68 +101,3 @@ democracy = {
     appoint_ruling_party = no
     flagType = republic
 }
-
-tribal_democracy = {
-    liberal = yes
-    socialist = yes
-    conservative = yes
-    reactionary = yes
-    communist = yes
-    #anarcho_liberal = yes
-    #fascist = yes
-
-    election = yes
-    duration = 48
-    appoint_ruling_party = yes
-    flagType = republic
-}
-
-theocracy = {
-    #which ideology of parties.
-    #reactionary = yes
-    conservative = yes
-
-    election = no
-    appoint_ruling_party = yes
-}
-
-oligarchic_republic = {
-    liberal = yes
-    conservative = yes
-    reactionary = yes
-
-    election = yes
-    appoint_ruling_party = yes
-    flagType = republic
-}
-
-khanate = {
-    conservative = yes
-    reactionary = yes
-    appoint_ruling_party = yes
-    flagType = monarchy
-}
-
-#absolute_monarchy_empire = {
-#    liberal = yes
-#    conservative = yes
-#    reactionary = yes
-#
-#
-#    election = no
-#    appoint_ruling_party = yes
-#    flagType = monarchy
-#}
-
-#prussian_constitutionalism_empire = {
-#    liberal = yes
-#    socialist = yes
-#    conservative = yes
-#    reactionary = yes
-#
-#
-#    election = yes
-#    duration = 48
-#    appoint_ruling_party = yes
-#    flagType = monarchy
-#}
