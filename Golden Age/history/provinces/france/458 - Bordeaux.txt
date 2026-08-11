@@ -1,6 +1,5 @@
 owner= ENL
 controller= ENL
-add_core= GUY
 add_core= AMG
 add_core= FRA
 add_core= ENL

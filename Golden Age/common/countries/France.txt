@@ -21,6 +21,19 @@ party = {
 }
 
 party = {
+    name = "Nobility Faction"
+    start_date = 1400.1.1
+    end_date = 2000.1.1
+
+ideology = conservative estate_affiliation = nobility_church
+    economic_policy = interventionism
+    trade_policy = protectionism
+    religious_policy = pluralism
+    citizenship_policy = limited_citizenship
+    war_policy = pro_military
+}
+
+party = {
     name = "First Estate Faction"
     start_date = 1400.1.1
     end_date = 1848.1.1

@@ -226,7 +226,6 @@ country_event = {
             tag = PAR
             tag = MOD
             tag = TUS
-            tag = SNA
             }
 		NOT = {
 		    tag = TEU

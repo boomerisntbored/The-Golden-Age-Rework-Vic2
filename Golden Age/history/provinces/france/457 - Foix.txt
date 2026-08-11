@@ -1,7 +1,7 @@
 owner= FOI
 controller= FOI
 add_core= FOI
-add_core= GUY
+
 add_core= FRA
 add_core= AMG
 trade_goods = grain

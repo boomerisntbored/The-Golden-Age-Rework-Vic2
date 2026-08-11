@@ -1,7 +1,6 @@
 owner= CAS
 controller= CAS
 add_core= CAS
-add_core= GAL
 add_core= SPA
 trade_goods = fish
 life_rating = 35

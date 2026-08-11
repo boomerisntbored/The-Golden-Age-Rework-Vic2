@@ -1,6 +1,5 @@
 owner= TUS
 controller= TUS
-add_core= PIS
 add_core= TUS
 add_core= ITA
 add_core= HOY

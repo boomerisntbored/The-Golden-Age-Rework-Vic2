@@ -91,6 +91,19 @@ party = {
     war_policy = jingoism
 }
 
+party = {
+    name = "Nobility Faction"
+    start_date = 1400.1.1
+    end_date = 2000.1.1
+
+ideology = conservative estate_affiliation = nobility_church
+    economic_policy = interventionism
+    trade_policy = protectionism
+    religious_policy = pluralism
+    citizenship_policy = limited_citizenship
+    war_policy = pro_military
+}
+
 unit_names = {
     dreadnought = {
          "HMS Dreadnought" "HMS Bellerophon" "HMS Superb" "HMS Temeraire" "HMS St Vincent" "HMS Collingwood" "HMS Vanguard" "HMS Neptune" "HMS Colossus" "HMS Hercules" "HMS Orion" "Monarch" "HMS Conqueror" "HMS Thunderer" "HMS King George V" "HMS Centurion" "HMS Audacious" "HMS Ajax" "HMS Iron Duke" "HMS Marlborough" "HMS Benbow" "HMS Emperor of India" "HMS Agincourt" "HMS Erin" "HMS Canada" "HMS Queen Elizabeth" "HMS Warspite" "HMS Barham" "HMS Valiant" "HMS Malaya" "HMS Royal Oak" "HMS Royal Sovereign" "HMS Revenge" "HMS Resolution" "HMS Ramillies" "HMS Resistance" "HMS Nelson" "HMS Rodney" "HMS Prince of Wales" "HMS Duke of York" "HMS Anson" "HMS Howe" "HMS Lion"

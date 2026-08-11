@@ -1578,9 +1578,8 @@ make_puppet_bor = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 
-	can_use = { }
-		 
-		NOT = { number_of_states = 21 }
+	can_use = {
+	    NOT = { is_our_vassal = THIS }
 		is_greater_power = no
 		is_vassal = no
 	}
@@ -1592,10 +1591,8 @@ make_puppet_bor = {
 	#	NOT = { is_our_vassal = FROM }
 		#FROM = { is_substate = no }
 	#}
-	
-	po_release_puppet = yes
+
 	po_make_puppet = yes
-	po_add_to_sphere = yes #
 
 	war_name = WAR_PUPPET_NAME
 	

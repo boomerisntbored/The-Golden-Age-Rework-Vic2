@@ -1,7 +1,5 @@
 owner= BYZ
 controller= BYZ
-add_core= MOE
 add_core= BYZ
-add_core= ACH
 trade_goods = fruit
 life_rating = 35

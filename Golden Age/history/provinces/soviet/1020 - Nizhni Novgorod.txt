@@ -1,6 +1,5 @@
 owner= MOS
 controller= MOS
-add_core= NZH
 add_core= MOS
 add_core= RUS
 trade_goods = timber
