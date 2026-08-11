@@ -1,5 +1,5 @@
-nationalvalue=
-literacy=1.000000
+nationalvalue=nv_liberty
+literacy=0.410000
 
 ruling_party = "Nobility Faction"##
 upper_house=
@@ -29,4 +29,3 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
-oob = "AMD_OOB.txt"

@@ -1,5 +1,5 @@
-nationalvalue=
-literacy=1.000000
+nationalvalue=nv_order
+literacy=0.270000
 
 ruling_party = "Nobility Faction"##
 upper_house=

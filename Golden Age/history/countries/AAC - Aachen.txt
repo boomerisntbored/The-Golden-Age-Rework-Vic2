@@ -54,7 +54,6 @@ introspectionism = 1
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=universal_weighted_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=yes_meeting
@@ -74,7 +73,6 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=universal_weighted_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=yes_meeting
