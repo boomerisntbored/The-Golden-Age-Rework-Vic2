@@ -384,7 +384,7 @@ ARI = "countries/Aragon-Italy.txt"
 ARL = "countries/Arles.txt"
 AQT = "countries/Aquitania.txt"
 FMM = "countries/France_Media.txt"
-JAN 	= "countries/JanMayen.txt"
+PRG		="countries/Paraguay.txt"
 
 ##HoD Dominions
 dynamic_tags = yes # any tags after this is considered dynamic dominions
