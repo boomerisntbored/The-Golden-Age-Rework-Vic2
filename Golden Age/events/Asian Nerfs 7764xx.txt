@@ -1,7 +1,7 @@
 country_event = {
-	id = 776405
-	title = "776405"
-	desc = "EVTDESC776405"
+	id = 776409
+	title = "F pop"
+	desc = "Nerf"
 	picture = "xinhai"
 	
 	trigger = {
@@ -14,7 +14,7 @@ country_event = {
 	}
 	
 	immediate = {
-		name = "EVTOPTA776405"
+		name = "F pop"
 		set_country_flag = chinese_economic_compensation
 		MNG = {	
 				any_pop = {
@@ -29,8 +29,8 @@ country_event = {
 }
 country_event = {
 	id = 776405
-	title = "776405"
-	desc = "EVTDESC776405"
+	title = "F pop"
+	desc = "F pop"
 	picture = "xinhai"
 	
 	trigger = {
@@ -43,7 +43,7 @@ country_event = {
 	}
 	
 	immediate = {
-		name = "EVTOPTA776405"
+		name = "F pop"
 		set_country_flag = chinese_economic_compensation_2
 		THIS = {	
 				any_pop = {

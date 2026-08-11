@@ -1,5 +1,4 @@
 graphical_culture = UsGC
-colonial_company = { 0  34  255 }
 color = { 38 66 147 }
 
 
