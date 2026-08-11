@@ -1,7 +1,7 @@
 owner= ASS
 controller= ASS
 add_core= ASS
-add_core= NIZ
+
 add_core= HND
 trade_goods = dye
 life_rating = 32
