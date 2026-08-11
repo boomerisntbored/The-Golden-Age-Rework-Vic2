@@ -161,7 +161,7 @@ economic_aid_from_ally = {
 	icon = 9
 }
 trade_league = {
-	factory_cost - 0.02
+	factory_cost = -0.02
 	rgo_output = 0.05
 	rgo_throughput = 0.5
 	prestige = 0.01
@@ -171,7 +171,7 @@ trade_league = {
 	icon = 9
 }
 hanseatic_league = {
-	factory_cost - 0.02
+	factory_cost = -0.02
 	rgo_output = 0.05
 	rgo_throughput = 0.5
 	prestige = 0.01

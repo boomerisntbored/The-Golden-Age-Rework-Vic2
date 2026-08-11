@@ -40,14 +40,6 @@ union=
 
 union=
 {
-	first="ARO"
-	second="NAP"
-	start_date="1442.3.3"
-	end_date="1936.1.1"
-}
-
-union=
-{
 	first="FER"
 	second="MOD"
 	start_date="1393.1.1"

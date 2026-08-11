@@ -1126,15 +1126,6 @@ liberal_rebels = {
 			NOT = { literacy = 0.40 }
 		}
 		modifier = {
-			factor = 0.05
-			country = {
-				OR = { 
-						vote_franschise = universal_weighted_voting
-						vote_franschise = universal_voting
-					}
-			}
-		}
-		modifier = {
 			factor = 0.01
 			NOT = {
 				OR = {
@@ -1228,8 +1219,6 @@ liberal_rebels = {
 		}
 	}
 	demands_enforced_effect = {
-		political_reform = universal_weighted_voting
-		political_reform = population_equal_weight
 		political_reform = yes_meeting
 		political_reform = free_press
 		political_reform = non_socialist

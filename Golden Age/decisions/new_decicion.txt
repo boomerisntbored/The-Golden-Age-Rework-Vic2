@@ -3880,9 +3880,6 @@ political_decisions = {
 			GUJ = {
 				all_core = { add_core = MUG}
 			}
-			KHD = {
-				all_core = { add_core = MUG}
-			}
 			SIN = {
 				all_core = { add_core = MUG}
 			}

@@ -42,7 +42,6 @@ BAR = "countries/Bar.txt"
 BAS = "countries/Bastar.txt"
 BAV = "countries/Bavaria.txt"
 BCS = "countries/Baluchistan.txt"
-BEL = "countries/Belgium.txt"
 BEN = "countries/Benin.txt"
 BER = "countries/Beroda.txt"
 BHO = "countries/Bhopal.txt"
@@ -385,6 +384,7 @@ ARI = "countries/Aragon-Italy.txt"
 ARL = "countries/Arles.txt"
 AQT = "countries/Aquitania.txt"
 FMM = "countries/France_Media.txt"
+JAN 	= "countries/JanMayen.txt"
 
 ##HoD Dominions
 dynamic_tags = yes # any tags after this is considered dynamic dominions

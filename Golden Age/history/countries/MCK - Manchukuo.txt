@@ -1,5 +1,6 @@
 capital=1465
 primary_culture = manchu
+culture = beifaren
 religion = mahayana
 government = absolute_monarchy
 nationalvalue=nv_order

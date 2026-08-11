@@ -1578,7 +1578,7 @@ make_puppet_bor = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 
-	can_use = {  NOT={tag=JAN THIS={tag=JAN}} NOT={tag=JAN THIS={tag=JAN}}
+	can_use = { }
 		 
 		NOT = { number_of_states = 21 }
 		is_greater_power = no
@@ -1649,10 +1649,6 @@ make_puppet_nov = {
 			to = pro_military
 			value = 0.25
 		}
-	}
-
-	ai_will_do = {
-		factor = 1
 	}
 }
 
@@ -2693,13 +2689,10 @@ war_reparations = {
 		war_with = THIS
 		NOT = {
 			is_our_vassal = THIS
-			has_country_modifier = neutrality
-			has_country_modifier = no_more_war
 			has_country_flag = in_great_war
 		}
 		THIS = {
 			civilized = yes
-			NOT = { has_country_modifier = neutrality }
 		}
 	}
 	
