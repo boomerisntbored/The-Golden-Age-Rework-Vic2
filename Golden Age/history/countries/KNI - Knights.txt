@@ -1,6 +1,5 @@
 capital=846
-primary_culture = maltese
-culture = greek
+primary_culture = greek
 religion = catholic
 government = absolute_monarchy
 nationalvalue=nv_order
