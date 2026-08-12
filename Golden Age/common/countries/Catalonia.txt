@@ -37,7 +37,7 @@ party = {
     ideology = anarcho_liberal
 
     estate_affiliation = absolutist
-    economic_policy = interventionism
+    economic_policy = state_capitalism
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = residency

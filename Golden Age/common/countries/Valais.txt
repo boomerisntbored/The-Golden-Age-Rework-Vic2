@@ -9,7 +9,7 @@ party = {
     ideology = liberal
 
     estate_affiliation = no_affiliation
-    economic_policy = interventionism
+    economic_policy = state_capitalism
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = residency
@@ -37,7 +37,7 @@ party = {
     end_date = 2000.1.1
 
 ideology = conservative estate_affiliation = nobility_church
-    economic_policy = interventionism
+    economic_policy = state_capitalism
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = residency

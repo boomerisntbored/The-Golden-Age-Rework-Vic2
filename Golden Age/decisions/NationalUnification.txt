@@ -185,13 +185,13 @@ political_decisions = {
 			NOT = {
 				tag = FMM
 			}
-			NOT = {
-		    has_country_modifier = hre_mendling
-		}
 		}
 		
 		allow = {
 			war = no
+			NOT = {
+		    has_country_modifier = hre_mendling
+		}
 			ITA = {
 				all_core = {
 					OR = {

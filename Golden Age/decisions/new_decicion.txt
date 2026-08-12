@@ -1605,15 +1605,15 @@ political_decisions = {
                 tag = ARL
                 tag = AUV 					
             }
-            NOT = {
-		    has_country_modifier = hre_mendling
-		}
             NOT = { exists = AQT }
 			
         }
 
         allow = {         
-            war = no          
+            war = no
+            NOT = {
+		    has_country_modifier = hre_mendling
+		}
             AQT = {
                 all_core = {
                     OR = {

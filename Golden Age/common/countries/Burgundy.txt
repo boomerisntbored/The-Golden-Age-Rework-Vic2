@@ -37,7 +37,7 @@ party = {
     end_date = 1870.1.1
 
 ideology = conservative estate_affiliation = nobility_church
-    economic_policy = interventionism
+    economic_policy = state_capitalism
     trade_policy = protectionism
     religious_policy = secularized
     citizenship_policy = full_citizenship
@@ -67,7 +67,7 @@ party = {
     ideology = anarcho_liberal
 
     estate_affiliation = absolutist
-    economic_policy = interventionism
+    economic_policy = state_capitalism
     trade_policy = protectionism
     religious_policy = secularized
     citizenship_policy = full_citizenship

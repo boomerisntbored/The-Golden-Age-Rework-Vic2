@@ -37,7 +37,7 @@ party = {
     ideology = liberal
 
     estate_affiliation = no_affiliation
-    economic_policy = interventionism
+    economic_policy = state_capitalism
     trade_policy = free_trade
     religious_policy = secularized
     citizenship_policy = full_citizenship
