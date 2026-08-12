@@ -1,7 +1,7 @@
 color = { 207  111  64 }
 graphical_culture = FrenchGC
 
-pparty = {
+party = {
     name = "Nobility Faction"
     start_date = 1400.1.1
     end_date = 2000.1.1

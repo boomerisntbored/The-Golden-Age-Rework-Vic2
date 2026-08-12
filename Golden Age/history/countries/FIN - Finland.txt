@@ -82,4 +82,4 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
-oob = "FIN_OOB.txt"
+#oob = "FIN_OOB.txt"

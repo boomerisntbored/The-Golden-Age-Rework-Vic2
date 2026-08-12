@@ -91,4 +91,4 @@ public_meetings=no_meeting
 press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
-oob = "RAM_OOB.txt"
+#oob = "RAM_OOB.txt"

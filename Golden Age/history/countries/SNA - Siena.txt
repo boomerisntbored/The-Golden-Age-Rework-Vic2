@@ -81,4 +81,4 @@ public_meetings=yes_meeting
 press_rights=free_press
 trade_unions=non_socialist
 political_parties=non_secret_ballots
-oob = "SNA_OOB.txt"
+#oob = "SNA_OOB.txt"

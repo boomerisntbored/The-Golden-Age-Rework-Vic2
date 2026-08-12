@@ -3,7 +3,7 @@ leader = {
     name = "Thomas Cochrane"
     date = 1443.1.1
     type = sea
-    personality = defence_0.1
+    personality = defence_1.1
     background = attack_1.1
     prestige = 0.1
 }
@@ -40,7 +40,7 @@ leader = {
     date = 1443.1.1
     type = land
     personality = defence_1.1
-    background = attack_0.1
+    background = attack_1.1
     prestige = 0.2
 }
 

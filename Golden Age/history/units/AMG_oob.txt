@@ -1,8 +1,0 @@
-#Army
-
-army = {
-    name = "Armée de Armgnac"
-    location = 442
-    regiment = { name = "1er Régimen d'Artillerie" type = artillery home = 442 }
-    regiment = { name = "2ème Régimen d'infatarie" type = infantary home = 459 }
-}

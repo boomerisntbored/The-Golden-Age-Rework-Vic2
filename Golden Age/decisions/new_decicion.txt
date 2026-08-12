@@ -771,11 +771,11 @@ political_decisions = {
 			 703 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = HUN
                         owner = {
                             OR = {
                                 in_sphere = THIS
-                                vassal_of = THIS                      
+                                vassal_of = THIS
                             }
                         }
                     }
@@ -784,7 +784,7 @@ political_decisions = {
 			 702 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = HUN
                         owner = {
                             OR = {
                                 in_sphere = THIS
@@ -797,7 +797,7 @@ political_decisions = {
 			 715 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = HUN
                         owner = {
                             OR = {
                                 in_sphere = THIS
@@ -1450,14 +1450,14 @@ political_decisions = {
             AUS_726 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = BRG
                     }
                 }
 	         }
 			 AUS_729 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = BRG
                     }
                 }
 	         }
@@ -1603,7 +1603,6 @@ political_decisions = {
         potential = {
             OR = {                
                 tag = ARL
-                tag = AUV 					
             }
             NOT = { exists = AQT }
 			
@@ -1624,42 +1623,42 @@ political_decisions = {
 			 FRA_461 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = ARL
                     }
                 }
 	         }
 			 FRA_448 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = ARL
                     }
                 }
 	         }
 			 FRA_455 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = ARL
                     }
                 }
 	         }
 			 FRA_458 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = ARL
                     }
                 }
 	         }
 			 FRA_445 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = ARL
                     }
                 }
 	         }
 			 FRA_442 = {
                 all_core = {
                     OR = {
-                        owned_by = THIS
+                        owned_by = ARL
                     }
                 }
 	         }

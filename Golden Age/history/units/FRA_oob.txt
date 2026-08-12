@@ -60,7 +60,7 @@ leader = {
 	name = "Jean-Isidore Harispe"
 	date = 1830.1.1
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_1.1
 	prestige = 0.3
 }
@@ -69,7 +69,7 @@ leader = {
 	name = "Guy-Victor Duperr "
 	date = 1811.1.1
 	type = sea
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_4.1
 	prestige = 0.3
 }
@@ -78,7 +78,7 @@ leader = {
 	name = "Comte de Castelanne"
 	date = 1823.1.1
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_0.1
 	prestige = 0.2
 }
@@ -87,7 +87,7 @@ leader = {
 	name = "Jacques Achard"
 	date = 1823.1.1
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_2.1
 	prestige = 0.2
 }
@@ -96,7 +96,7 @@ leader = {
 	name = "Jean-Baptiste Vaillant"
 	date = 1832.1.1
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_0.1
 	prestige = 0.1
 }
@@ -114,8 +114,8 @@ leader = {
 	name = "Baraguey d'Hilliers"
 	date = 1836.1.1
 	type = land
-	personality = defence_0.1
-	background = attack_0.1
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.1
 }
 

@@ -68,4 +68,4 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=non_secret_ballots
-oob = "CHM_OOB.txt"
+#oob = "CHM_OOB.txt"

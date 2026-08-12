@@ -83,4 +83,4 @@ public_meetings=yes_meeting
 press_rights=free_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
-oob = "VEN_OOB.txt"
+#oob = "VEN_OOB.txt"

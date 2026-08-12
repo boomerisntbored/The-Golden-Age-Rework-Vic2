@@ -58,7 +58,7 @@ leader = {
 	date = "1699.1.1"
 	prestige = 0.500
 	type = land
-	personality = defence_0.3
+	personality = defence_1.3
 	background = attack_1.4
 }
 leader = {
@@ -66,15 +66,15 @@ leader = {
 	date = "1699.1.1"
 	prestige = 0.500
 	type = land
-	personality = defence_0.7
-	background = attack_0.1
+	personality = defence_1.7
+	background = attack_1.1
 }
 leader = {
 	name = "Jozef Potocki"
 	date = "1699.1.1"
 	prestige = 0.500
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_2.3
 }
 

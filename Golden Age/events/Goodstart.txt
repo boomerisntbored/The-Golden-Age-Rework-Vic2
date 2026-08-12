@@ -184,9 +184,6 @@ country_event = {
 			name = polish_spirit
 			duration = 3650
 		}
-		ai_will_do = {
-			factor = 1
-			}
 	}
 	option = {
 		name = "Not Union of Lit"
@@ -200,9 +197,6 @@ country_event = {
 			name = polish_spirit
 			duration = 548
 		}
-		ai_will_do = {
-			factor = 1
-			}
 	}
 }
 country_event = {

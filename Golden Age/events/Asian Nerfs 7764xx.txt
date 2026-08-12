@@ -110,7 +110,7 @@ country_event = {
 			}
 	}
 }
-namespace = custom_events
+#namespace = custom_events
 
 country_event = {
     id = 41243
@@ -119,7 +119,6 @@ country_event = {
     picture = "administration"
 
     trigger = {
-        day = 1
         NOT = { has_country_flag = boost_bureaucracy }
     }
 

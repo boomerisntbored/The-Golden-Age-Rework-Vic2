@@ -4,7 +4,7 @@ leader = {
 	name = "Baldomero Espartero"
 	date = 1443.1.1
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_1.1
 	prestige = 0.1
 }
@@ -13,7 +13,7 @@ leader = {
 	name = "Francisco Serrano"
 	date = 1443.1.1
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_1.1
 	prestige = 0.0
 }
@@ -22,7 +22,7 @@ leader = {
 	name = "Leopoldo O'Donnell"
 	date = 1443.1.1
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_2.1
 	prestige = 0.0
 }
@@ -31,7 +31,7 @@ leader = {
 	name = "Narv ez"
 	date = 1443.1.1
 	type = land
-	personality = defence_0.1
+	personality = defence_1.1
 	background = attack_2.1
 	prestige = 0.0
 }

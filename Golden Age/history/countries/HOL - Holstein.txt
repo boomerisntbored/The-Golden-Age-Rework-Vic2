@@ -82,4 +82,4 @@ public_meetings=no_meeting
 press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
-oob = "HOL_OOB.txt"
+#oob = "HOL_OOB.txt"

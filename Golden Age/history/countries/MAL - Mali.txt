@@ -89,4 +89,4 @@ public_meetings=yes_meeting
 press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
-oob = "MAL_OOB.txt"
+#oob = "MAL_OOB.txt"

@@ -73,4 +73,4 @@ public_meetings=yes_meeting
 press_rights=free_press
 trade_unions=non_socialist
 political_parties=non_secret_ballots
-oob = "RAG_OOB.txt"
+#oob = "RAG_OOB.txt"

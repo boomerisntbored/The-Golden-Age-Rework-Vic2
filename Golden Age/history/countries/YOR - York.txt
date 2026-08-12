@@ -29,4 +29,4 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
-oob = "YOR_OOB.txt"
+#oob = "YOR_OOB.txt"
