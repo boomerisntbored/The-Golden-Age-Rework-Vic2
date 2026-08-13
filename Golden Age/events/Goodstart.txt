@@ -405,3 +405,22 @@ country_event = {
         change_tag = BAV
     }
 }
+country_event = {
+    id = 921234
+    title = "The destruction of the Aquitaine"
+    desc = "The End"
+    picture = hre_prince
+    trigger = {
+		has_country_modifier = hre_refunded
+		tag = AQT
+	}
+
+    option = {
+        name = "The End"
+        AQT = {
+				all_core = { remove_core = AQT}
+			}
+        change_tag = ARL
+        remove_accepted_culture = aquitaine
+    }
+}
