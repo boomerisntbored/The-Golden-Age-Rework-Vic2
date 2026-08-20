@@ -108,6 +108,16 @@ promotion_focus =
 		outliner_show_as_percent = yes
 	}
 
+	promote_capitalists =
+	{
+		capitalists = 0.30 #20% more likeley to become this type
+		icon = 8
+		outliner_show_as_percent = yes
+		limit = {
+			civilized = yes
+		}
+	}
+
 	promote_officers =
 	{
 		officers = 0.30 #20% more likeley to become this type
